@@ -1,0 +1,4886 @@
+[
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000108928426/"
+   },
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000108928427/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/bfb1c5e2520fd598ce33558c0981b64eb982ab1d/"
+   },
+   {
+    "source": "chintai",
+    "url": "https://www.chintai.net/detail/bk-0000007100000000005476890006/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_411817288/"
+   },
+   {
+    "source": "able",
+    "url": "https://www.able.co.jp/detail/Detail.do?bk=000000710547689006&prefkey=kyoto"
+   }
+  ],
+  "building_name": "レジーナフォレスタ",
+  "address": "京都府京都市左京区岩倉幡枝町",
+  "lat": 35.066051,
+  "lon": 135.77182,
+  "distance_km": 4.68,
+  "bike_min": 27,
+  "rent": 90000,
+  "kanrihi": 7500,
+  "shikikin": "0円",
+  "shikikin_months": 0.0,
+  "reikin": "0円",
+  "reikin_months": 0.0,
+  "other_initial": "ほか諸費用: リブネス安心サポート1320円/月 ハウスクリーニング代7.7万円/退去時, 損保 1万円1年, 取引態様：仲介",
+  "layout": "3LDK",
+  "area_m2": 67.38,
+  "floor": 2,
+  "building_floors": 2,
+  "elevator": false,
+  "built_year": 2016,
+  "built_month": 11,
+  "age_years": 10,
+  "structure": "軽量鉄骨",
+  "parking": "敷地内8800円",
+  "parking_status": "onsite",
+  "parking_fee": 8800,
+  "nearest_station": "地下鉄烏丸線/国際会館駅 歩23分",
+  "tier": "A",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "A",
+  "insulation_note": "بناء حديث (معيار الطاقة 2013)؛ عزل جيد عادةً",
+  "notes": "南東向き; 建物種別: アパート; 条件: 二人入居可/子供可; 設備: 追焚, 都市ガス, 浴室乾燥, 最上階, 礼金不要, 敷金不要, 保証人不要, 二人入居, システムキッチン, 駐輪場, バイク置場; 入居: 相談; 総戸数 6戸; 取扱: (株)京都ライフ烏丸五条店; 更新 2026/09/30; 備考: 叡山電鉄鞍馬線八幡前駅徒歩33分/巡回管理/更新料：30000円; 構造(原文): 軽量鉄骨",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T01:58:06+09:00",
+  "nearby_parking": [],
+  "monthly_total": 97500,
+  "monthly_total_with_parking": 106300,
+  "score": 52.9,
+  "rank": 1
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000100448423/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/7afe0fd6114c21e3e45a1fac1890db442c63628b/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_391690094/"
+   }
+  ],
+  "building_name": "吉田中大路町アパート",
+  "address": "京都府京都市左京区吉田中大路町",
+  "lat": 35.02301,
+  "lon": 135.783539,
+  "distance_km": 0.95,
+  "bike_min": 5,
+  "rent": 82000,
+  "kanrihi": 3000,
+  "shikikin": "0円",
+  "shikikin_months": 0.0,
+  "reikin": "0円",
+  "reikin_months": 0.0,
+  "other_initial": "ほか諸費用: 更新料:旧賃料の1ヶ月分/更新時 更新事務手数料:16500円/更新時, 損保 要, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 48.0,
+  "floor": 2,
+  "building_floors": 2,
+  "elevator": false,
+  "built_year": 2002,
+  "built_month": 7,
+  "age_years": 24,
+  "structure": "木造",
+  "parking": "近隣382m19800円",
+  "parking_status": "nearby",
+  "parking_fee": 19800,
+  "nearest_station": "ＪＲ東海道本線/京都駅 バス29分 (バス停)近衛通 歩3分 阪急京都線/烏丸駅",
+  "tier": "A",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "B",
+  "insulation_note": "خشبي ما بعد معيار 1999؛ العزل حسب الشركة المنفّذة",
+  "notes": "東向き; 建物種別: アパート; 条件: 二人入居可/子供可; 設備: 追焚, 都市ガス, 最上階, 礼金不要, 二人入居, 駐輪場, バイク置場, リノベーション; 入居: 即; 総戸数 2戸; 取扱: (株)エリッツ北大路店; 更新 2026/09/30; 構造(原文): 木造",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T01:58:06+09:00",
+  "nearby_parking": [
+   {
+    "name": "京都市左京区吉田中大路町 月極駐車場",
+    "url": "https://p-king.jp/detail/557283",
+    "monthly_fee": null,
+    "fee_text": "お問合せください",
+    "address": "京都府京都市左京区吉田中大路町",
+    "distance_km": 0.01,
+    "walk_min": 1
+   },
+   {
+    "name": "京都市左京区吉田中大路町 月極駐車場",
+    "url": "https://p-king.jp/detail/557281",
+    "monthly_fee": null,
+    "fee_text": "お問合せください",
+    "address": "京都府京都市左京区吉田中大路町",
+    "distance_km": 0.06,
+    "walk_min": 1
+   },
+   {
+    "name": "京都市左京区吉田中大路町 月極駐車場",
+    "url": "https://p-king.jp/detail/655913",
+    "monthly_fee": 17600,
+    "fee_text": "17,600円",
+    "address": "京都府京都市左京区吉田中大路町",
+    "distance_km": 0.07,
+    "walk_min": 1
+   }
+  ],
+  "monthly_total": 85000,
+  "monthly_total_with_parking": null,
+  "score": 52.0,
+  "rank": 2
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000078944233/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_342919570/"
+   }
+  ],
+  "building_name": "アリコス壬生",
+  "address": "京都府京都市中京区壬生森前町",
+  "lat": 35.00256,
+  "lon": 135.737701,
+  "distance_km": 4.01,
+  "bike_min": 23,
+  "rent": 98000,
+  "kanrihi": 8000,
+  "shikikin": "100,000円 (1ヶ月)",
+  "shikikin_months": 1.0,
+  "reikin": "0円",
+  "reikin_months": 0.0,
+  "other_initial": "損保 要, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 54.0,
+  "floor": 2,
+  "building_floors": 10,
+  "elevator": true,
+  "built_year": 2002,
+  "built_month": 3,
+  "age_years": 24,
+  "structure": "RC",
+  "parking": "-",
+  "parking_status": "unknown",
+  "parking_fee": null,
+  "nearest_station": "阪急京都線/西院駅 歩5分",
+  "tier": "A",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "B+",
+  "insulation_note": "ما بعد معيار 1999 (次世代省エネ基準)؛ RC/SRC كتلة حرارية جيدة",
+  "notes": "北向き; 建物種別: マンション; 条件: 二人入居可/子供可; 設備: オートロック, 追焚, 浴室乾燥, 二人入居, 駐輪場; 入居: '26年10月中旬; 総戸数 36戸; 取扱: (株)京都賃貸スタイル西院店; 更新 2026/09/28; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T01:58:06+09:00",
+  "nearby_parking": [
+   {
+    "name": "壬生森前町駐車場",
+    "url": "https://www.at-parking.jp/search/kyoto/kyoto-shi_nakagyo-ku/mibu-morimaecho/312017.html",
+    "monthly_fee": 20953,
+    "fee_text": "20,953円（税込）",
+    "address": "京都府京都市中京区壬生森前町",
+    "distance_km": 0.09,
+    "walk_min": 1
+   },
+   {
+    "name": "京都市中京区壬生森前町　月極駐車場",
+    "url": "https://p-king.jp/detail/247379",
+    "monthly_fee": 20953,
+    "fee_text": "20,953円",
+    "address": "京都府京都市中京区壬生森前町",
+    "distance_km": 0.09,
+    "walk_min": 1
+   },
+   {
+    "name": "京都市中京区壬生森前町　月極駐車場",
+    "url": "https://p-king.jp/detail/205499",
+    "monthly_fee": 16500,
+    "fee_text": "16,500円 ～",
+    "address": "京都府京都市中京区壬生森前町",
+    "distance_km": 0.1,
+    "walk_min": 1
+   }
+  ],
+  "monthly_total": 106000,
+  "monthly_total_with_parking": 126953,
+  "score": 45.7,
+  "rank": 3
+ },
+ {
+  "sources": [
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/b-1208680118817/"
+   },
+   {
+    "source": "chintai",
+    "url": "https://www.chintai.net/detail/bk-0000007070000000001351130005/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_405597406/"
+   },
+   {
+    "source": "able",
+    "url": "https://www.able.co.jp/detail/Detail.do?bk=000000707135113005&prefkey=kyoto"
+   }
+  ],
+  "building_name": "ルネ紫野",
+  "address": "京都府京都市上京区大宮通寺ノ内上る三丁目筋違橋町",
+  "lat": 35.036724,
+  "lon": 135.748572,
+  "distance_km": 2.65,
+  "bike_min": 15,
+  "rent": 85000,
+  "kanrihi": 4000,
+  "shikikin": "5万円",
+  "shikikin_months": 0.59,
+  "reikin": "10万円",
+  "reikin_months": 1.18,
+  "other_initial": "保証会社:加入要 保証会社：全保連 保証会社利用料： 詳細別途ご確認ください, 住宅保険:要, 更新料:新賃料の1ヶ月分, 取引態様:仲介, 契約期間:2年間",
+  "layout": "2LDK",
+  "area_m2": 59.8,
+  "floor": 2,
+  "building_floors": 2,
+  "elevator": false,
+  "built_year": 2005,
+  "built_month": 5,
+  "age_years": 21,
+  "structure": "木造",
+  "parking": "空無 空き要確認",
+  "parking_status": "onsite_full",
+  "parking_fee": 15000,
+  "nearest_station": "京都市営烏丸線 鞍馬口駅 徒歩16分",
+  "tier": "A",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "B",
+  "insulation_note": "خشبي ما بعد معيار 1999؛ العزل حسب الشركة المنفّذة",
+  "notes": "向き:-, 非オートロック, 追焚機能, 非ペット相談, 非南向き, 非駐車場, システムキッチン, 二人入居可, 温水洗浄便座, 追焚機能, 都市ガス, 駐輪場あり, 入居可能:相談, 現況:空家, 構造:木造, 不動産会社:おうちパラダイス−UCHIPARA− 合同会社ベアクル, 種別:賃貸アパート, 間取り詳細:2LDK ( リビングダイニングキッチン 12帖 洋室 6帖 洋室 5帖 ), b-URL: https://www.homes.co.jp/chintai/b-1208680118817/, 同一住戸の他掲載: https://www.homes.co.jp/chintai/room/6d74d357f9900144513b4837e306713a6cd1a6d3/, 同一住戸の他掲載: https://www.homes.co.jp/chintai/room/8a74d0ccdd33e6c1ce8872e8b8736260e01ae46b/, 同一住戸の他掲載: https://www.homes.co.jp/chintai/room/81ff3df19286b20206824ef1f312ab772f401ec7/",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T02:44:41+09:00",
+  "nearby_parking": [
+   {
+    "name": "京都市上京区竪社北半町 月極駐車場",
+    "url": "https://p-king.jp/detail/676625",
+    "monthly_fee": null,
+    "fee_text": "お問合せください",
+    "address": "京都府京都市上京区竪社北半町",
+    "distance_km": 0.04,
+    "walk_min": 1
+   },
+   {
+    "name": "京都市上京区竪社南半町 月極駐車場",
+    "url": "https://p-king.jp/detail/554307",
+    "monthly_fee": null,
+    "fee_text": "お問合せください",
+    "address": "京都府京都市上京区竪社南半町",
+    "distance_km": 0.06,
+    "walk_min": 1
+   },
+   {
+    "name": "京都市上京区竪社南半町 月極駐車場（AKP）",
+    "url": "https://p-king.jp/detail/682148",
+    "monthly_fee": null,
+    "fee_text": "お問合せください",
+    "address": "京都府京都市上京区竪社南半町",
+    "distance_km": 0.07,
+    "walk_min": 1
+   }
+  ],
+  "monthly_total": 89000,
+  "monthly_total_with_parking": null,
+  "score": 45.3,
+  "rank": 4
+ },
+ {
+  "sources": [
+   {
+    "source": "chintai",
+    "url": "https://www.chintai.net/detail/bk-0000007070000000007285550004/"
+   },
+   {
+    "source": "able",
+    "url": "https://www.able.co.jp/detail/Detail.do?bk=000000707728555004&prefkey=kyoto"
+   }
+  ],
+  "building_name": "スクエアコート",
+  "address": "京都府京都市北区紫竹牛若町",
+  "lat": 35.047494,
+  "lon": 135.745056,
+  "distance_km": 3.66,
+  "bike_min": 21,
+  "rent": 67000,
+  "kanrihi": 7000,
+  "shikikin": "0円",
+  "shikikin_months": 0.0,
+  "reikin": "0円",
+  "reikin_months": 0.0,
+  "other_initial": "その他初期費用: 契約時必須(エアコン洗浄:13,200円); 更新料: 30,000円; 保証会社: --; 保険: 損害保険加入要。",
+  "layout": "2LDK",
+  "area_m2": 49.64,
+  "floor": 2,
+  "building_floors": 3,
+  "elevator": false,
+  "built_year": 1991,
+  "built_month": 7,
+  "age_years": 35,
+  "structure": "RC",
+  "parking": "有料駐車場 1台 （22,000円/月） ※駐車場の金額表示は1台分の表示となります。",
+  "parking_status": "onsite",
+  "parking_fee": 22000,
+  "nearest_station": "京都市営地下鉄烏丸線/北大路駅 徒歩28分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "direction: 北 | conditions: 友人同士可 / 外国人可 / 子供可 / 独身可 | contract: 一般契約：1年間 | deal_type: 媒介 | move_in: 即入居 | koshinryo: 30,000円 | 設備: バス・トイレ別, TVモニターホン, 室内洗濯機置き場, 駐車場付き, 角部屋, 独立洗面台, ベランダ・バルコニー | 備考: 仲介手数料家賃の55%。 保証会社加入要(初回、月額総支払額の50%)。 | PR: 角部屋。敷金・礼金なし。TVインターホン付き。バス・トイレ別。独立洗面台が便利。24時間セキュリティーシステム付き。敷地内に公園あり。鉄筋コンクリート造。 | kind: マンション; updated 2026/09/30; geo: chintai map coords",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T01:59:18+09:00",
+  "nearby_parking": [],
+  "monthly_total": 74000,
+  "monthly_total_with_parking": 96000,
+  "score": 45.2,
+  "rank": 5
+ },
+ {
+  "sources": [
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/f5543573dfe98124d2abcb5e515d10286592c939/"
+   },
+   {
+    "source": "chintai",
+    "url": "https://www.chintai.net/detail/bk-0000007100000000005264560003/"
+   },
+   {
+    "source": "able",
+    "url": "https://www.able.co.jp/detail/Detail.do?bk=000000710526456003&prefkey=kyoto"
+   }
+  ],
+  "building_name": "ハッピネス",
+  "address": "京都府京都市左京区岩倉西河原町",
+  "lat": 35.072327,
+  "lon": 135.783401,
+  "distance_km": 5.46,
+  "bike_min": 32,
+  "rent": 95000,
+  "kanrihi": 4000,
+  "shikikin": "10万円",
+  "shikikin_months": 1.05,
+  "reikin": "15万円",
+  "reikin_months": 1.58,
+  "other_initial": "保証会社:加入要 保証会社：全保連 保証会社利用料：初回：月額賃料等の50%、更新時：1.3万円/1年, 住宅保険:要, その他費用:室内清掃費用：44,000円、入居者サポート：16,500円、口座振替手数料：330円、書類代：11,000円, 取引態様:仲介, 契約期間:2年間",
+  "layout": "2LDK",
+  "area_m2": 64.05,
+  "floor": 2,
+  "building_floors": 2,
+  "elevator": false,
+  "built_year": 2015,
+  "built_month": 9,
+  "age_years": 11,
+  "structure": "軽量鉄骨",
+  "parking": "空有 8,800円(税込)",
+  "parking_status": "onsite",
+  "parking_fee": 8800,
+  "nearest_station": "叡山電鉄鞍馬線 木野駅 徒歩8分",
+  "tier": "A",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "A",
+  "insulation_note": "بناء حديث (معيار الطاقة 2013)؛ عزل جيد عادةً",
+  "notes": "向き:南, 非オートロック, 追焚機能, 非ペット相談, 南向き, TVモニタ付インターホン, インターネット使用料無料, ウォークインクローゼット, カウンターキッチン, システムキッチン, バイク置き場あり, 二人入居可, 即入居可, 浴室乾燥機, 温水洗浄便座, 追焚機能, 都市ガス, 防犯カメラ, 駐輪場あり, 入居可能:即時, 現況:空家, 総戸数:6戸, 構造:軽量鉄骨造, 不動産会社:株式会社京都ライフ 北山店, 種別:賃貸アパート, 間取り詳細:2LDK ( 洋室 7.5帖(2階) 洋室 6.3帖(2階) リビングダイニングキッチン 12.2帖(2階) ), 同一住戸の他掲載: https://www.homes.co.jp/chintai/room/4c596e7964ffc43812ccec5aa5a0d0c1a5ad027d/ https://www.homes.co.jp/chintai/room/3148b650ccca9270a2a57415988ed9a8ba522926/, b-URL: https://www.homes.co.jp/chintai/b-1198090252323/",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T02:44:41+09:00",
+  "nearby_parking": [],
+  "monthly_total": 99000,
+  "monthly_total_with_parking": 107800,
+  "score": 44.8,
+  "rank": 6
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000107150936/"
+   },
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000107223314/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/f393856721f34047e630ca4272c87f73a888b915/"
+   },
+   {
+    "source": "chintai",
+    "url": "https://www.chintai.net/detail/bk-0000007100000000007084070002/"
+   },
+   {
+    "source": "jkosha",
+    "url": "https://suumo.jp/chintai/bc_100506095531/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_407129448/"
+   },
+   {
+    "source": "able",
+    "url": "https://www.able.co.jp/detail/Detail.do?bk=000000710708407002&prefkey=kyoto"
+   }
+  ],
+  "building_name": "ソフィスタ洛北 203号室",
+  "address": "京都府京都市左京区岩倉三宅町",
+  "lat": 35.068069,
+  "lon": 135.79126,
+  "distance_km": 5.17,
+  "bike_min": 30,
+  "rent": 97000,
+  "kanrihi": 12000,
+  "shikikin": "97,000円 (1ヶ月)",
+  "shikikin_months": 1.0,
+  "reikin": "97,000円 (1ヶ月)",
+  "reikin_months": 1.0,
+  "other_initial": "ほか諸費用: 敷き引き6.6万円/退去時, 損保 要, 取引態様：仲介",
+  "layout": "3LDK",
+  "area_m2": 65.36,
+  "floor": 2,
+  "building_floors": 4,
+  "elevator": true,
+  "built_year": 2003,
+  "built_month": 5,
+  "age_years": 23,
+  "structure": "RC",
+  "parking": "-",
+  "parking_status": "unknown",
+  "parking_fee": 8800,
+  "nearest_station": "叡山電鉄鞍馬線/八幡前駅 歩5分",
+  "tier": "A",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "B+",
+  "insulation_note": "ما بعد معيار 1999 (次世代省エネ基準)؛ RC/SRC كتلة حرارية جيدة",
+  "notes": "南西向き; 建物種別: マンション; 条件: 二人入居可/子供可; 設備: 都市ガス, 保証人不要, 二人入居, 駐輪場; 入居: 即; 総戸数 12戸; 取扱: (株)京都ライフ伏見桃山店; 更新 2026/09/30; 備考: 叡山電鉄叡山本線三宅八幡駅徒歩5分/巡回管理/更新料：30000円; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T01:58:06+09:00",
+  "nearby_parking": [
+   {
+    "name": "京都市左京区岩倉三宅町 月極駐車場",
+    "url": "https://p-king.jp/detail/660856",
+    "monthly_fee": 8000,
+    "fee_text": "8,000円",
+    "address": "京都府京都市左京区岩倉三宅町",
+    "distance_km": 0.1,
+    "walk_min": 1
+   },
+   {
+    "name": "サンライフ葵",
+    "url": "https://www.park-direct.jp/parkinglot/PK000007194",
+    "monthly_fee": 8776,
+    "fee_text": "月額使用料 8,776円（税込・保証/管理料込）／うち賃料 8,000円",
+    "address": "京都府京都市左京区岩倉三宅町194-1",
+    "distance_km": 0.1,
+    "walk_min": 1
+   },
+   {
+    "name": "京都市左京区岩倉三宅町 月極駐車場",
+    "url": "https://p-king.jp/detail/660545",
+    "monthly_fee": 8800,
+    "fee_text": "8,800円",
+    "address": "京都府京都市左京区岩倉三宅町",
+    "distance_km": 0.12,
+    "walk_min": 2
+   }
+  ],
+  "monthly_total": 109000,
+  "monthly_total_with_parking": 117000,
+  "score": 44.0,
+  "rank": 7
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000072304485/"
+   },
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000072304486/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/21a9fb987bb5eda14d24e90c320269663114d3bf/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_318671090/"
+   }
+  ],
+  "building_name": "ＶＥＧＡ９９９ 401号室",
+  "address": "京都府京都市上京区猪熊通寺之内下る東西町",
+  "lat": 35.02417,
+  "lon": 135.750565,
+  "distance_km": 2.06,
+  "bike_min": 12,
+  "rent": 100000,
+  "kanrihi": 5000,
+  "shikikin": "0円",
+  "shikikin_months": 0.0,
+  "reikin": "200,000円 (2ヶ月)",
+  "reikin_months": 2.0,
+  "other_initial": "ほか諸費用: ペット飼育料（小型室内犬）3000円/月 ハウスクリーニング代3.96万円/退去時, 損保 2.4万円2年, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 61.0,
+  "floor": 4,
+  "building_floors": 5,
+  "elevator": true,
+  "built_year": 1991,
+  "built_month": 12,
+  "age_years": 35,
+  "structure": "RC",
+  "parking": "-",
+  "parking_status": "unknown",
+  "parking_fee": null,
+  "nearest_station": "地下鉄烏丸線/今出川駅 歩15分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "南向き; 建物種別: マンション; 条件: 二人入居可/子供可/ペット相談; 設備: オートロック, 都市ガス, ペット, 二人入居, システムキッチン, 駐輪場; 入居: 即; 総戸数 12戸; 取扱: (株)京都ライフ西院店; 更新 2026/09/30; 備考: 京福電鉄北野線北野白梅町駅徒歩28分/常駐管理/更新料：無 更新手数料：11000円; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T01:58:06+09:00",
+  "nearby_parking": [
+   {
+    "name": "京都市上京区榎町 月極駐車場",
+    "url": "https://p-king.jp/detail/553840",
+    "monthly_fee": null,
+    "fee_text": "お問合せください",
+    "address": "京都府京都市上京区榎町",
+    "distance_km": 0.1,
+    "walk_min": 1
+   },
+   {
+    "name": "京都市上京区北小大門町 月極駐車場",
+    "url": "https://p-king.jp/detail/553842",
+    "monthly_fee": null,
+    "fee_text": "お問合せください",
+    "address": "京都府京都市上京区北小大門町",
+    "distance_km": 0.11,
+    "walk_min": 1
+   },
+   {
+    "name": "京都市上京区菊屋町 月極駐車場",
+    "url": "https://p-king.jp/detail/41418",
+    "monthly_fee": 16000,
+    "fee_text": "16,000円",
+    "address": "京都府京都市上京区菊屋町",
+    "distance_km": 0.12,
+    "walk_min": 2
+   }
+  ],
+  "monthly_total": 105000,
+  "monthly_total_with_parking": null,
+  "score": 43.7,
+  "rank": 8
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000103226311/"
+   },
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000103565209/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/a047b7bde89664668c2ff70bad760e6b24b68823/"
+   },
+   {
+    "source": "chintai",
+    "url": "https://www.chintai.net/detail/bk-0000007070000000007285550002/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_398245944/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_398383412/"
+   },
+   {
+    "source": "able",
+    "url": "https://www.able.co.jp/detail/Detail.do?bk=000000707728555002&prefkey=kyoto"
+   }
+  ],
+  "building_name": "スクエアコート",
+  "address": "京都府京都市北区紫竹牛若町",
+  "lat": 35.048241,
+  "lon": 135.744995,
+  "distance_km": 3.72,
+  "bike_min": 21,
+  "rent": 70000,
+  "kanrihi": 7000,
+  "shikikin": "0円",
+  "shikikin_months": 0.0,
+  "reikin": "0円",
+  "reikin_months": 0.0,
+  "other_initial": "ほか諸費用: 損害保険料800円/月 口座振替手数料250円/月, 損保 要, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 49.64,
+  "floor": 3,
+  "building_floors": 4,
+  "elevator": false,
+  "built_year": 1991,
+  "built_month": 8,
+  "age_years": 35,
+  "structure": "RC",
+  "parking": "敷地内22000円",
+  "parking_status": "onsite",
+  "parking_fee": 22000,
+  "nearest_station": "地下鉄烏丸線/北大路駅 歩18分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "南向き; 建物種別: マンション; 条件: 二人入居可/子供可; 設備: 都市ガス, 礼金不要, 敷金不要, 二人入居, 駐輪場; 入居: 即; 総戸数 7戸; 取扱: アパマンショップ北大路店ウインズリンク(株); 更新 2026/09/30; 備考: 京都市バス大宮上野駅徒歩2分/巡回管理/更新料：30000円 更新手数料：11000円; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T01:58:06+09:00",
+  "nearby_parking": [],
+  "monthly_total": 77000,
+  "monthly_total_with_parking": 99000,
+  "score": 43.4,
+  "rank": 9
+ },
+ {
+  "sources": [
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/8444b06498c7550a5a2f71c36a38e08a944df3e4/"
+   }
+  ],
+  "building_name": "ルネ紫野",
+  "address": "京都府京都市上京区大宮通寺之内上る３丁目筋違橋町",
+  "lat": 35.037308,
+  "lon": 135.748886,
+  "distance_km": 2.66,
+  "bike_min": 15,
+  "rent": 85000,
+  "kanrihi": 4000,
+  "shikikin": "5万円",
+  "shikikin_months": 0.59,
+  "reikin": "10万円",
+  "reikin_months": 1.18,
+  "other_initial": "保証会社:加入要 保証会社：全保連 保証会社利用料：初回総賃料等30％～毎年￥10、000, 住宅保険:要, 更新料:新賃料の1ヶ月分, その他費用:書類代：11,000円, 取引態様:仲介, 契約期間:2年間",
+  "layout": "2LDK",
+  "area_m2": 56.7,
+  "floor": 2,
+  "building_floors": 2,
+  "elevator": false,
+  "built_year": 2005,
+  "built_month": 5,
+  "age_years": 21,
+  "structure": "木造",
+  "parking": "無",
+  "parking_status": "none",
+  "parking_fee": null,
+  "nearest_station": "京都市営烏丸線 鞍馬口駅 徒歩15分",
+  "tier": "A",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "B",
+  "insulation_note": "خشبي ما بعد معيار 1999؛ العزل حسب الشركة المنفّذة",
+  "notes": "向き:東, 非オートロック, 追焚機能, 非ペット相談, 非南向き, 非駐車場, インターネット対応, システムキッチン, バイク置き場あり, 二人入居可, 温水洗浄便座, 追焚機能, 都市ガス, 駐輪場あり, 入居可能:相談, 現況:空家, 総戸数:6戸, 構造:木造, 不動産会社:株式会社ＡＬＩＶＥ 賃貸住宅サービス FC四条烏丸店, 種別:賃貸アパート, 間取り詳細:2LDK ( 洋室 5帖 洋室 6帖 リビングダイニングキッチン 12帖 ), geocoded by 町名 fallback (京都府京都市上京区筋違橋町), b-URL: https://www.homes.co.jp/chintai/b-1040660337624/",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T02:44:41+09:00",
+  "nearby_parking": [
+   {
+    "name": "京都市上京区筋違橋町 月極駐車場",
+    "url": "https://p-king.jp/detail/554220",
+    "monthly_fee": null,
+    "fee_text": "お問合せください",
+    "address": "京都府京都市上京区筋違橋町",
+    "distance_km": 0.05,
+    "walk_min": 1
+   },
+   {
+    "name": "京都市上京区竪社北半町 月極駐車場",
+    "url": "https://p-king.jp/detail/676625",
+    "monthly_fee": null,
+    "fee_text": "お問合せください",
+    "address": "京都府京都市上京区竪社北半町",
+    "distance_km": 0.08,
+    "walk_min": 1
+   },
+   {
+    "name": "PD西若宮南半町駐車場",
+    "url": "https://www.monthly-p.com/detail/PD1301/",
+    "monthly_fee": 9900,
+    "fee_text": "9,900円",
+    "address": "京都府京都市上京区大宮通西裏今宮御旅所下る西若宮南半町178番2",
+    "distance_km": 0.09,
+    "walk_min": 1
+   }
+  ],
+  "monthly_total": 89000,
+  "monthly_total_with_parking": null,
+  "score": 43.0,
+  "rank": 10
+ },
+ {
+  "sources": [
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_343401060/"
+   }
+  ],
+  "building_name": "京福電鉄北野線北野白梅町駅まで徒歩16分",
+  "address": "京都府京都市北区衣笠街道町",
+  "lat": 35.038162,
+  "lon": 135.733963,
+  "distance_km": 3.9,
+  "bike_min": 22,
+  "rent": 95500,
+  "kanrihi": 10000,
+  "shikikin": "9.55万円(-)",
+  "shikikin_months": 1.0,
+  "reikin": "9.55万円",
+  "reikin_months": 1.0,
+  "other_initial": "仲介手数料: 0.44ヶ月; 保証会社: 日本セーフティー利用必 初回月額賃料等の25％:更新時10000円/1年; 住宅保険: 20,000円/2年; 契約期間: 普通借家 2年",
+  "layout": "3LDK",
+  "area_m2": 65.02,
+  "floor": 3,
+  "building_floors": 5,
+  "elevator": true,
+  "built_year": 1999,
+  "built_month": 12,
+  "age_years": 27,
+  "structure": "RC",
+  "parking": "敷地内15400円/平置駐",
+  "parking_status": "onsite",
+  "parking_fee": 15400,
+  "nearest_station": "京福電鉄北野線 北野白梅町駅 徒歩16分 京福電鉄北野線 等持院・立命館大学衣笠キャンパス前駅 徒歩23分 京福電鉄北野線 龍安寺駅 徒歩26分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "キッチン: ガスコンロ対応 / バス・トイレ: バス・トイレ別、追い焚き、独立洗面台 / 収納: クローゼット、シューズボックス / インターネット・TV: 光回線、BSアンテナ  / 室内設備: 都市ガス、室内洗濯機置場、フローリング、バルコニー  / 共用部: エレベーター  / セキュリティ: オートロック、TVモニタ付インターホン、防犯カメラ、24時間緊急対応 / 駐車場・駐輪場: 駐車場あり、敷地内駐車場、駐輪場あり  / その他: ２階以上、日当たり良好、閑静な住宅街",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T02:43:44+09:00",
+  "nearby_parking": [],
+  "monthly_total": 105500,
+  "monthly_total_with_parking": 120900,
+  "score": 42.5,
+  "rank": 11
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000109052370/"
+   },
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000109062061/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/cf39796dd1798c424b915febcadf5c48ee575f09/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_411253706/"
+   }
+  ],
+  "building_name": "パレス西賀茂",
+  "address": "京都府京都市北区西賀茂大栗町",
+  "lat": 35.061485,
+  "lon": 135.745331,
+  "distance_km": 4.88,
+  "bike_min": 28,
+  "rent": 80000,
+  "kanrihi": 8000,
+  "shikikin": "0円",
+  "shikikin_months": 0.0,
+  "reikin": "0円",
+  "reikin_months": 0.0,
+  "other_initial": "ほか諸費用: 更新事務手数料:22000円/更新時, 損保 要, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 56.7,
+  "floor": 3,
+  "building_floors": 5,
+  "elevator": true,
+  "built_year": 1991,
+  "built_month": 10,
+  "age_years": 35,
+  "structure": "RC",
+  "parking": "敷地内11000円",
+  "parking_status": "onsite",
+  "parking_fee": 11000,
+  "nearest_station": "地下鉄烏丸線/北大路駅 バス13分 (バス停)神光院前 歩1分 京阪鴨東線/出町",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "南向き; 建物種別: マンション; 条件: 二人入居可/子供可/ルームシェア相談; 設備: オートロック, 都市ガス, 礼金不要, 二人入居, 駐輪場, バイク置場; 入居: 相談; 総戸数 17戸; 取扱: (株)エリッツ西京極店; 更新 2026/09/30; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T01:58:06+09:00",
+  "nearby_parking": [],
+  "monthly_total": 88000,
+  "monthly_total_with_parking": 99000,
+  "score": 42.4,
+  "rank": 12
+ },
+ {
+  "sources": [
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/dba4662cd76a061445bc9d333f556d531f8bd83c/"
+   }
+  ],
+  "building_name": "ルネ紫野",
+  "address": "京都府京都市上京区大宮通寺之内上る３丁目筋違橋町",
+  "lat": 35.037308,
+  "lon": 135.748886,
+  "distance_km": 2.66,
+  "bike_min": 15,
+  "rent": 85000,
+  "kanrihi": 4000,
+  "shikikin": "5万円",
+  "shikikin_months": 0.59,
+  "reikin": "10万円",
+  "reikin_months": 1.18,
+  "other_initial": "保証会社:加入要 保証会社利用料：44、500円, 住宅保険:要, 更新料:新賃料の1ヶ月分, その他費用:安心入居サポート（初回）：19,800円、その他（初回）：12,100円, 取引態様:仲介, 契約期間:2年間",
+  "layout": "2LDK",
+  "area_m2": 55.0,
+  "floor": 2,
+  "building_floors": 2,
+  "elevator": false,
+  "built_year": 2005,
+  "built_month": 5,
+  "age_years": 21,
+  "structure": "木造",
+  "parking": "近隣 18,700円(税込) 物件からの距離399m",
+  "parking_status": "nearby",
+  "parking_fee": 18700,
+  "nearest_station": "京都市営烏丸線 鞍馬口駅 徒歩15分",
+  "tier": "A",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "B",
+  "insulation_note": "خشبي ما بعد معيار 1999؛ العزل حسب الشركة المنفّذة",
+  "notes": "向き:東, 非オートロック, 追焚機能, 非ペット相談, 非南向き, 非駐車場, システムキッチン, 二人入居可, 即入居可, 浴室乾燥機, 温水洗浄便座, 追焚機能, 都市ガス, 駐輪場あり, 入居可能:即時, 現況:空家, 総戸数:6戸, 構造:木造, 不動産会社:株式会社エリッツ 今出川店, 種別:賃貸アパート, 間取り詳細:2LDK ( 洋室 6帖 和室 5畳 リビングダイニングキッチン 12帖 ), geocoded by 町名 fallback (京都府京都市上京区筋違橋町), 同一住戸の他掲載: https://www.homes.co.jp/chintai/room/3a224a095a4c7039159d6c9bd7efcb85395632ac/ https://www.homes.co.jp/chintai/room/73ba218b51df547be38cb41966ca405ce74ef169/ https://www.homes.co.jp/chintai/b-1112030289723/, b-URL: https://www.homes.co.jp/chintai/b-1105940349385/",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T02:44:41+09:00",
+  "nearby_parking": [
+   {
+    "name": "京都市上京区筋違橋町 月極駐車場",
+    "url": "https://p-king.jp/detail/554220",
+    "monthly_fee": null,
+    "fee_text": "お問合せください",
+    "address": "京都府京都市上京区筋違橋町",
+    "distance_km": 0.05,
+    "walk_min": 1
+   },
+   {
+    "name": "京都市上京区竪社北半町 月極駐車場",
+    "url": "https://p-king.jp/detail/676625",
+    "monthly_fee": null,
+    "fee_text": "お問合せください",
+    "address": "京都府京都市上京区竪社北半町",
+    "distance_km": 0.08,
+    "walk_min": 1
+   },
+   {
+    "name": "PD西若宮南半町駐車場",
+    "url": "https://www.monthly-p.com/detail/PD1301/",
+    "monthly_fee": 9900,
+    "fee_text": "9,900円",
+    "address": "京都府京都市上京区大宮通西裏今宮御旅所下る西若宮南半町178番2",
+    "distance_km": 0.09,
+    "walk_min": 1
+   }
+  ],
+  "monthly_total": 89000,
+  "monthly_total_with_parking": null,
+  "score": 41.7,
+  "rank": 13
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000110155169/"
+   }
+  ],
+  "building_name": "第二高原マンション",
+  "address": "京都府京都市左京区田中西高原町",
+  "lat": 35.037037,
+  "lon": 135.785431,
+  "distance_km": 1.83,
+  "bike_min": 11,
+  "rent": 75000,
+  "kanrihi": 5000,
+  "shikikin": "75,000円 (1ヶ月)",
+  "shikikin_months": 1.0,
+  "reikin": "75,000円 (1ヶ月)",
+  "reikin_months": 1.0,
+  "other_initial": "損保 2.4万円2年, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 50.0,
+  "floor": 3,
+  "building_floors": 5,
+  "elevator": false,
+  "built_year": 1998,
+  "built_month": 4,
+  "age_years": 28,
+  "structure": "RC",
+  "parking": "-",
+  "parking_status": "unknown",
+  "parking_fee": null,
+  "nearest_station": "叡山電鉄叡山本線/茶山・京都芸術大学駅 歩2分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "西向き; 建物種別: マンション; 条件: 二人入居可/子供可; 設備: 都市ガス, 二人入居, 駐輪場, バイク置場; 入居: '27年2月上旬; 総戸数 20戸; 取扱: ミニミニFC出町柳店(株)永都; 更新 2026/10/01; 備考: 叡山電鉄修学院駅徒歩22分/コジマ×ビックカメラ高野店まで734m/京都大学正門まで1912m/この広さでこの価格は魅力。家賃抑え目のオススメファミリー物件。ゆったり広さで生活便利なちょうど良いマンション。; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T01:58:06+09:00",
+  "nearby_parking": [
+   {
+    "name": "京都市左京区田中西高原町 月極駐車場",
+    "url": "https://p-king.jp/detail/559152",
+    "monthly_fee": 11000,
+    "fee_text": "11,000円",
+    "address": "京都府京都市左京区田中西高原町",
+    "distance_km": 0.05,
+    "walk_min": 1
+   },
+   {
+    "name": "京都市左京区田中西高原町 月極駐車場（AKP）",
+    "url": "https://p-king.jp/detail/580580",
+    "monthly_fee": null,
+    "fee_text": "お問合せください",
+    "address": "京都府京都市左京区田中西高原町",
+    "distance_km": 0.06,
+    "walk_min": 1
+   },
+   {
+    "name": "京都市左京区田中高原町 月極駐車場",
+    "url": "https://p-king.jp/detail/657020",
+    "monthly_fee": 14300,
+    "fee_text": "14,300円",
+    "address": "京都府京都市左京区田中高原町",
+    "distance_km": 0.07,
+    "walk_min": 1
+   }
+  ],
+  "monthly_total": 80000,
+  "monthly_total_with_parking": 91000,
+  "score": 41.6,
+  "rank": 14
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000094088666/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/35d8c88be4dbc00a50fe34a4e4aef9c610b3638d/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_376888904/"
+   }
+  ],
+  "building_name": "ヴィレッヂ西賀茂",
+  "address": "京都府京都市北区大宮中ノ社町",
+  "lat": 35.058964,
+  "lon": 135.74559,
+  "distance_km": 4.63,
+  "bike_min": 27,
+  "rent": 75000,
+  "kanrihi": 5000,
+  "shikikin": "75,000円 (1ヶ月)",
+  "shikikin_months": 1.0,
+  "reikin": "75,000円 (1ヶ月)",
+  "reikin_months": 1.0,
+  "other_initial": "ほか諸費用: 入居者サポート990円/月 ハウスクリーニング代4.84万円/退去時, 損保 2万円2年, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 55.28,
+  "floor": 2,
+  "building_floors": 4,
+  "elevator": true,
+  "built_year": 1994,
+  "built_month": 5,
+  "age_years": 32,
+  "structure": "RC",
+  "parking": "敷地内13200円",
+  "parking_status": "onsite",
+  "parking_fee": 13200,
+  "nearest_station": "地下鉄烏丸線/北大路駅 歩20分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "南向き; 建物種別: マンション; 条件: 二人入居可; 設備: オートロック, 都市ガス, 二人入居, 駐輪場; 入居: '26年10月中旬; 総戸数 15戸; 取扱: (株)京都ライフ京田辺店; 更新 2026/09/30; 備考: 京都市バス大宮田尻町駅徒歩3分/巡回管理/更新料：旧家賃1ヶ月 更新手数料：16500円; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T01:58:06+09:00",
+  "nearby_parking": [],
+  "monthly_total": 80000,
+  "monthly_total_with_parking": 93200,
+  "score": 41.6,
+  "rank": 15
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000109612605/"
+   },
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000109612606/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/d6481a15a7a8a72101122c83cdb49cf5a9740785/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_412697402/"
+   },
+   {
+    "source": "eheya",
+    "url": "https://www.eheya.net/detail/300000832009474000001/"
+   }
+  ],
+  "building_name": "シャーメゾン舟山",
+  "address": "京都府京都市北区西賀茂南今原町",
+  "lat": 35.063137,
+  "lon": 135.740662,
+  "distance_km": 5.27,
+  "bike_min": 30,
+  "rent": 96000,
+  "kanrihi": 5000,
+  "shikikin": "0円",
+  "shikikin_months": 0.0,
+  "reikin": "170,000円 (1.8ヶ月)",
+  "reikin_months": 1.8,
+  "other_initial": "損保 2.63万円2年, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 57.47,
+  "floor": 3,
+  "building_floors": 3,
+  "elevator": false,
+  "built_year": 2016,
+  "built_month": 8,
+  "age_years": 10,
+  "structure": "鉄骨",
+  "parking": "敷地内11000円",
+  "parking_status": "onsite",
+  "parking_fee": 11000,
+  "nearest_station": "地下鉄烏丸線/北大路駅 歩34分",
+  "tier": "A",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "A",
+  "insulation_note": "بناء حديث (معيار الطاقة 2013)؛ عزل جيد عادةً",
+  "notes": "西向き; 建物種別: マンション; 条件: 二人入居可/子供可; 設備: オートロック, 追焚, 都市ガス, 浴室乾燥, 最上階, 敷金不要, 二人入居, システムキッチン, 駐輪場; 入居: '26年12月上旬; 総戸数 9戸; 取扱: (株)京都ライフ北山店; 更新 2026/09/30; 備考: 叡山電鉄鞍馬線二軒茶屋駅徒歩35分/巡回管理/更新料：新家賃1ヶ月; 構造(原文): 鉄骨",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T01:58:06+09:00",
+  "nearby_parking": [],
+  "monthly_total": 101000,
+  "monthly_total_with_parking": 112000,
+  "score": 39.4,
+  "rank": 16
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000109030632/"
+   },
+   {
+    "source": "chintai",
+    "url": "https://www.chintai.net/detail/bk-2000000180000000000020610008/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_411437308/"
+   }
+  ],
+  "building_name": "ルモール北",
+  "address": "京都府京都市北区上賀茂東上之段町",
+  "lat": 35.068935,
+  "lon": 135.750717,
+  "distance_km": 5.4,
+  "bike_min": 31,
+  "rent": 67000,
+  "kanrihi": 5000,
+  "shikikin": "0円",
+  "shikikin_months": 0.0,
+  "reikin": "134,000円 (2ヶ月)",
+  "reikin_months": 2.0,
+  "other_initial": "ほか諸費用: ハウスクリーニング代3.85万円, 損保 2万円2年, 取引態様：代理",
+  "layout": "2LDK",
+  "area_m2": 56.05,
+  "floor": 2,
+  "building_floors": 3,
+  "elevator": false,
+  "built_year": 1994,
+  "built_month": 11,
+  "age_years": 32,
+  "structure": "RC",
+  "parking": "敷地内8800円",
+  "parking_status": "onsite",
+  "parking_fee": 8800,
+  "nearest_station": "叡山電鉄鞍馬線/二軒茶屋駅 歩26分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "東向き; 建物種別: マンション; 条件: 二人入居可/子供可/ルームシェア相談; 設備: 都市ガス, 敷金不要, 二人入居, システムキッチン, 駐輪場, リフォーム; 入居: '26年11月中旬; 総戸数 -; 取扱: (有)ハウジングリィビィ; 更新 2026/09/26; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T01:58:06+09:00",
+  "nearby_parking": [],
+  "monthly_total": 72000,
+  "monthly_total_with_parking": 80800,
+  "score": 39.3,
+  "rank": 17
+ },
+ {
+  "sources": [
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_327795766/"
+   }
+  ],
+  "building_name": "アルカサール葉山",
+  "address": "京都府京都市左京区一乗寺東浦町",
+  "lat": 35.047596,
+  "lon": 135.796814,
+  "distance_km": 3.4,
+  "bike_min": 20,
+  "rent": 100000,
+  "kanrihi": 0,
+  "shikikin": "10万円(-)",
+  "shikikin_months": 1.0,
+  "reikin": "10万円",
+  "reikin_months": 1.0,
+  "other_initial": "仲介手数料: 0.55ヶ月; 保証会社: 日本セーフティー利用必 条件等は要確認; 住宅保険: 25,800円/2年; 契約期間: 普通借家 2年",
+  "layout": "3LDK",
+  "area_m2": 64.0,
+  "floor": 3,
+  "building_floors": 3,
+  "elevator": false,
+  "built_year": 1994,
+  "built_month": 3,
+  "age_years": 32,
+  "structure": "RC",
+  "parking": "付無料",
+  "parking_status": "onsite",
+  "parking_fee": 0,
+  "nearest_station": "叡山電鉄叡山本線 修学院駅 徒歩16分 叡山電鉄叡山本線 一乗寺駅 徒歩17分 叡山電鉄叡山本線 宝ケ池駅 徒歩24分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "キッチン: ガスコンロ対応、コンロ2口以上、システムキッチン / バス・トイレ: バス・トイレ別 / 冷暖房: エアコン / 収納: シューズボックス / インターネット・TV: インターネット利用料無料  / 室内設備: 都市ガス、室内洗濯機置場、フローリング、バルコニー、バルコニー2面以上  / 共用部: -  / セキュリティ: オートロック、TVモニタ付インターホン / 駐車場・駐輪場: 駐車場あり、敷地内駐車場、バイク置き場、駐輪場あり  / その他: 南向き、角部屋、２階以上、最上階、閑静な住宅街",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T02:43:44+09:00",
+  "nearby_parking": [],
+  "monthly_total": 100000,
+  "monthly_total_with_parking": null,
+  "score": 39.2,
+  "rank": 18
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000021571521/"
+   },
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000021513774/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/5a98b0f42abd4579a6c97b2ad10b084d7875e853/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_243913751/"
+   }
+  ],
+  "building_name": "フェアリージャム 202号室",
+  "address": "京都府京都市中京区西ノ京馬代町",
+  "lat": 35.019905,
+  "lon": 135.726212,
+  "distance_km": 4.3,
+  "bike_min": 25,
+  "rent": 100000,
+  "kanrihi": 10000,
+  "shikikin": "0円",
+  "shikikin_months": 0.0,
+  "reikin": "0円",
+  "reikin_months": 0.0,
+  "other_initial": "保証金 15万円, 敷引・償却 15万円, ほか諸費用: ハウスクリーニング代6.05万円/退去時, 損保 2.2万円2年, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 56.4,
+  "floor": 2,
+  "building_floors": 6,
+  "elevator": true,
+  "built_year": 1996,
+  "built_month": 11,
+  "age_years": 30,
+  "structure": "RC",
+  "parking": "敷地内16500円",
+  "parking_status": "onsite",
+  "parking_fee": 16500,
+  "nearest_station": "ＪＲ山陰本線/円町駅 歩7分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "南向き; 建物種別: マンション; 条件: 二人入居可/子供可; 設備: オートロック, 都市ガス, 礼金不要, 敷金不要, 保証人不要, 二人入居, 駐輪場, バイク置場; 入居: 即; 総戸数 35戸; 取扱: (株)京都ライフ今出川店; 更新 2026/09/30; 備考: ＪＲ山陰本線二条駅徒歩22分/巡回管理/駐車料金：16500円～18700円 更新料：無 更新手数料：22000円; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T01:58:06+09:00",
+  "nearby_parking": [],
+  "monthly_total": 110000,
+  "monthly_total_with_parking": 126500,
+  "score": 39.0,
+  "rank": 19
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000063739287/"
+   },
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000109345791/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/3255f35473b93662cf51e232e13709ec1111d74d/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_412142550/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_308197443/"
+   }
+  ],
+  "building_name": "グランメゾン上賀茂",
+  "address": "京都府京都市北区上賀茂東上之段町",
+  "lat": 35.068935,
+  "lon": 135.750717,
+  "distance_km": 5.4,
+  "bike_min": 31,
+  "rent": 70000,
+  "kanrihi": 5000,
+  "shikikin": "0円",
+  "shikikin_months": 0.0,
+  "reikin": "0円",
+  "reikin_months": 0.0,
+  "other_initial": "ほか諸費用: 損害保険料1090円/月, 損保 要, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 50.86,
+  "floor": 2,
+  "building_floors": 3,
+  "elevator": false,
+  "built_year": 1993,
+  "built_month": 1,
+  "age_years": 33,
+  "structure": "RC",
+  "parking": "敷地内5000円",
+  "parking_status": "onsite",
+  "parking_fee": 5000,
+  "nearest_station": "地下鉄烏丸線/北大路駅 歩39分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "東向き; 建物種別: マンション; 条件: 二人入居可/子供可/ルームシェア相談; 設備: 都市ガス, 礼金不要, 敷金不要, 二人入居, 駐輪場, バイク置場; 入居: '26年10月中旬; 総戸数 15戸; 取扱: (株)京都ライフ丹波橋店; 更新 2026/09/30; 備考: 更新料：無; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T01:58:06+09:00",
+  "nearby_parking": [],
+  "monthly_total": 75000,
+  "monthly_total_with_parking": 80000,
+  "score": 38.9,
+  "rank": 20
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000110141734/"
+   },
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000110141735/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/e248adfae7c94be910b1b14014311b84b67fc7b0/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_413944676/"
+   }
+  ],
+  "building_name": "エスポワール紫野",
+  "address": "京都府京都市北区紫野西泉堂町",
+  "lat": 35.048443,
+  "lon": 135.739578,
+  "distance_km": 4.09,
+  "bike_min": 24,
+  "rent": 75000,
+  "kanrihi": 8000,
+  "shikikin": "0円",
+  "shikikin_months": 0.0,
+  "reikin": "0円",
+  "reikin_months": 0.0,
+  "other_initial": "ほか諸費用: 損害保険料1000円/月 LIFE SUPPORT1100円/月 ハウスクリーニング代4.4万円/退去時, 損保 要, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 50.0,
+  "floor": 3,
+  "building_floors": 5,
+  "elevator": true,
+  "built_year": 1993,
+  "built_month": 4,
+  "age_years": 33,
+  "structure": "RC",
+  "parking": "-",
+  "parking_status": "unknown",
+  "parking_fee": 16500,
+  "nearest_station": "地下鉄烏丸線/北大路駅 歩28分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "南東向き; 建物種別: マンション; 条件: 二人入居可; 設備: オートロック, 都市ガス, 宅配ボックス, 礼金不要, 敷金不要, 二人入居, 駐輪場, バイク置場, 敷地内ごみ置き場; 入居: 相談; 総戸数 18戸; 取扱: (株)京都ライフ桂店; 更新 2026/10/01; 備考: 京都市バス紫野泉堂町駅徒歩1分/巡回管理/更新料：無 更新手数料：22000円; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T01:58:06+09:00",
+  "nearby_parking": [
+   {
+    "name": "月極駐車場",
+    "url": "https://www.monthly-p.com/detail/25707/",
+    "monthly_fee": 23700,
+    "fee_text": "23,700円",
+    "address": "京都府京都市北区紫野西泉堂町",
+    "distance_km": 0.03,
+    "walk_min": 1
+   },
+   {
+    "name": "北山ｗｅｓｔ　ｆｏｕｎｔａｉｎ(13040)",
+    "url": "https://www.park-direct.jp/parkinglot/PK000105535",
+    "monthly_fee": 21384,
+    "fee_text": "月額使用料 21,384円（税込・保証/管理料込）／うち賃料 19,800円",
+    "address": "京都府京都市北区紫野西泉堂町59",
+    "distance_km": 0.04,
+    "walk_min": 1
+   },
+   {
+    "name": "西泉堂町ガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000010134",
+    "monthly_fee": 9807,
+    "fee_text": "月額使用料 9,807円～14,039円（税込・保証/管理料込）／うち賃料 9,000円～13,000円",
+    "address": "京都府京都市北区紫野西泉堂町14-1",
+    "distance_km": 0.06,
+    "walk_min": 1
+   }
+  ],
+  "monthly_total": 83000,
+  "monthly_total_with_parking": 106700,
+  "score": 38.8,
+  "rank": 21
+ },
+ {
+  "sources": [
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/85fa9f932465717c6df948b2cb7f0105926f2401/"
+   }
+  ],
+  "building_name": "VEGA999",
+  "address": "京都府京都市上京区東西町",
+  "lat": 35.034042,
+  "lon": 135.750763,
+  "distance_km": 2.33,
+  "bike_min": 13,
+  "rent": 100000,
+  "kanrihi": 5000,
+  "shikikin": "無",
+  "shikikin_months": 0.0,
+  "reikin": "20万円",
+  "reikin_months": 2.0,
+  "other_initial": "保証会社:加入要 保証会社利用料：ジャックス 初回：50％、更新保証料：10000円/年、引き落とし手数料：1％/月, 住宅保険:要, その他費用:退去時ハウスクリーニング費用：39,600円、ペット飼育時賃料UP（小型室内犬に限る）：3,000円, 取引態様:仲介, 契約期間:2年間",
+  "layout": "2LDK",
+  "area_m2": 56.0,
+  "floor": 4,
+  "building_floors": 5,
+  "elevator": true,
+  "built_year": 1991,
+  "built_month": 9,
+  "age_years": 35,
+  "structure": "RC",
+  "parking": "無",
+  "parking_status": "none",
+  "parking_fee": null,
+  "nearest_station": "京都市営烏丸線 今出川駅 徒歩15分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "向き:南, オートロック, 非追焚機能, 南向き, 非駐車場, システムキッチン, ペット相談, 事務所不可, 二人入居可, 即入居可, 楽器不可, 都市ガス, 入居可能:即時, 現況:空家, 構造:RC(鉄筋コンクリート), 不動産会社:株式会社ＡＬＩＶＥ賃貸住宅サービス FC京都駅前店, 種別:賃貸マンション, b-URL: https://www.homes.co.jp/chintai/b-1209920235964/",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T02:44:41+09:00",
+  "nearby_parking": [
+   {
+    "name": "京都市上京区東西町 月極駐車場",
+    "url": "https://p-king.jp/detail/554274",
+    "monthly_fee": 22550,
+    "fee_text": "22,550円",
+    "address": "京都府京都市上京区東西町",
+    "distance_km": 0.04,
+    "walk_min": 1
+   },
+   {
+    "name": "京都市上京区東西町 月極駐車場",
+    "url": "https://p-king.jp/detail/554275",
+    "monthly_fee": null,
+    "fee_text": "お問合せください",
+    "address": "京都府京都市上京区東西町",
+    "distance_km": 0.07,
+    "walk_min": 1
+   },
+   {
+    "name": "京都市上京区大北小路東町 月極駐車場",
+    "url": "https://p-king.jp/detail/554277",
+    "monthly_fee": 19800,
+    "fee_text": "19,800円",
+    "address": "京都府京都市上京区大北小路東町",
+    "distance_km": 0.14,
+    "walk_min": 2
+   }
+  ],
+  "monthly_total": 105000,
+  "monthly_total_with_parking": 127550,
+  "score": 38.6,
+  "rank": 22
+ },
+ {
+  "sources": [
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/010c0db4607f29a7d384dee2a3859f1d6bc76087/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_409478702/"
+   }
+  ],
+  "building_name": "ハッピネス",
+  "address": "京都府京都市左京区岩倉西河原町",
+  "lat": 35.072327,
+  "lon": 135.783401,
+  "distance_km": 5.46,
+  "bike_min": 32,
+  "rent": 95000,
+  "kanrihi": 4000,
+  "shikikin": "10万円",
+  "shikikin_months": 1.05,
+  "reikin": "15万円",
+  "reikin_months": 1.58,
+  "other_initial": "保証会社:加入要 保証会社利用料：54、340円, 住宅保険:要, その他費用:駐車場手数料（初回）：8,800円、管理会社書類代（初回）：11,000円、入居サポート（月額）：880円, 取引態様:仲介, 契約期間:2年間",
+  "layout": "2LDK",
+  "area_m2": 55.69,
+  "floor": 2,
+  "building_floors": 2,
+  "elevator": false,
+  "built_year": 2015,
+  "built_month": 9,
+  "age_years": 11,
+  "structure": "鉄骨",
+  "parking": "空有 8,800円(税込)",
+  "parking_status": "onsite",
+  "parking_fee": 8800,
+  "nearest_station": "叡山電鉄鞍馬線 岩倉駅 徒歩6分",
+  "tier": "A",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "A",
+  "insulation_note": "بناء حديث (معيار الطاقة 2013)؛ عزل جيد عادةً",
+  "notes": "向き:南, 非オートロック, 追焚機能, 非ペット相談, 南向き, TVモニタ付インターホン, インターネット使用料無料, インターネット対応, ウォークインクローゼット, カウンターキッチン, システムキッチン, 二人入居可, 即入居可, 浴室乾燥機, 温水洗浄便座, 追焚機能, 都市ガス, 駐輪場あり, 入居可能:即時, 現況:空家, 総戸数:6戸, 構造:鉄骨造, 不動産会社:株式会社エリッツ 出町柳店, 種別:賃貸アパート, 間取り詳細:2LDK ( リビングダイニングキッチン 12.2帖 洋室 7.6帖 洋室 6.3帖 ), 同一住戸の他掲載: https://www.homes.co.jp/chintai/room/6a5caa2880d8e723b887396932c28a2f097e5b05/ https://www.homes.co.jp/chintai/room/0ec0f47adbeb2171318fda714038a4acb6e77a49/, b-URL: https://www.homes.co.jp/chintai/b-1105960302760/",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T02:44:41+09:00",
+  "nearby_parking": [],
+  "monthly_total": 99000,
+  "monthly_total_with_parking": 107800,
+  "score": 38.5,
+  "rank": 23
+ },
+ {
+  "sources": [
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/f3737a1582c5b941c4f5eb7b9bc5844efd1115d6/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_265040270/"
+   }
+  ],
+  "building_name": "エスポワール紫野",
+  "address": "京都府京都市北区紫野西泉堂町",
+  "lat": 35.048443,
+  "lon": 135.739578,
+  "distance_km": 4.09,
+  "bike_min": 24,
+  "rent": 72000,
+  "kanrihi": 8000,
+  "shikikin": "無",
+  "shikikin_months": 0.0,
+  "reikin": "無",
+  "reikin_months": 0.0,
+  "other_initial": "保証会社:加入要 保証会社：あんしんプラス 保証会社利用料：初回：月額賃料等の50%、月額：支払い手数料880円、更新時：月額賃料等の20%/2年, 住宅保険:要, 更新料:新賃料の1ヶ月分, その他費用:室内清掃費用：44,000円、LIFE SUPPORT：1,100円、害虫駆除費：22,000円、カードキー：8,800円, 取引態様:専属専任媒介, 契約期間:2年間",
+  "layout": "2LDK",
+  "area_m2": 47.0,
+  "floor": 4,
+  "building_floors": 5,
+  "elevator": true,
+  "built_year": 1993,
+  "built_month": 4,
+  "age_years": 33,
+  "structure": "RC",
+  "parking": "空無",
+  "parking_status": "onsite_full",
+  "parking_fee": null,
+  "nearest_station": "京都市営烏丸線 北大路駅 徒歩28分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "向き:南, オートロック, 非追焚機能, 非ペット相談, 南向き, 非駐車場, TVモニタ付インターホン, インターネット使用料無料, ゴミ出し24時間OK, 二人入居可, 即入居可, 宅配ボックス, 都市ガス, 駐輪場あり, 入居可能:即時, 現況:空家, 総戸数:18戸, 構造:RC(鉄筋コンクリート), 不動産会社:株式会社京都ライフ 京都ライフ西大路店, 種別:賃貸マンション, 間取り詳細:2LDK ( 和室 6畳(4階) 洋室 6帖(4階) リビングダイニングキッチン 9帖(4階) ), 同一住戸の他掲載: https://www.homes.co.jp/chintai/room/9d29f089ce189e02e61073103ab8112b2af5b9be/ https://www.homes.co.jp/chintai/room/ed68704d38967e1ef1b21010fa949acc64f8594c/ (賃料75000円) https://www.homes.co.jp/chintai/room/463e2afdbe4e43fd59e355f314fc162dd851d54c/ https://www.homes.co.jp/chintai/room/a5e951d404aec84c7bcfddbd6efd969f8406e6d2/ (賃料75000円), b-URL: https://www.homes.co.jp/chintai/b-1508280121319/",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T02:44:41+09:00",
+  "nearby_parking": [
+   {
+    "name": "月極駐車場",
+    "url": "https://www.monthly-p.com/detail/25707/",
+    "monthly_fee": 23700,
+    "fee_text": "23,700円",
+    "address": "京都府京都市北区紫野西泉堂町",
+    "distance_km": 0.03,
+    "walk_min": 1
+   },
+   {
+    "name": "北山ｗｅｓｔ　ｆｏｕｎｔａｉｎ(13040)",
+    "url": "https://www.park-direct.jp/parkinglot/PK000105535",
+    "monthly_fee": 21384,
+    "fee_text": "月額使用料 21,384円（税込・保証/管理料込）／うち賃料 19,800円",
+    "address": "京都府京都市北区紫野西泉堂町59",
+    "distance_km": 0.04,
+    "walk_min": 1
+   },
+   {
+    "name": "西泉堂町ガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000010134",
+    "monthly_fee": 9807,
+    "fee_text": "月額使用料 9,807円～14,039円（税込・保証/管理料込）／うち賃料 9,000円～13,000円",
+    "address": "京都府京都市北区紫野西泉堂町14-1",
+    "distance_km": 0.06,
+    "walk_min": 1
+   }
+  ],
+  "monthly_total": 80000,
+  "monthly_total_with_parking": 103700,
+  "score": 38.0,
+  "rank": 24
+ },
+ {
+  "sources": [
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/086c72308e85ceeadfefed67b41f4b20400029a4/"
+   }
+  ],
+  "building_name": "ハッピネス",
+  "address": "京都府京都市左京区岩倉西河原町611",
+  "lat": 35.072327,
+  "lon": 135.783401,
+  "distance_km": 5.46,
+  "bike_min": 32,
+  "rent": 95000,
+  "kanrihi": 4000,
+  "shikikin": "10万円",
+  "shikikin_months": 1.05,
+  "reikin": "15万円",
+  "reikin_months": 1.58,
+  "other_initial": "保証会社:加入要 保証会社利用料：要確認, 住宅保険:要, その他費用:室内清掃費用：44,000円、くらしーど24：16,500円, 取引態様:仲介, 契約期間:2年間",
+  "layout": "2LDK",
+  "area_m2": 61.61,
+  "floor": 2,
+  "building_floors": 2,
+  "elevator": false,
+  "built_year": 2015,
+  "built_month": 9,
+  "age_years": 11,
+  "structure": "軽量鉄骨",
+  "parking": "空無",
+  "parking_status": "onsite_full",
+  "parking_fee": null,
+  "nearest_station": "叡山電鉄鞍馬線 岩倉駅 徒歩6分",
+  "tier": "A",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "A",
+  "insulation_note": "بناء حديث (معيار الطاقة 2013)؛ عزل جيد عادةً",
+  "notes": "向き:南, 非オートロック, 追焚機能, 非ペット相談, 南向き, 非駐車場, TVモニタ付インターホン, インターネット使用料無料, ウォークインクローゼット, カウンターキッチン, ゴミ出し24時間OK, システムキッチン, ペット不可, 二人入居可, 即入居可, 楽器不可, 温水洗浄便座, 追焚機能, 都市ガス, 防犯カメラ, 駐輪場あり, 入居可能:即時, 現況:空家, 総戸数:6戸, 構造:軽量鉄骨造, 不動産会社:株式会社ハウス・メッセ 京都大学前店, 種別:賃貸アパート, 間取り詳細:2LDK ( リビングダイニングキッチン 12.2帖 洋室 7.5帖 洋室 6.3帖 ), b-URL: https://www.homes.co.jp/chintai/b-1014960008717/",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T02:44:41+09:00",
+  "nearby_parking": [
+   {
+    "name": "岩倉三笠町3駐車場",
+    "url": "https://www.at-parking.jp/search/kyoto/kyoto-shi_sakyo-ku/iwakura-mikasacho/330021.html",
+    "monthly_fee": 11000,
+    "fee_text": "11,000円（税込）",
+    "address": "京都府京都市左京区岩倉三笠町３",
+    "distance_km": 0.09,
+    "walk_min": 1
+   },
+   {
+    "name": "アジェル岩倉南Ⅱ(35791)",
+    "url": "https://www.park-direct.jp/parkinglot/PK000111689",
+    "monthly_fee": 13068,
+    "fee_text": "月額使用料 13,068円（税込・保証/管理料込）／うち賃料 12,100円",
+    "address": "京都府京都市左京区岩倉中河原町93",
+    "distance_km": 0.16,
+    "walk_min": 2
+   },
+   {
+    "name": "月極駐車場",
+    "url": "https://www.monthly-p.com/detail/25459/",
+    "monthly_fee": 15400,
+    "fee_text": "15,400円",
+    "address": "京都府京都市左京区岩倉中河原町",
+    "distance_km": 0.17,
+    "walk_min": 2
+   }
+  ],
+  "monthly_total": 99000,
+  "monthly_total_with_parking": 110000,
+  "score": 38.0,
+  "rank": 25
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000104832474/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/079f6d8955af4e8f78a1a5379a9e59c9a9f8e454/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_401843086/"
+   }
+  ],
+  "building_name": "イースタン尊上院",
+  "address": "京都府京都市北区衣笠東尊上院町",
+  "lat": 35.0425,
+  "lon": 135.733887,
+  "distance_km": 4.13,
+  "bike_min": 24,
+  "rent": 90000,
+  "kanrihi": 7000,
+  "shikikin": "90,000円 (1ヶ月)",
+  "shikikin_months": 1.0,
+  "reikin": "90,000円 (1ヶ月)",
+  "reikin_months": 1.0,
+  "other_initial": "ほか諸費用: ＥＬサポート:1870円/月 更新料:新賃料の1ヶ月分/更新時 更新事務手数料:22000円/更新時 ハウスクリーニング:71500円/退去時, 損保 要, 取引態様：仲介",
+  "layout": "3LDK",
+  "area_m2": 65.83,
+  "floor": 3,
+  "building_floors": 3,
+  "elevator": false,
+  "built_year": 1993,
+  "built_month": 3,
+  "age_years": 33,
+  "structure": "RC",
+  "parking": "敷地内15000円",
+  "parking_status": "onsite",
+  "parking_fee": 15000,
+  "nearest_station": "地下鉄烏丸線/北大路駅 バス10分 (バス停)金閣寺道 歩5分 京福電鉄北野線/",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "南向き; 建物種別: マンション; 条件: 二人入居可/子供可; 設備: 追焚, 都市ガス, 宅配ボックス, 最上階, 保証人不要, 二人入居, システムキッチン, 駐輪場, バイク置場; 入居: 相談; 総戸数 20戸; 取扱: (株)エリッツ北大路店; 更新 2026/09/30; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T01:58:06+09:00",
+  "nearby_parking": [],
+  "monthly_total": 97000,
+  "monthly_total_with_parking": 112000,
+  "score": 37.9,
+  "rank": 26
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000108479876/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/181345ce7968d17250ce07feac59adac7dc76767/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_410187142/"
+   }
+  ],
+  "building_name": "ShaＭaison THE SHIP NISHIGAMO",
+  "address": "京都府京都市北区西賀茂川上町",
+  "lat": 35.065426,
+  "lon": 135.743042,
+  "distance_km": 5.36,
+  "bike_min": 31,
+  "rent": 97000,
+  "kanrihi": 4000,
+  "shikikin": "97,000円 (1ヶ月)",
+  "shikikin_months": 1.0,
+  "reikin": "97,000円 (1ヶ月)",
+  "reikin_months": 1.0,
+  "other_initial": "ほか諸費用: 更新料 新賃料1.00ヶ月分, 損保 2万円2年, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 55.31,
+  "floor": 2,
+  "building_floors": 2,
+  "elevator": false,
+  "built_year": 2016,
+  "built_month": 11,
+  "age_years": 10,
+  "structure": "軽量鉄骨",
+  "parking": "敷地内11000円/平置駐",
+  "parking_status": "onsite",
+  "parking_fee": 11000,
+  "nearest_station": "地下鉄烏丸線/北大路駅 バス17分 (バス停)西賀茂車庫前停 歩1分",
+  "tier": "A",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "A",
+  "insulation_note": "بناء حديث (معيار الطاقة 2013)؛ عزل جيد عادةً",
+  "notes": "東向き; 建物種別: アパート; 条件: 二人入居可/子供可; 設備: オートロック, 追焚, 都市ガス, 浴室乾燥, 二人入居, システムキッチン, ウォークインクロゼット, 駐輪場; 入居: 即; 総戸数 8戸; 取扱: LIXIL不動産ショップ イリグチハウジング(株); 更新 2026/09/30; 構造(原文): 軽量鉄骨",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T01:58:06+09:00",
+  "nearby_parking": [],
+  "monthly_total": 101000,
+  "monthly_total_with_parking": 112000,
+  "score": 37.7,
+  "rank": 27
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000079586102/"
+   },
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000106163977/"
+   },
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000079586103/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/bfb6d0b29227021fbdcca260d96f34da57e1cea0/"
+   },
+   {
+    "source": "jkosha",
+    "url": "https://suumo.jp/chintai/bc_100178203769/"
+   }
+  ],
+  "building_name": "イースタン平野路",
+  "address": "京都府京都市北区衣笠街道町",
+  "lat": 35.038162,
+  "lon": 135.733963,
+  "distance_km": 3.9,
+  "bike_min": 22,
+  "rent": 95500,
+  "kanrihi": 10000,
+  "shikikin": "95,500円 (1ヶ月)",
+  "shikikin_months": 1.0,
+  "reikin": "95,500円 (1ヶ月)",
+  "reikin_months": 1.0,
+  "other_initial": "ほか諸費用: 更新料:15000円/更新時, 損保 要, 取引態様：仲介",
+  "layout": "3DK",
+  "area_m2": 65.02,
+  "floor": 3,
+  "building_floors": 5,
+  "elevator": true,
+  "built_year": 1999,
+  "built_month": 12,
+  "age_years": 27,
+  "structure": "RC",
+  "parking": "近隣154m14000円",
+  "parking_status": "nearby",
+  "parking_fee": 14000,
+  "nearest_station": "京福電鉄北野線/北野白梅町駅 バス5分 (バス停)金閣寺道 歩3分 地下鉄烏丸線",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "南西向き; 建物種別: マンション; 条件: 二人入居可/子供可/楽器相談; 設備: オートロック, 追焚, 都市ガス, 二人入居, 駐輪場, バイク置場; 入居: 即; 総戸数 20戸; 取扱: (株)エリッツ桂店; 更新 2026/09/30; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T01:58:06+09:00",
+  "nearby_parking": [
+   {
+    "name": "京都市北区衣笠街道町 月極駐車場",
+    "url": "https://p-king.jp/detail/654456",
+    "monthly_fee": 15000,
+    "fee_text": "15,000円",
+    "address": "京都府京都市北区衣笠街道町",
+    "distance_km": 0.02,
+    "walk_min": 1
+   },
+   {
+    "name": "京都市北区衣笠街道町 月極駐車場",
+    "url": "https://p-king.jp/detail/656693",
+    "monthly_fee": 15000,
+    "fee_text": "15,000円",
+    "address": "京都府京都市北区衣笠街道町",
+    "distance_km": 0.02,
+    "walk_min": 1
+   },
+   {
+    "name": "岡本街道町ガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000118305",
+    "monthly_fee": 16199,
+    "fee_text": "月額使用料 16,199円（税込・保証/管理料込）／うち賃料 15,000円",
+    "address": "京都府京都市北区衣笠街道町22",
+    "distance_km": 0.02,
+    "walk_min": 1
+   }
+  ],
+  "monthly_total": 105500,
+  "monthly_total_with_parking": 120500,
+  "score": 37.5,
+  "rank": 28
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000094092210/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/de48311bbf70a007227277cccb4d73685446251e/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_376913746/"
+   }
+  ],
+  "building_name": "ヴィレッヂ西賀茂",
+  "address": "京都府京都市北区大宮中ノ社町",
+  "lat": 35.058964,
+  "lon": 135.74559,
+  "distance_km": 4.63,
+  "bike_min": 27,
+  "rent": 75000,
+  "kanrihi": 5000,
+  "shikikin": "75,000円 (1ヶ月)",
+  "shikikin_months": 1.0,
+  "reikin": "75,000円 (1ヶ月)",
+  "reikin_months": 1.0,
+  "other_initial": "ほか諸費用: 入居サポート:990円/月 更新料:旧賃料の1ヶ月分/更新時 更新事務手数料:16500円/更新時 ハウスクリーニング:48400円/退去時, 損保 要, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 49.41,
+  "floor": 2,
+  "building_floors": 4,
+  "elevator": true,
+  "built_year": 1994,
+  "built_month": 1,
+  "age_years": 32,
+  "structure": "RC",
+  "parking": "敷地内13200円",
+  "parking_status": "onsite",
+  "parking_fee": 13200,
+  "nearest_station": "地下鉄烏丸線/北大路駅 バス13分 (バス停)神光院前 歩1分 京阪鴨東線/出町",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "南向き; 建物種別: マンション; 条件: 二人入居可/子供可; 設備: オートロック, 追焚, 都市ガス, 二人入居, 駐輪場, バイク置場; 入居: 相談; 総戸数 15戸; 取扱: (株)エリッツ北大路店; 更新 2026/09/30; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T01:58:06+09:00",
+  "nearby_parking": [],
+  "monthly_total": 80000,
+  "monthly_total_with_parking": 93200,
+  "score": 37.2,
+  "rank": 29
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000103815439/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/4f99016f82ca2bc810373ee07cc3dc27fa1b03ac/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_399635904/"
+   }
+  ],
+  "building_name": "サンステージ衣笠",
+  "address": "京都府京都市北区大北山長谷町",
+  "lat": 35.047199,
+  "lon": 135.722519,
+  "distance_km": 5.29,
+  "bike_min": 31,
+  "rent": 98000,
+  "kanrihi": 11000,
+  "shikikin": "98,000円 (1ヶ月)",
+  "shikikin_months": 1.0,
+  "reikin": "98,000円 (1ヶ月)",
+  "reikin_months": 1.0,
+  "other_initial": "保証会社利用可, ほか諸費用: 退去時ハウスクリーニング費用：５．５万円, 損保 要, 取引態様：仲介",
+  "layout": "3LDK",
+  "area_m2": 77.53,
+  "floor": 4,
+  "building_floors": 8,
+  "elevator": true,
+  "built_year": 1993,
+  "built_month": 11,
+  "age_years": 33,
+  "structure": "RC",
+  "parking": "敷地内75000円/機械式駐",
+  "parking_status": "onsite",
+  "parking_fee": 75000,
+  "nearest_station": "京都市バスM1/原谷口 歩2分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "南向き; 建物種別: マンション; 条件: 二人入居可/ペット相談/楽器相談/事務所利用相談/ルームシェア相談; 設備: オートロック, ペット, 宅配ボックス, 保証人不要, 分譲賃貸, 二人入居, 駐輪場, バイク置場, 敷地内ごみ置き場, リフォーム, リノベーション; 入居: 即; 総戸数 -; 取扱: くらまぐち不動産 ライオンテイル合同会社; 更新 2026/09/17; 備考: 通勤管理/リフォーム：2024年8月キッチン、バスルーム、トイレ、洗面台フロアタイル、襖、建具; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T01:58:06+09:00",
+  "nearby_parking": [],
+  "monthly_total": 109000,
+  "monthly_total_with_parking": 184000,
+  "score": 37.0,
+  "rank": 30
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000108918562/"
+   },
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000108918560/"
+   },
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000108918565/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/a4491bc15206541e7db084fd81523b5f93cafa66/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_411124548/"
+   }
+  ],
+  "building_name": "プェネリジェール西五条II 422号室",
+  "address": "京都府京都市中京区壬生東高田町",
+  "lat": 34.997864,
+  "lon": 135.734436,
+  "distance_km": 4.57,
+  "bike_min": 26,
+  "rent": 87000,
+  "kanrihi": 0,
+  "shikikin": "0円",
+  "shikikin_months": 0.0,
+  "reikin": "174,000円 (2ヶ月)",
+  "reikin_months": 2.0,
+  "other_initial": "ほか諸費用: 町会費3600円/2年 LIFE SUPPORT1.65万円/2年, 損保 2万円2年, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 53.3,
+  "floor": 4,
+  "building_floors": 6,
+  "elevator": true,
+  "built_year": 1991,
+  "built_month": 4,
+  "age_years": 35,
+  "structure": "RC",
+  "parking": "敷地内16500円",
+  "parking_status": "onsite",
+  "parking_fee": 16500,
+  "nearest_station": "阪急京都線/西院駅 歩10分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "南向き; 建物種別: マンション; 条件: 二人入居可/子供可; 設備: 追焚, 都市ガス, 敷金不要, 二人入居, 駐輪場, バイク置場; 入居: 即; 総戸数 24戸; 取扱: (株)京都ライフ烏丸五条店; 更新 2026/09/30; 備考: ＪＲ東海道本線西大路駅徒歩22分/巡回管理/更新料：新家賃1ヶ月; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T01:58:06+09:00",
+  "nearby_parking": [],
+  "monthly_total": 87000,
+  "monthly_total_with_parking": 103500,
+  "score": 36.9,
+  "rank": 31
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000023662726/"
+   },
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000023662727/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/f5016929a5f647b78d3a8bea489f49d7d06f2e4d/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_413162456/"
+   }
+  ],
+  "building_name": "下鴨フラッツ 205号室",
+  "address": "京都府京都市左京区下鴨東高木町",
+  "lat": 35.042992,
+  "lon": 135.776779,
+  "distance_km": 2.14,
+  "bike_min": 12,
+  "rent": 98000,
+  "kanrihi": 6000,
+  "shikikin": "100,000円 (1ヶ月)",
+  "shikikin_months": 1.0,
+  "reikin": "100,000円 (1ヶ月)",
+  "reikin_months": 1.0,
+  "other_initial": "損保 2万円2年, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 52.0,
+  "floor": 2,
+  "building_floors": 3,
+  "elevator": false,
+  "built_year": 1993,
+  "built_month": 4,
+  "age_years": 33,
+  "structure": "RC",
+  "parking": "敷地内19800円",
+  "parking_status": "onsite",
+  "parking_fee": 19800,
+  "nearest_station": "地下鉄烏丸線/松ケ崎駅 歩13分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "南向き; 建物種別: マンション; 条件: -; 設備: オートロック, 都市ガス, システムキッチン, バイク置場; 入居: 即; 総戸数 9戸; 取扱: (株)京都ライフ丹波橋店; 更新 2026/09/30; 備考: 叡山電鉄叡山本線茶山駅徒歩10分/巡回管理/更新料：新家賃1ヶ月 更新手数料：16500円; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T01:58:06+09:00",
+  "nearby_parking": [],
+  "monthly_total": 104000,
+  "monthly_total_with_parking": 123800,
+  "score": 36.5,
+  "rank": 32
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000105193487/"
+   },
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000105193489/"
+   }
+  ],
+  "building_name": "エスポワール紫野",
+  "address": "京都府京都市北区紫野西泉堂町",
+  "lat": 35.048443,
+  "lon": 135.739578,
+  "distance_km": 4.09,
+  "bike_min": 24,
+  "rent": 75000,
+  "kanrihi": 8000,
+  "shikikin": "0円",
+  "shikikin_months": 0.0,
+  "reikin": "0円",
+  "reikin_months": 0.0,
+  "other_initial": "ほか諸費用: 損害保険料1000円/月 LIFE SUPPORT1100円/月 ハウスクリーニング代4.4万円/退去時, 損保 要, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 47.0,
+  "floor": 4,
+  "building_floors": 5,
+  "elevator": true,
+  "built_year": 1993,
+  "built_month": 4,
+  "age_years": 33,
+  "structure": "RC",
+  "parking": "-",
+  "parking_status": "unknown",
+  "parking_fee": null,
+  "nearest_station": "地下鉄烏丸線/北大路駅 歩28分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "南向き; 建物種別: マンション; 条件: 二人入居可; 設備: オートロック, 都市ガス, 宅配ボックス, 礼金不要, 敷金不要, 二人入居, 駐輪場, バイク置場, 敷地内ごみ置き場; 入居: '26年10月末; 総戸数 18戸; 取扱: (株)京都ライフ丹波橋店; 更新 2026/09/30; 備考: 京都市バス紫野泉堂町駅徒歩1分/巡回管理/更新料：新家賃1ヶ月 更新手数料：22000円; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T01:58:06+09:00",
+  "nearby_parking": [
+   {
+    "name": "月極駐車場",
+    "url": "https://www.monthly-p.com/detail/25707/",
+    "monthly_fee": 23700,
+    "fee_text": "23,700円",
+    "address": "京都府京都市北区紫野西泉堂町",
+    "distance_km": 0.03,
+    "walk_min": 1
+   },
+   {
+    "name": "北山ｗｅｓｔ　ｆｏｕｎｔａｉｎ(13040)",
+    "url": "https://www.park-direct.jp/parkinglot/PK000105535",
+    "monthly_fee": 21384,
+    "fee_text": "月額使用料 21,384円（税込・保証/管理料込）／うち賃料 19,800円",
+    "address": "京都府京都市北区紫野西泉堂町59",
+    "distance_km": 0.04,
+    "walk_min": 1
+   },
+   {
+    "name": "西泉堂町ガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000010134",
+    "monthly_fee": 9807,
+    "fee_text": "月額使用料 9,807円～14,039円（税込・保証/管理料込）／うち賃料 9,000円～13,000円",
+    "address": "京都府京都市北区紫野西泉堂町14-1",
+    "distance_km": 0.06,
+    "walk_min": 1
+   }
+  ],
+  "monthly_total": 83000,
+  "monthly_total_with_parking": 106700,
+  "score": 36.5,
+  "rank": 33
+ },
+ {
+  "sources": [
+   {
+    "source": "chintai",
+    "url": "https://www.chintai.net/detail/bk-0000007260000000000364880004/"
+   },
+   {
+    "source": "able",
+    "url": "https://www.able.co.jp/detail/Detail.do?bk=000000726036488004&prefkey=kyoto"
+   }
+  ],
+  "building_name": "サンシティ四条大宮シャトー朝日",
+  "address": "京都府京都市下京区大宮通仏光寺下ル五坊大宮町",
+  "lat": 35.000937,
+  "lon": 135.748844,
+  "distance_km": 3.39,
+  "bike_min": 20,
+  "rent": 100000,
+  "kanrihi": 10000,
+  "shikikin": "100,000円 (1.0ヶ月)",
+  "shikikin_months": 1.0,
+  "reikin": "200,000円 (2.0ヶ月)",
+  "reikin_months": 2.0,
+  "other_initial": "その他初期費用: 契約時必須(清掃代:29,700円); 更新料: 1ヶ月; 保証会社: 保証会社必加入（実費）; 保険: 損害保険加入要。",
+  "layout": "2LDK",
+  "area_m2": 53.28,
+  "floor": 10,
+  "building_floors": 11,
+  "elevator": true,
+  "built_year": 1991,
+  "built_month": 1,
+  "age_years": 35,
+  "structure": "SRC",
+  "parking": "有料駐車場 1台 （26,000円/月） / 自転車置き場 / バイク可 その他特徴： バイク置場あり ※駐車場の金額表示は1台分の表示となります。",
+  "parking_status": "onsite",
+  "parking_fee": 26000,
+  "nearest_station": "阪急京都線/大宮駅 徒歩4分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "direction: 西 | conditions: 友人同士可 / 家賃保証会社利用必須 / 子供可 / 独身可 | contract: 一般契約：2年間 | deal_type: 媒介 | move_in: 空予定 (2026年10月中旬) | koshinryo: 1ヶ月 | 設備: バス・トイレ別, TVモニターホン, 室内洗濯機置き場, 駐車場付き, エアコン, 角部屋, 敷地内ゴミ置き場, オートロック, 独立洗面台, ベランダ・バルコニー | 備考: 仲介手数料家賃の55%。 保証会社加入要（初回に月総額50%、更新料1.3万円/年）。 | PR: オートロック・エレベーター付RCマンション!。買い物便利な立地ですよ～!!。防犯カメラ付きマンション。3口ガスコンロ付。インターネット無料。バイク置き場あり。 | kind: マンション; updated 2026/09/25; geo: chintai map coords",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T01:59:18+09:00",
+  "nearby_parking": [],
+  "monthly_total": 110000,
+  "monthly_total_with_parking": 136000,
+  "score": 36.3,
+  "rank": 34
+ },
+ {
+  "sources": [
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/791c2b458a71ca0b8d8f7787eb5056d8633338f2/"
+   }
+  ],
+  "building_name": "ルモール北",
+  "address": "京都府京都市北区上賀茂東上之段町",
+  "lat": 35.068935,
+  "lon": 135.750717,
+  "distance_km": 5.4,
+  "bike_min": 31,
+  "rent": 67000,
+  "kanrihi": 5000,
+  "shikikin": "無",
+  "shikikin_months": 0.0,
+  "reikin": "13.4万円",
+  "reikin_months": 2.0,
+  "other_initial": "保証会社:加入要 保証会社：全保連 保証会社利用料：初回：月額賃料等の50%、更新時：1.3万円/1年（初回保証料 総賃料120％ 更新保証料なしプランあり）, 住宅保険:要, 更新料:新賃料の1ヶ月分, その他費用:室内清掃費用：38,500円、抗菌除菌処理代：22,000円、入居者サポート：16,500円, 取引態様:仲介, 契約期間:2年間",
+  "layout": "2LDK",
+  "area_m2": 52.0,
+  "floor": 2,
+  "building_floors": 3,
+  "elevator": false,
+  "built_year": 1994,
+  "built_month": 11,
+  "age_years": 32,
+  "structure": "RC",
+  "parking": "空有 8,000円(税無)",
+  "parking_status": "onsite",
+  "parking_fee": 8000,
+  "nearest_station": "叡山電鉄鞍馬線 二軒茶屋駅 徒歩25分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "向き:南東, 非オートロック, 非追焚機能, 非ペット相談, 非南向き, システムキッチン, バイク置き場あり, 二人入居可, 都市ガス, 駐輪場あり, 入居可能:2026年11月 中旬, 現況:賃貸中, 総戸数:9戸, 構造:RC(鉄筋コンクリート), 不動産会社:株式会社京都ライフ 京都ライフ西大路店, 種別:賃貸マンション, 間取り詳細:2LDK ( 和室 7.5畳(2階) 洋室 6帖(2階) リビングダイニングキッチン 10帖(2階) ), 同一住戸の他掲載: https://www.homes.co.jp/chintai/room/61f7ed20e60e986c7cb255dd42e16dec252d8ec2/ https://www.homes.co.jp/chintai/room/052ac40082f286f007a83bbf656e4b87c294d228/, b-URL: https://www.homes.co.jp/chintai/b-1508280125900/",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T02:44:41+09:00",
+  "nearby_parking": [],
+  "monthly_total": 72000,
+  "monthly_total_with_parking": 80000,
+  "score": 36.2,
+  "rank": 35
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000106665123/"
+   },
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000106714635/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/a64e75485e532c7d35ce3341a0ae13b4758ea570/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_405994770/"
+   }
+  ],
+  "building_name": "エイブル創久五条大宮 406号室",
+  "address": "京都府京都市下京区下五条町",
+  "lat": 34.996056,
+  "lon": 135.748962,
+  "distance_km": 3.81,
+  "bike_min": 22,
+  "rent": 95000,
+  "kanrihi": 10000,
+  "shikikin": "0円",
+  "shikikin_months": 0.0,
+  "reikin": "100,000円 (1.1ヶ月)",
+  "reikin_months": 1.1,
+  "other_initial": "ほか諸費用: 損害保険料1000円/月 ゴミ処理代400円/月 環境維持費1.1万円/退去時, 損保 要, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 55.6,
+  "floor": 4,
+  "building_floors": 11,
+  "elevator": true,
+  "built_year": 1991,
+  "built_month": 4,
+  "age_years": 35,
+  "structure": "SRC",
+  "parking": "敷地内27500円",
+  "parking_status": "onsite",
+  "parking_fee": 27500,
+  "nearest_station": "ＪＲ山陰本線/丹波口駅 歩7分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "南向き; 建物種別: マンション; 条件: 二人入居可/子供可; 設備: オートロック, 追焚, 都市ガス, 浴室乾燥, 敷金不要, 保証人不要, 二人入居, システムキッチン, 駐輪場, バイク置場, 敷地内ごみ置き場; 入居: 即; 総戸数 46戸; 取扱: (株)京都ライフ今出川店; 更新 2026/09/30; 備考: ＪＲ山陰本線梅小路京都西駅徒歩15分/巡回管理/更新料：旧家賃1ヶ月 更新手数料：22000円; 構造(原文): 鉄骨鉄筋",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T01:58:06+09:00",
+  "nearby_parking": [],
+  "monthly_total": 105000,
+  "monthly_total_with_parking": 132500,
+  "score": 35.9,
+  "rank": 36
+ },
+ {
+  "sources": [
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/9ecf184cef04d71726bd0ca82caa65d090b7b28d/"
+   }
+  ],
+  "building_name": "レジデンス東山",
+  "address": "京都府京都市東山区鐘鋳町",
+  "lat": 34.993122,
+  "lon": 135.774445,
+  "distance_km": 3.43,
+  "bike_min": 20,
+  "rent": 90000,
+  "kanrihi": 0,
+  "shikikin": "無",
+  "shikikin_months": 0.0,
+  "reikin": "9万円",
+  "reikin_months": 1.0,
+  "other_initial": "保証会社:不動産会社に要確認, 住宅保険:要, 更新料:新賃料の1ヶ月分, 取引態様:仲介, 契約期間:2年間",
+  "layout": "2LDK",
+  "area_m2": 45.0,
+  "floor": 3,
+  "building_floors": 3,
+  "elevator": true,
+  "built_year": 1993,
+  "built_month": 3,
+  "age_years": 33,
+  "structure": "RC",
+  "parking": "空有 22,000円(税込)",
+  "parking_status": "onsite",
+  "parking_fee": 22000,
+  "nearest_station": "京阪本線 清水五条駅 徒歩9分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "向き:南, 非オートロック, 非追焚機能, 非ペット相談, 南向き, ゴミ出し24時間OK, 二人入居可, 即入居可, 温水洗浄便座, 都市ガス, 駐輪場あり, 入居可能:即時, 現況:空家, 総戸数:8戸, 構造:RC(鉄筋コンクリート), 不動産会社:ウインズリンク株式会社 アパマンショップ四条烏丸店, 種別:賃貸マンション, 間取り詳細:2LDK ( 和室 6畳(3階) 洋室 6帖(3階) リビングダイニングキッチン 9帖(3階) ), 同一住戸の他掲載: https://www.homes.co.jp/chintai/room/ea3e845ff23530e1ebac5f9f5a7c624ddbc89529/, b-URL: https://www.homes.co.jp/chintai/b-1136260302452/",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T02:44:41+09:00",
+  "nearby_parking": [],
+  "monthly_total": 90000,
+  "monthly_total_with_parking": 112000,
+  "score": 34.8,
+  "rank": 37
+ },
+ {
+  "sources": [
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/7c435a2eac13738c0c0aa8b85f1292aa6e767fa8/"
+   }
+  ],
+  "building_name": "レジデンス東山",
+  "address": "京都府京都市東山区鐘鋳町",
+  "lat": 34.993122,
+  "lon": 135.774445,
+  "distance_km": 3.43,
+  "bike_min": 20,
+  "rent": 90000,
+  "kanrihi": 0,
+  "shikikin": "無",
+  "shikikin_months": 0.0,
+  "reikin": "9万円",
+  "reikin_months": 1.0,
+  "other_initial": "保証会社:利用可 保証会社利用料：初回：2.7万円, 住宅保険:要, 更新料:新賃料の1ヶ月分, 取引態様:仲介, 契約期間:2年間",
+  "layout": "2LDK",
+  "area_m2": 45.0,
+  "floor": 2,
+  "building_floors": 3,
+  "elevator": true,
+  "built_year": 1993,
+  "built_month": 3,
+  "age_years": 33,
+  "structure": "RC",
+  "parking": "空有 22,000円(税込)",
+  "parking_status": "onsite",
+  "parking_fee": 22000,
+  "nearest_station": "京阪本線 清水五条駅 徒歩9分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "向き:北, 非オートロック, 非追焚機能, 非ペット相談, 非南向き, ゴミ出し24時間OK, 二人入居可, 即入居可, 温水洗浄便座, 都市ガス, 駐輪場あり, 入居可能:即時, 現況:空家, 総戸数:8戸, 構造:RC(鉄筋コンクリート), 不動産会社:ウインズリンク株式会社 アパマンショップ京都駅前店, 種別:賃貸マンション, 間取り詳細:2LDK ( 和室 6畳(2階) 洋室 6帖(2階) リビングダイニングキッチン 9帖(2階) ), 同一住戸の他掲載: https://www.homes.co.jp/chintai/room/8cb764c4f2b85fff3e0e88cc1c9554252dcaee47/ https://www.homes.co.jp/chintai/b-1136250323795/, b-URL: https://www.homes.co.jp/chintai/b-1136250323795/",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T02:44:41+09:00",
+  "nearby_parking": [],
+  "monthly_total": 90000,
+  "monthly_total_with_parking": 112000,
+  "score": 34.8,
+  "rank": 38
+ },
+ {
+  "sources": [
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/f7ea2c44c4b55e97423e9bad1aba78deab6de096/"
+   }
+  ],
+  "building_name": "ルモール北",
+  "address": "京都府京都市北区上賀茂東上之段町",
+  "lat": 35.068935,
+  "lon": 135.750717,
+  "distance_km": 5.4,
+  "bike_min": 31,
+  "rent": 67000,
+  "kanrihi": 5000,
+  "shikikin": "無",
+  "shikikin_months": 0.0,
+  "reikin": "13.4万円",
+  "reikin_months": 2.0,
+  "other_initial": "保証会社:加入要 保証会社：全保連 保証会社利用料：初回：月額賃料等の50%、更新時：1.3万円/1年, 住宅保険:要, 更新料:新賃料の1ヶ月分, その他費用:室内清掃費用：38,500円、抗菌除菌処理代：22,000円、入居者サポート：16,500円, 取引態様:仲介, 契約期間:2年間",
+  "layout": "2LDK",
+  "area_m2": 50.0,
+  "floor": 2,
+  "building_floors": 3,
+  "elevator": false,
+  "built_year": 1994,
+  "built_month": 11,
+  "age_years": 32,
+  "structure": "RC",
+  "parking": "空有 5,000円(税込)",
+  "parking_status": "onsite",
+  "parking_fee": 5000,
+  "nearest_station": "叡山電鉄鞍馬線 二軒茶屋駅 徒歩26分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "向き:南東, 非オートロック, 非追焚機能, 非ペット相談, 非南向き, インターネット使用料無料, システムキッチン, 二人入居可, 宅配ボックス, 都市ガス, 防犯カメラ, 駐輪場あり, 入居可能:2026年10月 下旬, 現況:賃貸中, 総戸数:9戸, 構造:RC(鉄筋コンクリート), 不動産会社:ウインズリンク株式会社 アパマンショップ北大路店, 種別:賃貸マンション, 間取り詳細:2LDK ( 洋室 6帖(2階) 和室 7.5畳(2階) リビングダイニングキッチン 10帖(2階) ), 同一住戸の他掲載: https://www.homes.co.jp/chintai/room/b424ff6d42ce5b67571ef7d9ef88b5cae27c8797/, b-URL: https://www.homes.co.jp/chintai/b-1133690238344/",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T02:44:41+09:00",
+  "nearby_parking": [],
+  "monthly_total": 72000,
+  "monthly_total_with_parking": 77000,
+  "score": 34.8,
+  "rank": 39
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000110113348/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_413925282/"
+   }
+  ],
+  "building_name": "京阪鴨東線 出町柳駅 3階建 築34年",
+  "address": "京都府京都市左京区下鴨高木町",
+  "lat": 35.043949,
+  "lon": 135.776154,
+  "distance_km": 2.24,
+  "bike_min": 13,
+  "rent": 98000,
+  "kanrihi": 6000,
+  "shikikin": "98,000円 (1ヶ月)",
+  "shikikin_months": 1.0,
+  "reikin": "98,000円 (1ヶ月)",
+  "reikin_months": 1.0,
+  "other_initial": "ほか諸費用: 更新料1ヶ月 更新事務手数料16500円, 損保 1.7万円2年, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 49.2,
+  "floor": 2,
+  "building_floors": 3,
+  "elevator": false,
+  "built_year": 1993,
+  "built_month": 4,
+  "age_years": 33,
+  "structure": "RC",
+  "parking": "敷地内16500円",
+  "parking_status": "onsite",
+  "parking_fee": 16500,
+  "nearest_station": "京阪鴨東線/出町柳駅 歩4分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "南向き; 建物種別: マンション; 条件: -; 設備: オートロック, 都市ガス, システムキッチン, 駐輪場; 入居: 即; 総戸数 -; 取扱: (株)京都賃貸ハウス; 更新 2026/09/30; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T01:58:06+09:00",
+  "nearby_parking": [],
+  "monthly_total": 104000,
+  "monthly_total_with_parking": 120500,
+  "score": 34.0,
+  "rank": 40
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000104258621/"
+   },
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000109318069/"
+   },
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000104258622/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_400619820/"
+   }
+  ],
+  "building_name": "Ｖｅｒｄｅ ｎｅｒｏ Ｋａｍｉｇａｍｏ B201号室",
+  "address": "京都府京都市北区上賀茂岡本町",
+  "lat": 35.058594,
+  "lon": 135.760513,
+  "distance_km": 4.02,
+  "bike_min": 23,
+  "rent": 96000,
+  "kanrihi": 3000,
+  "shikikin": "100,000円 (1ヶ月)",
+  "shikikin_months": 1.0,
+  "reikin": "100,000円 (1ヶ月)",
+  "reikin_months": 1.0,
+  "other_initial": "ほか諸費用: 安心サポート料2.2万円/2年 ハウスクリーニング代3.52万円/退去時, 損保 1.6万円2年, 取引態様：仲介",
+  "layout": "3DK",
+  "area_m2": 59.1,
+  "floor": 2,
+  "building_floors": 2,
+  "elevator": false,
+  "built_year": 2001,
+  "built_month": 3,
+  "age_years": 25,
+  "structure": "軽量鉄骨",
+  "parking": "付無料",
+  "parking_status": "onsite",
+  "parking_fee": 0,
+  "nearest_station": "地下鉄烏丸線/北山駅 歩15分",
+  "tier": "A",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "B-",
+  "insulation_note": "ما بعد معيار 1999 لكن هيكل فولاذي خفيف؛ اسأل عن العزل والضجيج",
+  "notes": "南向き; 建物種別: アパート; 条件: 二人入居可/子供可; 設備: 追焚, 都市ガス, 最上階, 二人入居, 駐輪場; 入居: 即; 総戸数 12戸; 取扱: (株)京都ライフ四条烏丸店; 更新 2026/09/30; 備考: 地下鉄烏丸線鞍馬口駅徒歩30分/巡回管理/更新料：新家賃1ヶ月; 構造(原文): 軽量鉄骨",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T01:58:06+09:00",
+  "nearby_parking": [],
+  "monthly_total": 99000,
+  "monthly_total_with_parking": null,
+  "score": 34.0,
+  "rank": 41
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000105353455/"
+   },
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000105409505/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/bfa748b927dcb7c96f1e45cd95162cf97587dafd/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_403044104/"
+   }
+  ],
+  "building_name": "カーサ紫明 2A号室",
+  "address": "京都府京都市北区紫野宮東町",
+  "lat": 35.038025,
+  "lon": 135.75354,
+  "distance_km": 2.37,
+  "bike_min": 14,
+  "rent": 92000,
+  "kanrihi": 10000,
+  "shikikin": "0円",
+  "shikikin_months": 0.0,
+  "reikin": "92,000円 (1ヶ月)",
+  "reikin_months": 1.0,
+  "other_initial": "ほか諸費用: ハウスクリーニング 33000円／退去時 更新料 1ヶ月, 損保 3.85万円2年, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 56.0,
+  "floor": 2,
+  "building_floors": 4,
+  "elevator": false,
+  "built_year": 1991,
+  "built_month": 7,
+  "age_years": 35,
+  "structure": "RC",
+  "parking": "-",
+  "parking_status": "unknown",
+  "parking_fee": null,
+  "nearest_station": "地下鉄烏丸線/北大路駅 歩10分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "北向き; 建物種別: マンション; 条件: 二人入居可/子供可; 設備: 都市ガス, 敷金不要, 二人入居, 駐輪場, バイク置場; 入居: 即; 総戸数 6戸; 取扱: (株)グッドライフ四条烏丸店; 更新 2026/09/30; 備考: 京都市営地下鉄烏丸線 北山駅徒歩27分/常駐管理/弊社は来店不要のオンライン内見、オンライン申込みが可能です。各種クレジットカード決済もご利用可能です。; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T01:58:06+09:00",
+  "nearby_parking": [
+   {
+    "name": "京都市北区紫野宮東町 月極駐車場",
+    "url": "https://p-king.jp/detail/564810",
+    "monthly_fee": 18500,
+    "fee_text": "18,500円",
+    "address": "京都府京都市北区紫野宮東町",
+    "distance_km": 0.06,
+    "walk_min": 1
+   },
+   {
+    "name": "京都市北区紫野宮東町 月極駐車場",
+    "url": "https://p-king.jp/detail/654459",
+    "monthly_fee": 18500,
+    "fee_text": "18,500円",
+    "address": "京都府京都市北区紫野宮東町",
+    "distance_km": 0.06,
+    "walk_min": 1
+   },
+   {
+    "name": "京都市北区紫野宮東町 月極駐車場",
+    "url": "https://p-king.jp/detail/554212",
+    "monthly_fee": null,
+    "fee_text": "お問合せください",
+    "address": "京都府京都市北区紫野宮東町",
+    "distance_km": 0.06,
+    "walk_min": 1
+   }
+  ],
+  "monthly_total": 102000,
+  "monthly_total_with_parking": 120500,
+  "score": 33.4,
+  "rank": 42
+ },
+ {
+  "sources": [
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_404949548/"
+   }
+  ],
+  "building_name": "カーサフジキ",
+  "address": "京都府京都市左京区岩倉南平岡町",
+  "lat": 35.066807,
+  "lon": 135.7771,
+  "distance_km": 4.78,
+  "bike_min": 28,
+  "rent": 70000,
+  "kanrihi": 5000,
+  "shikikin": "7万円(-)",
+  "shikikin_months": 1.0,
+  "reikin": "7万円",
+  "reikin_months": 1.0,
+  "other_initial": "仲介手数料: 詳細は不動産会社にご確認ください; 保証会社: 保証会社利用必 初回契約時：50％、更新時：13，000円、引落手数料：550円/月(税込); 住宅保険: 20,000円/2年; 契約期間: 普通借家 2年",
+  "layout": "2LDK",
+  "area_m2": 48.0,
+  "floor": 2,
+  "building_floors": 3,
+  "elevator": false,
+  "built_year": 1998,
+  "built_month": 12,
+  "age_years": 28,
+  "structure": "RC",
+  "parking": "敷地内8000円/平置駐",
+  "parking_status": "onsite",
+  "parking_fee": 8000,
+  "nearest_station": "叡山電鉄叡山本線 木野駅 徒歩7分 地下鉄烏丸線 国際会館駅 徒歩14分 叡山電鉄叡山本線 岩倉駅 徒歩16分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "キッチン: ガスコンロ対応 / バス・トイレ: バス・トイレ別、温水洗浄便座、独立洗面台 / 冷暖房: エアコン / 収納: クローゼット、シューズボックス / インターネット・TV: 光回線、CSアンテナ、BSアンテナ  / 室内設備: 都市ガス、室内洗濯機置場、フローリング、バルコニー  / 共用部: ごみ出し24時間OK、敷地内ゴミ置き場  / セキュリティ: TVモニタ付インターホン / 駐車場・駐輪場: 駐車場あり、敷地内駐車場、バイク置き場、駐輪場あり  / その他: 角部屋、２階以上、日当たり良好、閑静な住宅街、IT重説対応物件、初期費用カード決済可",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T02:43:44+09:00",
+  "nearby_parking": [],
+  "monthly_total": 75000,
+  "monthly_total_with_parking": 83000,
+  "score": 32.8,
+  "rank": 43
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000099373652/"
+   },
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000099373653/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/293c6dd34e012194b4b13c22293ef1f85c01f197/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_389357522/"
+   }
+  ],
+  "building_name": "コアロード鷹ヶ峯 302号室",
+  "address": "京都府京都市北区大宮南箱ノ井町",
+  "lat": 35.052853,
+  "lon": 135.740448,
+  "distance_km": 4.38,
+  "bike_min": 25,
+  "rent": 75000,
+  "kanrihi": 6000,
+  "shikikin": "100,000円 (1.3ヶ月)",
+  "shikikin_months": 1.3,
+  "reikin": "0円",
+  "reikin_months": 0.0,
+  "other_initial": "損保 2.2万円2年, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 48.3,
+  "floor": 3,
+  "building_floors": 3,
+  "elevator": false,
+  "built_year": 1994,
+  "built_month": 1,
+  "age_years": 32,
+  "structure": "RC",
+  "parking": "-",
+  "parking_status": "unknown",
+  "parking_fee": 10000,
+  "nearest_station": "地下鉄烏丸線/北大路駅 歩28分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "南西向き; 建物種別: マンション; 条件: 二人入居可/子供可; 設備: オートロック, 都市ガス, 最上階, 礼金不要, 二人入居, 駐輪場; 入居: 即; 総戸数 15戸; 取扱: (株)京都ライフ三条烏丸店; 更新 2026/09/30; 備考: 京都市バス玄琢下駅徒歩1分/巡回管理/更新料：新家賃1ヶ月; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T01:58:06+09:00",
+  "nearby_parking": [
+   {
+    "name": "京都市北区大宮南箱ノ井町 月極駐車場",
+    "url": "https://p-king.jp/detail/565464",
+    "monthly_fee": null,
+    "fee_text": "お問合せください",
+    "address": "京都府京都市北区大宮南箱ノ井町",
+    "distance_km": 0.05,
+    "walk_min": 1
+   },
+   {
+    "name": "京都市北区大宮南箱ノ井町 月極駐車場",
+    "url": "https://p-king.jp/detail/565460",
+    "monthly_fee": 12000,
+    "fee_text": "12,000円",
+    "address": "京都府京都市北区大宮南箱ノ井町",
+    "distance_km": 0.06,
+    "walk_min": 1
+   },
+   {
+    "name": "京都市北区大宮開町 月極駐車場",
+    "url": "https://p-king.jp/detail/658117",
+    "monthly_fee": 12001,
+    "fee_text": "12,001円",
+    "address": "京都府京都市北区大宮開町",
+    "distance_km": 0.07,
+    "walk_min": 1
+   }
+  ],
+  "monthly_total": 81000,
+  "monthly_total_with_parking": null,
+  "score": 32.1,
+  "rank": 44
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000108473611/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/8d322ae38ad4ac9865f07e8621c5b30ef181ca59/"
+   },
+   {
+    "source": "chintai",
+    "url": "https://www.chintai.net/detail/bk-0000007140000000000133310029/"
+   },
+   {
+    "source": "able",
+    "url": "https://www.able.co.jp/detail/Detail.do?bk=000000714013331029&prefkey=kyoto"
+   }
+  ],
+  "building_name": "セノータ 402号室",
+  "address": "京都府京都市下京区油小路通綾小路下ル風早町",
+  "lat": 35.001816,
+  "lon": 135.753723,
+  "distance_km": 3.03,
+  "bike_min": 17,
+  "rent": 95000,
+  "kanrihi": 10500,
+  "shikikin": "100,000円 (1.1ヶ月)",
+  "shikikin_months": 1.1,
+  "reikin": "180,000円 (1.9ヶ月)",
+  "reikin_months": 1.9,
+  "other_initial": "ほか諸費用: 町会費1000円/月, 損保 2.8万円2年, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 45.11,
+  "floor": 4,
+  "building_floors": 7,
+  "elevator": true,
+  "built_year": 1993,
+  "built_month": 4,
+  "age_years": 33,
+  "structure": "RC",
+  "parking": "敷地内27500円",
+  "parking_status": "onsite",
+  "parking_fee": 27500,
+  "nearest_station": "地下鉄烏丸線/四条駅 歩9分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "南向き; 建物種別: マンション; 条件: 二人入居可/子供可/ルームシェア相談; 設備: オートロック, 都市ガス, 宅配ボックス, 二人入居, 駐輪場; 入居: 即; 総戸数 27戸; 取扱: アパマンショップ河原町三条店ウインズリンク(株); 更新 2026/09/30; 備考: 京福電鉄嵐山本線四条大宮駅徒歩7分/巡回管理/更新料：新家賃1ヶ月; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T01:58:06+09:00",
+  "nearby_parking": [],
+  "monthly_total": 105500,
+  "monthly_total_with_parking": 133000,
+  "score": 31.9,
+  "rank": 45
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000066487425/"
+   },
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000066487426/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/0dd9d9898dc665b7d9a130042ee6a687a4348b65/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/6e780f30434a4a850ddee88e5755b7c124bda51d/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_410623778/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_312272351/"
+   }
+  ],
+  "building_name": "四条大宮シャトー朝日",
+  "address": "京都府京都市下京区五坊大宮町",
+  "lat": 35.000668,
+  "lon": 135.749084,
+  "distance_km": 3.4,
+  "bike_min": 20,
+  "rent": 100000,
+  "kanrihi": 10000,
+  "shikikin": "100,000円 (1ヶ月)",
+  "shikikin_months": 1.0,
+  "reikin": "200,000円 (2ヶ月)",
+  "reikin_months": 2.0,
+  "other_initial": "ほか諸費用: 町会費250円/月, 損保 2万円2年, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 53.28,
+  "floor": 10,
+  "building_floors": 11,
+  "elevator": true,
+  "built_year": 1991,
+  "built_month": 1,
+  "age_years": 35,
+  "structure": "SRC",
+  "parking": "-",
+  "parking_status": "unknown",
+  "parking_fee": 26000,
+  "nearest_station": "阪急京都線/大宮駅 歩4分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "西向き; 建物種別: マンション; 条件: -; 設備: オートロック, システムキッチン, 駐輪場, バイク置場, 敷地内ごみ置き場; 入居: '26年10月中旬; 総戸数 63戸; 取扱: (株)京都ライフ二条駅前店; 更新 2026/09/30; 備考: 地下鉄烏丸線五条駅徒歩18分/巡回管理/更新料：新家賃1ヶ月 更新手数料：6600円; 構造(原文): 鉄骨鉄筋",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T01:58:06+09:00",
+  "nearby_parking": [
+   {
+    "name": "京都市下京区坊門町 月極駐車場",
+    "url": "https://p-king.jp/detail/51941",
+    "monthly_fee": 19800,
+    "fee_text": "19,800円",
+    "address": "京都府京都市下京区坊門町",
+    "distance_km": 0.11,
+    "walk_min": 1
+   },
+   {
+    "name": "マンスリー仏光寺大宮（自動車）：平面",
+    "url": "https://www.at-parking.jp/search/kyoto/kyoto-shi_shimogyo-ku/bomoncho/349714.html",
+    "monthly_fee": null,
+    "fee_text": "お問い合わせください",
+    "address": "京都府京都市下京区坊門町825",
+    "distance_km": 0.11,
+    "walk_min": 1
+   },
+   {
+    "name": "京都市下京区坊門町　月極駐車場",
+    "url": "https://p-king.jp/detail/36587",
+    "monthly_fee": 18000,
+    "fee_text": "18,000円",
+    "address": "京都府京都市下京区坊門町",
+    "distance_km": 0.14,
+    "walk_min": 2
+   }
+  ],
+  "monthly_total": 110000,
+  "monthly_total_with_parking": 129800,
+  "score": 31.2,
+  "rank": 46
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000105371228/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/5c738dca67ca8942c4b50ff9ac01ffc58ed1659a/"
+   },
+   {
+    "source": "chintai",
+    "url": "https://www.chintai.net/detail/bk-0000007070000000000570010002/"
+   },
+   {
+    "source": "able",
+    "url": "https://www.able.co.jp/detail/Detail.do?bk=000000707057001002&prefkey=kyoto"
+   }
+  ],
+  "building_name": "カーサ紫明 2-A号室",
+  "address": "京都府京都市北区紫野宮東町",
+  "lat": 35.038025,
+  "lon": 135.75354,
+  "distance_km": 2.37,
+  "bike_min": 14,
+  "rent": 92000,
+  "kanrihi": 10000,
+  "shikikin": "0円",
+  "shikikin_months": 0.0,
+  "reikin": "92,000円 (1ヶ月)",
+  "reikin_months": 1.0,
+  "other_initial": "ほか諸費用: ハウスクリーニング代3.3万円/退去時, 損保 3.85万円2年, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 53.0,
+  "floor": 2,
+  "building_floors": 4,
+  "elevator": false,
+  "built_year": 1991,
+  "built_month": 8,
+  "age_years": 35,
+  "structure": "RC",
+  "parking": "-",
+  "parking_status": "unknown",
+  "parking_fee": null,
+  "nearest_station": "地下鉄烏丸線/鞍馬口駅 歩5分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "北向き; 建物種別: マンション; 条件: 二人入居可/子供可/ルームシェア相談; 設備: 都市ガス, 敷金不要, 二人入居, 駐輪場, バイク置場; 入居: 即; 総戸数 7戸; 取扱: アパマンショップ今出川店ウインズリンク(株); 更新 2026/09/30; 備考: 巡回管理/更新料：92000円 更新手数料：無; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T01:58:06+09:00",
+  "nearby_parking": [
+   {
+    "name": "京都市北区紫野宮東町 月極駐車場",
+    "url": "https://p-king.jp/detail/564810",
+    "monthly_fee": 18500,
+    "fee_text": "18,500円",
+    "address": "京都府京都市北区紫野宮東町",
+    "distance_km": 0.06,
+    "walk_min": 1
+   },
+   {
+    "name": "京都市北区紫野宮東町 月極駐車場",
+    "url": "https://p-king.jp/detail/654459",
+    "monthly_fee": 18500,
+    "fee_text": "18,500円",
+    "address": "京都府京都市北区紫野宮東町",
+    "distance_km": 0.06,
+    "walk_min": 1
+   },
+   {
+    "name": "京都市北区紫野宮東町 月極駐車場",
+    "url": "https://p-king.jp/detail/554212",
+    "monthly_fee": null,
+    "fee_text": "お問合せください",
+    "address": "京都府京都市北区紫野宮東町",
+    "distance_km": 0.06,
+    "walk_min": 1
+   }
+  ],
+  "monthly_total": 102000,
+  "monthly_total_with_parking": 120500,
+  "score": 31.1,
+  "rank": 47
+ },
+ {
+  "sources": [
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/61f99c40baec28c61abed418b41bd161e2741a5b/"
+   }
+  ],
+  "building_name": "レグルス",
+  "address": "京都府京都市左京区岩倉幡枝町",
+  "lat": 35.066051,
+  "lon": 135.77182,
+  "distance_km": 4.68,
+  "bike_min": 27,
+  "rent": 96000,
+  "kanrihi": 8000,
+  "shikikin": "無",
+  "shikikin_months": 0.0,
+  "reikin": "10万円",
+  "reikin_months": 1.04,
+  "other_initial": "保証会社:加入要 保証会社利用料：初回：3.5万円、月額：保証料として月額賃料等の1%+800円, 住宅保険:要, 更新料:新賃料の1ヶ月分, その他費用:鍵交換費用：16,500円、室内清掃費用：71,500円, 取引態様:仲介, 契約期間:2年間",
+  "layout": "2LDK",
+  "area_m2": 60.23,
+  "floor": 2,
+  "building_floors": 2,
+  "elevator": false,
+  "built_year": 2013,
+  "built_month": 3,
+  "age_years": 13,
+  "structure": "軽量鉄骨",
+  "parking": "空有 8,800円(税込)",
+  "parking_status": "onsite",
+  "parking_fee": 8800,
+  "nearest_station": "叡山電鉄鞍馬線 木野駅 徒歩14分",
+  "tier": "A",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "B-",
+  "insulation_note": "ما بعد معيار 1999 لكن هيكل فولاذي خفيف؛ اسأل عن العزل والضجيج",
+  "notes": "向き:南東, 非オートロック, 追焚機能, 非南向き, TVモニタ付インターホン, インターネット使用料無料, カウンターキッチン, システムキッチン, ペット相談, 二人入居可, 即入居可, 宅配ボックス, 浴室乾燥機, 温水洗浄便座, 追焚機能, 都市ガス, 駐輪場あり, 入居可能:即時, 現況:空家, 総戸数:6戸, 構造:軽量鉄骨造, 不動産会社:アパマンショップ出町柳店 ウインズリンク株式会社, 種別:賃貸アパート, 間取り詳細:2LDK ( 洋室 6.1帖(2階) 洋室 4.4帖(2階) リビングダイニングキッチン 10.4帖(2階) ), 同一住戸の他掲載: https://www.homes.co.jp/chintai/room/c99f936cbba4acc6f490a6bb32a8913cd506fdaa/, b-URL: https://www.homes.co.jp/chintai/b-1124270231241/",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T02:44:41+09:00",
+  "nearby_parking": [],
+  "monthly_total": 104000,
+  "monthly_total_with_parking": 112800,
+  "score": 31.0,
+  "rank": 48
+ },
+ {
+  "sources": [
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_411800756/"
+   }
+  ],
+  "building_name": "ヒルズ宝ヶ池",
+  "address": "京都府京都市左京区岩倉南河原町",
+  "lat": 35.068592,
+  "lon": 135.779785,
+  "distance_km": 5.0,
+  "bike_min": 29,
+  "rent": 82000,
+  "kanrihi": 5000,
+  "shikikin": "0円(-)",
+  "shikikin_months": 0.0,
+  "reikin": "8.2万円",
+  "reikin_months": 1.0,
+  "other_initial": "仲介手数料: 0.55ヶ月; 保証会社: 全保連利用必 初回総家賃の５０％、月額２０９０円（保険付き）; 契約期間: 普通借家 2年",
+  "layout": "3DK",
+  "area_m2": 55.0,
+  "floor": 2,
+  "building_floors": 3,
+  "elevator": false,
+  "built_year": 1994,
+  "built_month": 2,
+  "age_years": 32,
+  "structure": "RC",
+  "parking": "敷地内8800円",
+  "parking_status": "onsite",
+  "parking_fee": 8800,
+  "nearest_station": "叡山電鉄叡山本線 木野駅 徒歩9分 地下鉄烏丸線 国際会館駅 徒歩10分 叡山電鉄叡山本線 岩倉駅 徒歩11分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "キッチン: ガスコンロ対応 / バス・トイレ: バス・トイレ別、シャンプードレッサー、独立洗面台 / 冷暖房: エアコン / インターネット・TV: 光回線、BSアンテナ  / 室内設備: 都市ガス、室内洗濯機置場、フローリング、バルコニー  / 共用部: -  / 駐車場・駐輪場: 駐車場あり、敷地内駐車場、駐輪場あり  / その他: 南向き、２階以上、日当たり良好、閑静な住宅街 | 同一住戸の他掲載: https://sumaity.com/chintai/kyoto_prop/prop_411692610/ (賃料82000, 礼金 8.2万円)",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T02:43:44+09:00",
+  "nearby_parking": [],
+  "monthly_total": 87000,
+  "monthly_total_with_parking": 95800,
+  "score": 31.0,
+  "rank": 49
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000090025092/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/d9f7dc639f443db5a7127ba594c3e3169adc1768/"
+   }
+  ],
+  "building_name": "スクエアコート",
+  "address": "京都府京都市北区紫竹牛若町",
+  "lat": 35.048241,
+  "lon": 135.744995,
+  "distance_km": 3.72,
+  "bike_min": 21,
+  "rent": 75000,
+  "kanrihi": 7000,
+  "shikikin": "0円",
+  "shikikin_months": 0.0,
+  "reikin": "150,000円 (2ヶ月)",
+  "reikin_months": 2.0,
+  "other_initial": "保証金 5万円, ほか諸費用: 更新料30000円, 損保 -, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 49.64,
+  "floor": 2,
+  "building_floors": 3,
+  "elevator": false,
+  "built_year": 1991,
+  "built_month": 8,
+  "age_years": 35,
+  "structure": "RC",
+  "parking": "-",
+  "parking_status": "unknown",
+  "parking_fee": null,
+  "nearest_station": "地下鉄烏丸線/北大路駅 歩18分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "北向き; 建物種別: マンション; 条件: 二人入居可/子供可/事務所利用不可; 設備: 都市ガス, 二人入居; 入居: 即; 総戸数 7戸; 取扱: 賃貸住宅サービス FC京都駅前店(株)ALIVE; 更新 2026/09/30; 備考: 京福北野線 北野白梅町駅徒歩42分/巡回管理/補償料/月/800円; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T01:58:06+09:00",
+  "nearby_parking": [
+   {
+    "name": "京都市北区紫竹牛若町 月極駐車場",
+    "url": "https://p-king.jp/detail/565360",
+    "monthly_fee": 18000,
+    "fee_text": "18,000円",
+    "address": "京都府京都市北区紫竹牛若町",
+    "distance_km": 0.06,
+    "walk_min": 1
+   },
+   {
+    "name": "京都市北区紫竹牛若町 月極駐車場",
+    "url": "https://p-king.jp/detail/565357",
+    "monthly_fee": 18000,
+    "fee_text": "18,000円",
+    "address": "京都府京都市北区紫竹牛若町",
+    "distance_km": 0.08,
+    "walk_min": 1
+   },
+   {
+    "name": "京都市北区紫竹牛若町 月極駐車場",
+    "url": "https://p-king.jp/detail/565359",
+    "monthly_fee": 18000,
+    "fee_text": "18,000円",
+    "address": "京都府京都市北区紫竹牛若町",
+    "distance_km": 0.08,
+    "walk_min": 1
+   }
+  ],
+  "monthly_total": 82000,
+  "monthly_total_with_parking": 100000,
+  "score": 30.9,
+  "rank": 50
+ },
+ {
+  "sources": [
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_412063124/"
+   }
+  ],
+  "building_name": "Verde",
+  "address": "京都府京都市北区",
+  "lat": 35.0512133888889,
+  "lon": 135.765653027778,
+  "distance_km": 3.11,
+  "bike_min": 18,
+  "rent": 96000,
+  "kanrihi": 3000,
+  "shikikin": "10万円(-)",
+  "shikikin_months": 1.04,
+  "reikin": "10万円",
+  "reikin_months": 1.04,
+  "other_initial": "仲介手数料: 詳細は不動産会社にご確認ください; 保証会社: 詳細は不動産会社にご確認ください; 契約期間: 2年",
+  "layout": "3DK",
+  "area_m2": 59.1,
+  "floor": 2,
+  "building_floors": 2,
+  "elevator": false,
+  "built_year": 2001,
+  "built_month": 3,
+  "age_years": 25,
+  "structure": "軽量鉄骨",
+  "parking": "空有",
+  "parking_status": "onsite",
+  "parking_fee": null,
+  "nearest_station": "烏丸線 北山駅 徒歩15分 烏丸線 松ヶ崎駅 徒歩25分",
+  "tier": "A",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "B-",
+  "insulation_note": "ما بعد معيار 1999 لكن هيكل فولاذي خفيف؛ اسأل عن العزل والضجيج",
+  "notes": "キッチン: ガスコンロ対応、コンロ2口以上 / バス・トイレ: バス・トイレ別、シャワー、給湯、追い焚き、シャンプードレッサー、温水洗浄便座、独立洗面台 / インターネット・TV: BSアンテナ / 室内設備: 都市ガス、室内洗濯機置場、フローリング、出窓、バルコニー  / 共用部: -  / セキュリティ: TVモニタ付インターホン / 駐車場・駐輪場: 駐車場あり、駐輪場あり  / その他: 南向き、角部屋、２階以上、最上階 | 掲載期限: あと5日 | 住所は区までしか公開されていない → 位置・距離は最寄駅 北山駅 徒歩15分 で近似 (±1.2 km)",
+  "coarse_address": true,
+  "fetched_at": "2026-10-02T02:43:44+09:00",
+  "nearby_parking": [],
+  "monthly_total": 99000,
+  "monthly_total_with_parking": null,
+  "score": 30.5,
+  "rank": 51
+ },
+ {
+  "sources": [
+   {
+    "source": "chintai",
+    "url": "https://www.chintai.net/detail/bk-0000007040000000000439820009/"
+   },
+   {
+    "source": "able",
+    "url": "https://www.able.co.jp/detail/Detail.do?bk=000000704043982009&prefkey=kyoto"
+   }
+  ],
+  "building_name": "Ｒｏｓｙ　Ｇａｒｄｅｎ",
+  "address": "京都府京都市東山区大和大路通五条下る二丁目上梅屋町",
+  "lat": 34.99294,
+  "lon": 135.772777,
+  "distance_km": 3.45,
+  "bike_min": 20,
+  "rent": 87000,
+  "kanrihi": 8000,
+  "shikikin": "87,000円 (1.0ヶ月)",
+  "shikikin_months": 1.0,
+  "reikin": "87,000円 (1.0ヶ月)",
+  "reikin_months": 1.0,
+  "other_initial": "その他初期費用: 契約時必須(入居者サポート費用:38,500円) / 契約時必須(清掃代:30,800円) / 契約時必須(エアコン洗浄:27,500円) / 契約時必須(鍵交換代:16,500円); 更新料: 1ヶ月; 保証会社: 保証会社必加入（実費）; 保険: 損害保険加入要。",
+  "layout": "2LDK",
+  "area_m2": 48.87,
+  "floor": 3,
+  "building_floors": 3,
+  "elevator": false,
+  "built_year": 1994,
+  "built_month": 4,
+  "age_years": 32,
+  "structure": "RC",
+  "parking": "有料駐車場 1台 （22,000円/月） / 自転車置き場 ※駐車場の金額表示は1台分の表示となります。",
+  "parking_status": "onsite",
+  "parking_fee": 22000,
+  "nearest_station": "京阪本線・鴨東線/清水五条駅 徒歩9分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "direction: 南 | conditions: 家賃保証会社利用必須 / 子供可 | contract: 一般契約：2年間 | deal_type: 媒介 | move_in: 空予定 (2026年10月下旬) | koshinryo: 1ヶ月 | 設備: バス・トイレ別, TVモニターホン, 室内洗濯機置き場, 駐車場付き, 独立洗面台, ベランダ・バルコニー | 備考: 仲介手数料家賃の55%。 保証会社加入要(初回、月額総支払額の40%)。 | PR: 南向きベランダ。ファミリー様必見。きっと気に入っていただけるはず。 | kind: マンション; updated 2026/09/30; geo: chintai map coords",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T01:59:18+09:00",
+  "nearby_parking": [],
+  "monthly_total": 95000,
+  "monthly_total_with_parking": 117000,
+  "score": 30.2,
+  "rank": 52
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000108226450/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/438cb582e223912a2cc996ca0b37dde011d8ca25/"
+   }
+  ],
+  "building_name": "レグルス",
+  "address": "京都府京都市左京区岩倉幡枝町",
+  "lat": 35.066051,
+  "lon": 135.77182,
+  "distance_km": 4.68,
+  "bike_min": 27,
+  "rent": 96000,
+  "kanrihi": 8000,
+  "shikikin": "0円",
+  "shikikin_months": 0.0,
+  "reikin": "100,000円 (1ヶ月)",
+  "reikin_months": 1.0,
+  "other_initial": "ほか諸費用: 家賃保証料:1928円/月 口座振替手数料:99円/月 更新料:新賃料の1ヶ月分/更新時, 損保 要, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 58.7,
+  "floor": 2,
+  "building_floors": 2,
+  "elevator": false,
+  "built_year": 2013,
+  "built_month": 3,
+  "age_years": 13,
+  "structure": "軽量鉄骨",
+  "parking": "敷地内8800円",
+  "parking_status": "onsite",
+  "parking_fee": 8800,
+  "nearest_station": "地下鉄烏丸線/国際会館駅 歩18分",
+  "tier": "A",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "B-",
+  "insulation_note": "ما بعد معيار 1999 لكن هيكل فولاذي خفيف؛ اسأل عن العزل والضجيج",
+  "notes": "東向き; 建物種別: アパート; 条件: 二人入居可/子供可/ペット相談; 設備: 追焚, 都市ガス, ペット, 浴室乾燥, 宅配ボックス, 最上階, 敷金不要, 保証人不要, 二人入居, システムキッチン, 駐輪場, バイク置場, 敷地内ごみ置き場; 入居: 即; 総戸数 6戸; 取扱: (株)エリッツ京都大学前店; 更新 2026/09/30; 備考: ペット相談条件:室内小型犬１匹のみ可; 構造(原文): 軽量鉄骨",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T01:58:06+09:00",
+  "nearby_parking": [],
+  "monthly_total": 104000,
+  "monthly_total_with_parking": 112800,
+  "score": 29.9,
+  "rank": 53
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000024203548/"
+   },
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000060497291/"
+   }
+  ],
+  "building_name": "スクエアコート",
+  "address": "京都府京都市北区紫竹牛若町",
+  "lat": 35.048241,
+  "lon": 135.744995,
+  "distance_km": 3.72,
+  "bike_min": 21,
+  "rent": 78000,
+  "kanrihi": 7000,
+  "shikikin": "50,000円 (0.64ヶ月)",
+  "shikikin_months": 0.64,
+  "reikin": "150,000円 (1.9ヶ月)",
+  "reikin_months": 1.9,
+  "other_initial": "ほか諸費用: 水道代実費、補償 800円/月, 損保 -, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 49.64,
+  "floor": 3,
+  "building_floors": 3,
+  "elevator": false,
+  "built_year": 1991,
+  "built_month": 7,
+  "age_years": 35,
+  "structure": "RC",
+  "parking": "-",
+  "parking_status": "unknown",
+  "parking_fee": null,
+  "nearest_station": "地下鉄烏丸線/北大路駅 歩17分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "南向き; 建物種別: マンション; 条件: 単身者可/二人入居可; 設備: オートロック, 都市ガス, 二人入居, 駐輪場; 入居: 即; 総戸数 7戸; 取扱: (株)FirstLine 本店; 更新 2026/09/30; 備考: スーパーやコンビニなどの生活施設も豊富な地域になります！便利で人気の住環境なので、京都での生活が初めての方にもオススメ致します！; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T01:58:06+09:00",
+  "nearby_parking": [
+   {
+    "name": "京都市北区紫竹牛若町 月極駐車場",
+    "url": "https://p-king.jp/detail/565360",
+    "monthly_fee": 18000,
+    "fee_text": "18,000円",
+    "address": "京都府京都市北区紫竹牛若町",
+    "distance_km": 0.06,
+    "walk_min": 1
+   },
+   {
+    "name": "京都市北区紫竹牛若町 月極駐車場",
+    "url": "https://p-king.jp/detail/565357",
+    "monthly_fee": 18000,
+    "fee_text": "18,000円",
+    "address": "京都府京都市北区紫竹牛若町",
+    "distance_km": 0.08,
+    "walk_min": 1
+   },
+   {
+    "name": "京都市北区紫竹牛若町 月極駐車場",
+    "url": "https://p-king.jp/detail/565359",
+    "monthly_fee": 18000,
+    "fee_text": "18,000円",
+    "address": "京都府京都市北区紫竹牛若町",
+    "distance_km": 0.08,
+    "walk_min": 1
+   }
+  ],
+  "monthly_total": 85000,
+  "monthly_total_with_parking": 103000,
+  "score": 29.4,
+  "rank": 54
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000109142956/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/6286f5b2828a5651b3724518feb68480d7ef6834/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/7a3d1963ddc7c823e15f30a31453cacfde741902/"
+   },
+   {
+    "source": "chintai",
+    "url": "https://www.chintai.net/detail/bk-0000007100000000001521650004/"
+   },
+   {
+    "source": "able",
+    "url": "https://www.able.co.jp/detail/Detail.do?bk=000000710152165004&prefkey=kyoto"
+   }
+  ],
+  "building_name": "ヒルズ宝ヶ池",
+  "address": "京都府京都市左京区岩倉南河原町",
+  "lat": 35.068592,
+  "lon": 135.779785,
+  "distance_km": 5.0,
+  "bike_min": 29,
+  "rent": 82000,
+  "kanrihi": 5000,
+  "shikikin": "0円",
+  "shikikin_months": 0.0,
+  "reikin": "82,000円 (1ヶ月)",
+  "reikin_months": 1.0,
+  "other_initial": "ほか諸費用: その他:2090円/月 入居サポート:1870円/月 更新料:50000円/更新時, 損保 要, 取引態様：仲介",
+  "layout": "3DK",
+  "area_m2": 52.82,
+  "floor": 2,
+  "building_floors": 3,
+  "elevator": false,
+  "built_year": 1994,
+  "built_month": 3,
+  "age_years": 32,
+  "structure": "RC",
+  "parking": "敷地内8800円",
+  "parking_status": "onsite",
+  "parking_fee": 8800,
+  "nearest_station": "地下鉄烏丸線/国際会館駅 歩10分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "南向き; 建物種別: マンション; 条件: 二人入居可/子供可; 設備: 都市ガス, 敷金不要, 二人入居, 駐輪場, バイク置場; 入居: '26年11月下旬; 総戸数 12戸; 取扱: (株)エリッツ北山店; 更新 2026/09/30; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T01:58:06+09:00",
+  "nearby_parking": [],
+  "monthly_total": 87000,
+  "monthly_total_with_parking": 95800,
+  "score": 29.4,
+  "rank": 55
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000107826006/"
+   },
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000107826005/"
+   },
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000108014735/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/a7f7e61d547371a0b34c243fa9bf8d5adc1cbd81/"
+   },
+   {
+    "source": "chintai",
+    "url": "https://www.chintai.net/detail/bk-0000007100000000007472910001/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_408346822/"
+   },
+   {
+    "source": "eheya",
+    "url": "https://www.eheya.net/detail/300000832008602000001/"
+   },
+   {
+    "source": "able",
+    "url": "https://www.able.co.jp/detail/Detail.do?bk=000000710747291001&prefkey=kyoto"
+   }
+  ],
+  "building_name": "シンフォニー宝ヶ池 301号室",
+  "address": "京都府京都市左京区岩倉北池田町",
+  "lat": 35.064857,
+  "lon": 135.776367,
+  "distance_km": 4.56,
+  "bike_min": 26,
+  "rent": 92000,
+  "kanrihi": 3000,
+  "shikikin": "138,000円 (1.5ヶ月)",
+  "shikikin_months": 1.5,
+  "reikin": "92,000円 (1ヶ月)",
+  "reikin_months": 1.0,
+  "other_initial": "ほか諸費用: 入居者サポート1500円/月 ハウスクリーニング代9.68万円/退去時, 損保 2.55万円2年, 取引態様：仲介",
+  "layout": "3LDK",
+  "area_m2": 55.15,
+  "floor": 3,
+  "building_floors": 5,
+  "elevator": true,
+  "built_year": 1998,
+  "built_month": 11,
+  "age_years": 28,
+  "structure": "RC",
+  "parking": "-",
+  "parking_status": "unknown",
+  "parking_fee": 6000,
+  "nearest_station": "地下鉄烏丸線/国際会館駅 歩11分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "北向き; 建物種別: マンション; 条件: 二人入居可; 設備: オートロック, 追焚, 分譲賃貸, 二人入居, システムキッチン, 駐輪場; 入居: 即; 総戸数 15戸; 取扱: (株)京都ライフ四条烏丸店; 更新 2026/09/30; 備考: 更新料：無; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T01:58:06+09:00",
+  "nearby_parking": [
+   {
+    "name": "京都市左京区 岩倉北池田町(国際会館駅) の駐車場",
+    "url": "https://www.athome.co.jp/rent_parking/6989059397/",
+    "monthly_fee": 8800,
+    "fee_text": "0.88万円",
+    "address": "京都府京都市左京区岩倉北池田町",
+    "distance_km": 0.0,
+    "walk_min": 1
+   },
+   {
+    "name": "京都市左京区岩倉北池田町 月極駐車場",
+    "url": "https://p-king.jp/detail/565361",
+    "monthly_fee": null,
+    "fee_text": "お問合せください",
+    "address": "京都府京都市左京区岩倉北池田町",
+    "distance_km": 0.1,
+    "walk_min": 1
+   },
+   {
+    "name": "京都市左京区岩倉北池田町 月極駐車場",
+    "url": "https://p-king.jp/detail/559065",
+    "monthly_fee": 8800,
+    "fee_text": "8,800円",
+    "address": "京都府京都市左京区岩倉北池田町",
+    "distance_km": 0.12,
+    "walk_min": 2
+   }
+  ],
+  "monthly_total": 95000,
+  "monthly_total_with_parking": 103800,
+  "score": 29.3,
+  "rank": 56
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000072688729/"
+   },
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000072688731/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/b0d97b3f3b3d5c31b4705296e1701c6a20535472/"
+   },
+   {
+    "source": "chintai",
+    "url": "https://www.chintai.net/detail/bk-0000007100000000000091840011/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_343082960/"
+   },
+   {
+    "source": "able",
+    "url": "https://www.able.co.jp/detail/Detail.do?bk=000000710009184011&prefkey=kyoto"
+   }
+  ],
+  "building_name": "レジデンス岩倉 302号室",
+  "address": "京都府京都市左京区上高野諸木町",
+  "lat": 35.064495,
+  "lon": 135.790634,
+  "distance_km": 4.78,
+  "bike_min": 28,
+  "rent": 85000,
+  "kanrihi": 5000,
+  "shikikin": "100,000円 (1.2ヶ月)",
+  "shikikin_months": 1.2,
+  "reikin": "0円",
+  "reikin_months": 0.0,
+  "other_initial": "ほか諸費用: ハウスクリーニング代3.19万円/退去時, 損保 3.85万円2年, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 46.6,
+  "floor": 3,
+  "building_floors": 4,
+  "elevator": true,
+  "built_year": 1994,
+  "built_month": 4,
+  "age_years": 32,
+  "structure": "RC",
+  "parking": "-",
+  "parking_status": "unknown",
+  "parking_fee": 11000,
+  "nearest_station": "地下鉄烏丸線/国際会館駅 歩7分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "南向き; 建物種別: マンション; 条件: 二人入居可/子供可; 設備: オートロック, 礼金不要, 二人入居, システムキッチン, 駐輪場; 入居: 即; 総戸数 18戸; 取扱: (株)京都ライフ三条烏丸店; 更新 2026/09/30; 備考: 叡山電鉄叡山本線宝ケ池駅徒歩10分/巡回管理/更新料：85000円 更新手数料：無; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T01:58:06+09:00",
+  "nearby_parking": [
+   {
+    "name": "京都市左京区上高野諸木町 月極駐車場",
+    "url": "https://p-king.jp/detail/660544",
+    "monthly_fee": 8800,
+    "fee_text": "8,800円",
+    "address": "京都府京都市左京区上高野諸木町",
+    "distance_km": 0.07,
+    "walk_min": 1
+   },
+   {
+    "name": "アーバン　ソレイユ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000142552",
+    "monthly_fee": 9592,
+    "fee_text": "月額使用料 9,592円（税込・保証/管理料込）／うち賃料 8,800円",
+    "address": "京都府京都市左京区上高野諸木町34",
+    "distance_km": 0.07,
+    "walk_min": 1
+   },
+   {
+    "name": "京都市左京区上高野薩田町 月極駐車場",
+    "url": "https://p-king.jp/detail/559097",
+    "monthly_fee": 8800,
+    "fee_text": "8,800円",
+    "address": "京都府京都市左京区上高野薩田町",
+    "distance_km": 0.15,
+    "walk_min": 2
+   }
+  ],
+  "monthly_total": 90000,
+  "monthly_total_with_parking": 98800,
+  "score": 29.3,
+  "rank": 57
+ },
+ {
+  "sources": [
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/13018bfdb78925a3eaf7144979e9ac1781a45930/"
+   }
+  ],
+  "building_name": "ブランシェ八甲",
+  "address": "京都府京都市下京区西七条北衣田町",
+  "lat": 34.989918,
+  "lon": 135.731842,
+  "distance_km": 5.34,
+  "bike_min": 31,
+  "rent": 75000,
+  "kanrihi": 9000,
+  "shikikin": "1ヶ月",
+  "shikikin_months": 1.0,
+  "reikin": "1ヶ月",
+  "reikin_months": 1.0,
+  "other_initial": "保証会社:不動産会社に要確認, 住宅保険:要, その他費用:鍵交換代：22,000円、退去時清掃代：55,000円、ALCサポート：1,100円, 取引態様:専任媒介, 契約期間:2年間",
+  "layout": "2LDK",
+  "area_m2": 50.0,
+  "floor": 5,
+  "building_floors": 5,
+  "elevator": true,
+  "built_year": 1992,
+  "built_month": 10,
+  "age_years": 34,
+  "structure": "RC",
+  "parking": "無",
+  "parking_status": "none",
+  "parking_fee": null,
+  "nearest_station": "JR東海道・山陽本線 西大路駅 徒歩13分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "向き:南, オートロック, 非追焚機能, 非ペット相談, 南向き, 非駐車場, インターネット対応, バイク置き場あり, ペット不可, 事務所不可, 二人入居可, 即入居可, 楽器不可, 浴室乾燥機, 温水洗浄便座, 都市ガス, 防犯カメラ, 駐輪場あり, 入居可能:即時, 現況:空家, 総戸数:12戸, 構造:RC(鉄筋コンクリート), 不動産会社:株式会社ＡＬＩＶＥ賃貸住宅サービス FC京都駅前店, 種別:賃貸マンション, 間取り詳細:2LDK ( 洋室 6帖 和室 6畳 リビングダイニングキッチン 8帖 ), b-URL: https://www.homes.co.jp/chintai/b-1209920240588/",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T02:44:41+09:00",
+  "nearby_parking": [
+   {
+    "name": "西七条比輪田町駐車場",
+    "url": "https://www.monthly-p.com/detail/PD1369/",
+    "monthly_fee": 14300,
+    "fee_text": "14,300円",
+    "address": "京都府京都市下京区西七条比輪田町30番地",
+    "distance_km": 0.07,
+    "walk_min": 1
+   },
+   {
+    "name": "京都市下京区西七条比輪田町　月極駐車場",
+    "url": "https://p-king.jp/detail/150002",
+    "monthly_fee": 14300,
+    "fee_text": "14,300円 ～",
+    "address": "京都府京都市下京区西七条比輪田町",
+    "distance_km": 0.07,
+    "walk_min": 1
+   },
+   {
+    "name": "西七条比輪田町駐車場",
+    "url": "https://www.monthly-p.com/detail/PD1369a/",
+    "monthly_fee": 15400,
+    "fee_text": "15,400円",
+    "address": "京都府京都市下京区西七条比輪田町30",
+    "distance_km": 0.07,
+    "walk_min": 1
+   }
+  ],
+  "monthly_total": 84000,
+  "monthly_total_with_parking": 98300,
+  "score": 28.8,
+  "rank": 58
+ },
+ {
+  "sources": [
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/5a1e3edc5731e08b94b3b0d01d71a01a427c0d63/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_245724152/"
+   }
+  ],
+  "building_name": "下鴨フラッツ",
+  "address": "京都府京都市左京区下鴨東高木町",
+  "lat": 35.042992,
+  "lon": 135.776779,
+  "distance_km": 2.14,
+  "bike_min": 12,
+  "rent": 98000,
+  "kanrihi": 6000,
+  "shikikin": "9.8万円",
+  "shikikin_months": 1.0,
+  "reikin": "9.8万円",
+  "reikin_months": 1.0,
+  "other_initial": "保証会社:不動産会社に要確認, 住宅保険:要, 更新料:新賃料の1ヶ月分, その他費用:鍵交換費用：15,000円, 取引態様:仲介, 契約期間:2年間",
+  "layout": "2LDK",
+  "area_m2": 48.0,
+  "floor": 2,
+  "building_floors": 3,
+  "elevator": false,
+  "built_year": 1993,
+  "built_month": 4,
+  "age_years": 33,
+  "structure": "RC",
+  "parking": "無",
+  "parking_status": "none",
+  "parking_fee": null,
+  "nearest_station": "京都市営烏丸線 松ヶ崎駅 徒歩15分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "向き:南, オートロック, 非追焚機能, 非ペット相談, 南向き, 非駐車場, インターネット対応, システムキッチン, 即入居可, 温水洗浄便座, 都市ガス, 駐輪場あり, 入居可能:即時, 現況:空家, 総戸数:9戸, 構造:RC(鉄筋コンクリート), 不動産会社:アパマンショップ出町柳店 ウインズリンク株式会社, 種別:賃貸マンション, 間取り詳細:2LDK ( 洋室 6帖(2階) 洋室 7帖(2階) リビングダイニングキッチン 10帖(2階) ), 同一住戸の他掲載: https://www.homes.co.jp/chintai/room/b92a00bc25bcf1d114847c789aa3a4ac17eab152/, b-URL: https://www.homes.co.jp/chintai/b-1124270233946/",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T02:44:41+09:00",
+  "nearby_parking": [
+   {
+    "name": "京都市左京区下鴨東高木町 月極駐車場",
+    "url": "https://p-king.jp/detail/564729",
+    "monthly_fee": 18000,
+    "fee_text": "18,000円",
+    "address": "京都府京都市左京区下鴨東高木町",
+    "distance_km": 0.03,
+    "walk_min": 1
+   },
+   {
+    "name": "京都市左京区下鴨東高木町 月極駐車場",
+    "url": "https://p-king.jp/detail/558431",
+    "monthly_fee": 18000,
+    "fee_text": "18,000円",
+    "address": "京都府京都市左京区下鴨東高木町",
+    "distance_km": 0.04,
+    "walk_min": 1
+   },
+   {
+    "name": "京都市左京区下鴨東高木町 月極駐車場",
+    "url": "https://p-king.jp/detail/558430",
+    "monthly_fee": null,
+    "fee_text": "お問合せください",
+    "address": "京都府京都市左京区下鴨東高木町",
+    "distance_km": 0.04,
+    "walk_min": 1
+   }
+  ],
+  "monthly_total": 104000,
+  "monthly_total_with_parking": 122000,
+  "score": 28.5,
+  "rank": 59
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000048376488/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/ef00c6470b5fa8ff165ca9b1a0854292e0a89764/"
+   },
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000109092483/"
+   },
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000109092484/"
+   },
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000109092485/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/bbbc997cca2c330abe8d1325e346b5aab453d329/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_275631510/"
+   }
+  ],
+  "building_name": "エスポワール鷺 3-C号室",
+  "address": "京都府京都市左京区上高野鷺町",
+  "lat": 35.061848,
+  "lon": 135.787643,
+  "distance_km": 4.41,
+  "bike_min": 25,
+  "rent": 89000,
+  "kanrihi": 5000,
+  "shikikin": "0円",
+  "shikikin_months": 0.0,
+  "reikin": "80,000円 (0.9ヶ月)",
+  "reikin_months": 0.9,
+  "other_initial": "ほか諸費用: 更新料1ヶ月 鍵2本目4400円有料 駐輪登録料1100円 原付まで1台無料, 損保 1.5万円, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 52.0,
+  "floor": 3,
+  "building_floors": 3,
+  "elevator": false,
+  "built_year": 1993,
+  "built_month": 8,
+  "age_years": 33,
+  "structure": "RC",
+  "parking": "敷地内8800円",
+  "parking_status": "onsite",
+  "parking_fee": 8800,
+  "nearest_station": "地下鉄烏丸線/国際会館駅 歩5分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "南向き; 建物種別: マンション; 条件: -; 設備: 都市ガス, 最上階, 敷金不要, 駐輪場; 入居: 即; 総戸数 12戸; 取扱: (株)ハウス・メッセ京都大学前店; 更新 2026/09/30; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T01:58:06+09:00",
+  "nearby_parking": [],
+  "monthly_total": 94000,
+  "monthly_total_with_parking": 102800,
+  "score": 28.2,
+  "rank": 60
+ },
+ {
+  "sources": [
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/63ecfb133fac7f24df6e3f31608662edeee3b2f2/"
+   }
+  ],
+  "building_name": null,
+  "address": "京都府京都市北区大宮西小野堀町",
+  "lat": 35.056007,
+  "lon": 135.743378,
+  "distance_km": 4.48,
+  "bike_min": 26,
+  "rent": 75000,
+  "kanrihi": 5000,
+  "shikikin": "無",
+  "shikikin_months": 0.0,
+  "reikin": "7.5万円",
+  "reikin_months": 1.0,
+  "other_initial": "保証会社:加入要 保証会社：あんしんプラス 保証会社利用料：初回：3万円/2年、月額：支払い手数料864円、更新時：1.5万円/2年, 住宅保険:要, その他費用:室内清掃費用：33,000円、LIFE SUPPORT：1,100円, 取引態様:専属専任媒介, 契約期間:2年間",
+  "layout": "2LDK",
+  "area_m2": 49.77,
+  "floor": 2,
+  "building_floors": 4,
+  "elevator": false,
+  "built_year": 1993,
+  "built_month": 2,
+  "age_years": 33,
+  "structure": "RC",
+  "parking": "空無",
+  "parking_status": "onsite_full",
+  "parking_fee": null,
+  "nearest_station": "京都市営烏丸線 北大路駅 徒歩32分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "向き:北, オートロック, 追焚機能, 非ペット相談, 非南向き, 非駐車場, インターネット使用料無料, ゴミ出し24時間OK, システムキッチン, バイク置き場あり, 二人入居可, 即入居可, 宅配ボックス, 追焚機能, 都市ガス, 駐輪場あり, 入居可能:即時, 現況:空家, 総戸数:18戸, 構造:RC(鉄筋コンクリート), 不動産会社:ウインズリンク株式会社 アパマンショップ河原町三条店, 種別:賃貸マンション, 間取り詳細:2LDK ( 洋室 6.1帖(2階) 洋室 6.1帖(2階) リビングダイニングキッチン 8.6帖(2階) ), b-URL: https://www.homes.co.jp/chintai/b-1309140270312/",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T02:44:41+09:00",
+  "nearby_parking": [
+   {
+    "name": "京都市北区大宮西小野堀町 月極駐車場",
+    "url": "https://p-king.jp/detail/565457",
+    "monthly_fee": 12000,
+    "fee_text": "12,000円",
+    "address": "京都府京都市北区大宮西小野堀町",
+    "distance_km": 0.11,
+    "walk_min": 1
+   },
+   {
+    "name": "京都市北区大宮東小野堀町 月極駐車場",
+    "url": "https://p-king.jp/detail/564296",
+    "monthly_fee": 12000,
+    "fee_text": "12,000円",
+    "address": "京都府京都市北区大宮東小野堀町",
+    "distance_km": 0.13,
+    "walk_min": 2
+   },
+   {
+    "name": "京都市北区大宮西総門口町 月極駐車場",
+    "url": "https://p-king.jp/detail/660165",
+    "monthly_fee": 9000,
+    "fee_text": "9,000円",
+    "address": "京都府京都市北区大宮西総門口町",
+    "distance_km": 0.16,
+    "walk_min": 2
+   }
+  ],
+  "monthly_total": 80000,
+  "monthly_total_with_parking": 92000,
+  "score": 28.2,
+  "rank": 61
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000109518711/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/f8cb79e8a2cd7b18075e6831b9eed42fe0c6572a/"
+   }
+  ],
+  "building_name": "プリムローズ",
+  "address": "京都府京都市北区小山元町",
+  "lat": 35.050018,
+  "lon": 135.75589,
+  "distance_km": 3.3,
+  "bike_min": 19,
+  "rent": 91000,
+  "kanrihi": 10000,
+  "shikikin": "100,000円 (1.1ヶ月)",
+  "shikikin_months": 1.1,
+  "reikin": "150,000円 (1.6ヶ月)",
+  "reikin_months": 1.6,
+  "other_initial": "ほか諸費用: 更新料:100000円/更新時, 損保 要, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 47.95,
+  "floor": 2,
+  "building_floors": 7,
+  "elevator": true,
+  "built_year": 1995,
+  "built_month": 6,
+  "age_years": 31,
+  "structure": "RC",
+  "parking": "近隣457m11000円",
+  "parking_status": "nearby",
+  "parking_fee": 11000,
+  "nearest_station": "地下鉄烏丸線/北大路駅 歩8分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "南向き; 建物種別: マンション; 条件: 二人入居可/子供可; 設備: オートロック, 追焚, 都市ガス, 浴室乾燥, 二人入居, システムキッチン, 駐輪場; 入居: 即; 総戸数 22戸; 取扱: (株)エリッツ円町店; 更新 2026/09/30; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T01:58:06+09:00",
+  "nearby_parking": [
+   {
+    "name": "京都市北区小山元町 月極駐車場（AKP）",
+    "url": "https://p-king.jp/detail/581223",
+    "monthly_fee": null,
+    "fee_text": "お問合せください",
+    "address": "京都府京都市北区小山元町",
+    "distance_km": 0.03,
+    "walk_min": 1
+   },
+   {
+    "name": "京都府京都市北区小山上板倉町駐車場",
+    "url": "https://p-king.jp/detail/156828",
+    "monthly_fee": 15400,
+    "fee_text": "15,400円",
+    "address": "京都府京都市北区小山上板倉町",
+    "distance_km": 0.13,
+    "walk_min": 2
+   },
+   {
+    "name": "小山東玄以町3番駐車場",
+    "url": "https://www.at-parking.jp/search/kyoto/kyoto-shi_kita-ku/koyama-higashigenicho/353791.html",
+    "monthly_fee": 11000,
+    "fee_text": "11,000円",
+    "address": "京都府京都市北区小山東玄以町３番",
+    "distance_km": 0.15,
+    "walk_min": 2
+   }
+  ],
+  "monthly_total": 101000,
+  "monthly_total_with_parking": null,
+  "score": 27.7,
+  "rank": 62
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000108335960/"
+   },
+   {
+    "source": "chintai",
+    "url": "https://www.chintai.net/detail/bk-0000007100000000005028560005/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_409656238/"
+   },
+   {
+    "source": "eheya",
+    "url": "https://www.eheya.net/detail/300000832003366000005/"
+   },
+   {
+    "source": "able",
+    "url": "https://www.able.co.jp/detail/Detail.do?bk=000000710502856005&prefkey=kyoto"
+   }
+  ],
+  "building_name": "レグルス",
+  "address": "京都府京都市左京区岩倉幡枝町",
+  "lat": 35.066051,
+  "lon": 135.77182,
+  "distance_km": 4.68,
+  "bike_min": 27,
+  "rent": 96000,
+  "kanrihi": 8000,
+  "shikikin": "0円",
+  "shikikin_months": 0.0,
+  "reikin": "100,000円 (1ヶ月)",
+  "reikin_months": 1.0,
+  "other_initial": "損保 2.8万円2年, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 55.79,
+  "floor": 2,
+  "building_floors": 2,
+  "elevator": false,
+  "built_year": 2013,
+  "built_month": 3,
+  "age_years": 13,
+  "structure": "軽量鉄骨",
+  "parking": "敷地内8800円",
+  "parking_status": "onsite",
+  "parking_fee": 8800,
+  "nearest_station": "地下鉄烏丸線/国際会館駅 歩18分",
+  "tier": "A",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "B-",
+  "insulation_note": "ما بعد معيار 1999 لكن هيكل فولاذي خفيف؛ اسأل عن العزل والضجيج",
+  "notes": "南東向き; 建物種別: アパート; 条件: 二人入居可/子供可/ペット相談; 設備: 追焚, 都市ガス, ペット, 浴室乾燥, 宅配ボックス, 最上階, 敷金不要, 保証人不要, 二人入居, システムキッチン, 駐輪場, バイク置場; 入居: 即; 総戸数 6戸; 取扱: (株)京都ライフ京田辺店; 更新 2026/09/30; 備考: 叡山電鉄鞍馬線八幡前駅徒歩29分/巡回管理/更新料：新家賃1ヶ月; 構造(原文): 軽量鉄骨",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T01:58:06+09:00",
+  "nearby_parking": [],
+  "monthly_total": 104000,
+  "monthly_total_with_parking": 112800,
+  "score": 27.7,
+  "rank": 63
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000108442521/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/5e8e082894cf5ee658bc2945b43b707766a03a18/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_410073068/"
+   }
+  ],
+  "building_name": "グランベール西七条 703号室",
+  "address": "京都府京都市下京区西七条南東野町6",
+  "lat": 34.988838,
+  "lon": 135.736954,
+  "distance_km": 5.11,
+  "bike_min": 29,
+  "rent": 98000,
+  "kanrihi": 8000,
+  "shikikin": "0円",
+  "shikikin_months": 0.0,
+  "reikin": "0円",
+  "reikin_months": 0.0,
+  "other_initial": "保証会社利用必須, ほか諸費用: Ｎサポート（毎月）１２１０円, 損保 要, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 52.16,
+  "floor": 7,
+  "building_floors": 8,
+  "elevator": true,
+  "built_year": 1996,
+  "built_month": 3,
+  "age_years": 30,
+  "structure": "RC",
+  "parking": "-",
+  "parking_status": "unknown",
+  "parking_fee": null,
+  "nearest_station": "ＪＲ山陰本線/梅小路京都西駅 歩10分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "南向き; 建物種別: マンション; 条件: 二人入居可/事務所利用不可; 設備: オートロック, 追焚, 都市ガス, 宅配ボックス, 礼金不要, 保証人不要, 二人入居, システムキッチン, ウォークインクロゼット, 駐輪場; 入居: 即; 総戸数 35戸; 取扱: (株)ハウスメイトショップ京都西院店; 更新 2026/09/30; 備考: 阪急電鉄京都線西京極駅徒歩29分/保証会社利用必須、退去時月割精算 解約予告：２ヶ月 法人契約更新料１ヶ月分要、短期違約金２年未満１ヶ月※駐車場は機械式サイズ制限有り※自転車の駐輪は１台無料・２台目以降３３０円; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T01:58:06+09:00",
+  "nearby_parking": [
+   {
+    "name": "京都市下京区西七条南東野町 月極駐車場",
+    "url": "https://p-king.jp/detail/564793",
+    "monthly_fee": 19000,
+    "fee_text": "19,000円",
+    "address": "京都府京都市下京区西七条南東野町",
+    "distance_km": 0.11,
+    "walk_min": 1
+   },
+   {
+    "name": "月極駐車場",
+    "url": "https://www.monthly-p.com/detail/25477/",
+    "monthly_fee": 23300,
+    "fee_text": "23,300円",
+    "address": "京都府京都市下京区西七条北東野町",
+    "distance_km": 0.12,
+    "walk_min": 2
+   },
+   {
+    "name": "西七条(24166)",
+    "url": "https://www.park-direct.jp/parkinglot/PK000108565",
+    "monthly_fee": 26729,
+    "fee_text": "月額使用料 26,729円（税込・保証/管理料込）／うち賃料 24,750円",
+    "address": "京都府京都市下京区西七条北東野町58",
+    "distance_km": 0.12,
+    "walk_min": 2
+   }
+  ],
+  "monthly_total": 106000,
+  "monthly_total_with_parking": 125000,
+  "score": 27.4,
+  "rank": 64
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000104503053/"
+   },
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000104503054/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/f40067d8aaf55ef4f1d6109767daac39eb6dcca2/"
+   },
+   {
+    "source": "chintai",
+    "url": "https://www.chintai.net/detail/bk-0000007070000000000739760013/"
+   },
+   {
+    "source": "able",
+    "url": "https://www.able.co.jp/detail/Detail.do?bk=000000707073976013&prefkey=kyoto"
+   }
+  ],
+  "building_name": "プレアデス京都北山 202号室",
+  "address": "京都府京都市北区大宮西小野堀町",
+  "lat": 35.056007,
+  "lon": 135.743378,
+  "distance_km": 4.48,
+  "bike_min": 26,
+  "rent": 75000,
+  "kanrihi": 5000,
+  "shikikin": "0円",
+  "shikikin_months": 0.0,
+  "reikin": "75,000円 (1ヶ月)",
+  "reikin_months": 1.0,
+  "other_initial": "ほか諸費用: 損害保険料1100円/月 LIFE SUPPORT1100円/月 ハウスクリーニング代4.4万円/退去時 エアコンクリーニング代1.32万円/退去時, 損保 要, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 48.4,
+  "floor": 2,
+  "building_floors": 3,
+  "elevator": false,
+  "built_year": 1993,
+  "built_month": 2,
+  "age_years": 33,
+  "structure": "RC",
+  "parking": "-",
+  "parking_status": "unknown",
+  "parking_fee": null,
+  "nearest_station": "地下鉄烏丸線/北大路駅 歩23分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "北向き; 建物種別: マンション; 条件: 二人入居可/子供可/ルームシェア相談; 設備: オートロック, 追焚, 都市ガス, 宅配ボックス, 敷金不要, 二人入居, システムキッチン, 駐輪場, バイク置場, 敷地内ごみ置き場; 入居: 即; 総戸数 18戸; 取扱: (株)京都ライフ山科店; 更新 2026/09/30; 備考: 京都市バス大宮総門口駅徒歩2分/更新料：無 更新手数料：22000円; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T01:58:06+09:00",
+  "nearby_parking": [
+   {
+    "name": "京都市北区大宮西小野堀町 月極駐車場",
+    "url": "https://p-king.jp/detail/565457",
+    "monthly_fee": 12000,
+    "fee_text": "12,000円",
+    "address": "京都府京都市北区大宮西小野堀町",
+    "distance_km": 0.11,
+    "walk_min": 1
+   },
+   {
+    "name": "京都市北区大宮東小野堀町 月極駐車場",
+    "url": "https://p-king.jp/detail/564296",
+    "monthly_fee": 12000,
+    "fee_text": "12,000円",
+    "address": "京都府京都市北区大宮東小野堀町",
+    "distance_km": 0.13,
+    "walk_min": 2
+   },
+   {
+    "name": "京都市北区大宮西総門口町 月極駐車場",
+    "url": "https://p-king.jp/detail/660165",
+    "monthly_fee": 9000,
+    "fee_text": "9,000円",
+    "address": "京都府京都市北区大宮西総門口町",
+    "distance_km": 0.16,
+    "walk_min": 2
+   }
+  ],
+  "monthly_total": 80000,
+  "monthly_total_with_parking": 92000,
+  "score": 27.1,
+  "rank": 65
+ },
+ {
+  "sources": [
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_411037324/"
+   }
+  ],
+  "building_name": "カーサフジキ",
+  "address": "京都府京都市左京区岩倉南平岡町",
+  "lat": 35.066807,
+  "lon": 135.7771,
+  "distance_km": 4.78,
+  "bike_min": 28,
+  "rent": 95000,
+  "kanrihi": 5000,
+  "shikikin": "7万円(-)",
+  "shikikin_months": 0.74,
+  "reikin": "10万円",
+  "reikin_months": 1.05,
+  "other_initial": "仲介手数料: 詳細は不動産会社にご確認ください; 保証会社: 保証会社利用必 初回契約時：50％、更新時：13，000円、引落手数料：550円/月(税込); 住宅保険: 20,000円/2年; 契約期間: 普通借家 2年",
+  "layout": "3LDK",
+  "area_m2": 57.0,
+  "floor": 2,
+  "building_floors": 3,
+  "elevator": false,
+  "built_year": 1998,
+  "built_month": 12,
+  "age_years": 28,
+  "structure": "RC",
+  "parking": "敷地内8000円/平置駐",
+  "parking_status": "onsite",
+  "parking_fee": 8000,
+  "nearest_station": "叡山電鉄叡山本線 木野駅 徒歩7分 地下鉄烏丸線 国際会館駅 徒歩14分 叡山電鉄叡山本線 岩倉駅 徒歩16分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "キッチン: ガスコンロ対応 / バス・トイレ: バス・トイレ別、シャンプードレッサー、独立洗面台 / 冷暖房: エアコン / 収納: クローゼット、シューズボックス / インターネット・TV: 光回線、CSアンテナ、BSアンテナ  / 室内設備: 都市ガス、室内洗濯機置場、フローリング、バルコニー  / 共用部: ごみ出し24時間OK、敷地内ゴミ置き場  / セキュリティ: TVモニタ付インターホン / 駐車場・駐輪場: 駐車場あり、敷地内駐車場、バイク置き場、駐輪場あり  / その他: 角部屋、２階以上、日当たり良好、閑静な住宅街、IT重説対応物件、初期費用カード決済可",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T02:43:44+09:00",
+  "nearby_parking": [],
+  "monthly_total": 100000,
+  "monthly_total_with_parking": 108000,
+  "score": 27.1,
+  "rank": 66
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000110003901/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/14b14cd502b454888619444ea94759e73269a19d/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_412485678/"
+   }
+  ],
+  "building_name": "Rosy Garden",
+  "address": "京都府京都市東山区上梅屋町189",
+  "lat": 34.992767,
+  "lon": 135.772522,
+  "distance_km": 3.47,
+  "bike_min": 20,
+  "rent": 87000,
+  "kanrihi": 8000,
+  "shikikin": "87,000円 (1ヶ月)",
+  "shikikin_months": 1.0,
+  "reikin": "87,000円 (1ヶ月)",
+  "reikin_months": 1.0,
+  "other_initial": "仲介手数料不要, ほか諸費用: 更新料 新賃料1.00ヶ月分 室内清掃費用 28000円 町内会費 月額300円, 損保 3.85万円2年, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 51.17,
+  "floor": 3,
+  "building_floors": 3,
+  "elevator": false,
+  "built_year": 1994,
+  "built_month": 5,
+  "age_years": 32,
+  "structure": "RC",
+  "parking": "-",
+  "parking_status": "unknown",
+  "parking_fee": 16000,
+  "nearest_station": "京阪本線/清水五条駅 歩9分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "南向き; 建物種別: マンション; 条件: 単身者可/二人入居可/子供可/事務所利用不可; 設備: 都市ガス, 最上階, 二人入居, システムキッチン, 駐輪場, バイク置場; 入居: 相談; 総戸数 18戸; 取扱: おうちパラダイス UCHIPARA 京都本店合同会社ベアクル; 更新 2026/09/30; 備考: 巡回管理; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T01:58:06+09:00",
+  "nearby_parking": [
+   {
+    "name": "京都市東山区上梅屋町 月極駐車場（AKP）",
+    "url": "https://p-king.jp/detail/580910",
+    "monthly_fee": null,
+    "fee_text": "お問合せください",
+    "address": "京都府京都市東山区上梅屋町",
+    "distance_km": 0.02,
+    "walk_min": 1
+   },
+   {
+    "name": "タイムズ本町五条（自動車）：平面",
+    "url": "https://times-info.net/monthly/P26-kyoto/C105/park-detail-BUK001617201/",
+    "monthly_fee": 22000,
+    "fee_text": "22,000円（税込）",
+    "address": "京都府京都市東山区伏見街道筋五条上る金屋町",
+    "distance_km": 0.04,
+    "walk_min": 1
+   },
+   {
+    "name": "大仏駐車場",
+    "url": "https://www.park-direct.jp/parkinglot/PK000010213",
+    "monthly_fee": 6567,
+    "fee_text": "月額使用料 6,567円～21,384円（税込・保証/管理料込）／うち賃料 6,000円～19,800円",
+    "address": "京都府京都市東山区正面通大和大路東入茶屋町527-4",
+    "distance_km": 0.08,
+    "walk_min": 1
+   }
+  ],
+  "monthly_total": 95000,
+  "monthly_total_with_parking": null,
+  "score": 26.8,
+  "rank": 67
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000109136888/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/f2a978437c1d9afabed7b46bce3a6311fb196647/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_411661592/"
+   }
+  ],
+  "building_name": "ブランシェ八甲",
+  "address": "京都府京都市下京区西七条北衣田町",
+  "lat": 34.989918,
+  "lon": 135.731842,
+  "distance_km": 5.34,
+  "bike_min": 31,
+  "rent": 75000,
+  "kanrihi": 9000,
+  "shikikin": "75,000円 (1ヶ月)",
+  "shikikin_months": 1.0,
+  "reikin": "75,000円 (1ヶ月)",
+  "reikin_months": 1.0,
+  "other_initial": "損保 2万円2年, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 47.0,
+  "floor": 5,
+  "building_floors": 5,
+  "elevator": true,
+  "built_year": 1992,
+  "built_month": 10,
+  "age_years": 34,
+  "structure": "RC",
+  "parking": "近隣250m16000円",
+  "parking_status": "nearby",
+  "parking_fee": 16000,
+  "nearest_station": "ＪＲ東海道本線/西大路駅 歩13分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "南向き; 建物種別: マンション; 条件: 二人入居可/子供可/ルームシェア相談; 設備: オートロック, 都市ガス, 最上階, 保証人不要, 二人入居, 駐輪場, バイク置場; 入居: '26年10月中旬; 総戸数 12戸; 取扱: アパマンショップ京都駅前店ウインズリンク(株); 更新 2026/09/30; 備考: 阪急京都線西京極駅徒歩20分/更新料：新家賃1ヶ月; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T01:58:06+09:00",
+  "nearby_parking": [
+   {
+    "name": "西七条比輪田町駐車場",
+    "url": "https://www.monthly-p.com/detail/PD1369/",
+    "monthly_fee": 14300,
+    "fee_text": "14,300円",
+    "address": "京都府京都市下京区西七条比輪田町30番地",
+    "distance_km": 0.07,
+    "walk_min": 1
+   },
+   {
+    "name": "京都市下京区西七条比輪田町　月極駐車場",
+    "url": "https://p-king.jp/detail/150002",
+    "monthly_fee": 14300,
+    "fee_text": "14,300円 ～",
+    "address": "京都府京都市下京区西七条比輪田町",
+    "distance_km": 0.07,
+    "walk_min": 1
+   },
+   {
+    "name": "西七条比輪田町駐車場",
+    "url": "https://www.monthly-p.com/detail/PD1369a/",
+    "monthly_fee": 15400,
+    "fee_text": "15,400円",
+    "address": "京都府京都市下京区西七条比輪田町30",
+    "distance_km": 0.07,
+    "walk_min": 1
+   }
+  ],
+  "monthly_total": 84000,
+  "monthly_total_with_parking": 98300,
+  "score": 26.5,
+  "rank": 68
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000109352418/"
+   },
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000109352419/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/bbcb5eb81be1873d88c4fb8353f421dd9b97fd8e/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_412142086/"
+   }
+  ],
+  "building_name": "ガーデンコート洛北",
+  "address": "京都府京都市左京区岩倉幡枝町",
+  "lat": 35.066051,
+  "lon": 135.77182,
+  "distance_km": 4.68,
+  "bike_min": 27,
+  "rent": 89000,
+  "kanrihi": 5000,
+  "shikikin": "20,000円 (0.22ヶ月)",
+  "shikikin_months": 0.22,
+  "reikin": "130,000円 (1.5ヶ月)",
+  "reikin_months": 1.5,
+  "other_initial": "ほか諸費用: シャーメゾンライフSUPPRT24：1320円/月, 損保 1.63万円2年, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 55.53,
+  "floor": 2,
+  "building_floors": 2,
+  "elevator": false,
+  "built_year": 2009,
+  "built_month": 3,
+  "age_years": 17,
+  "structure": "軽量鉄骨",
+  "parking": "-",
+  "parking_status": "unknown",
+  "parking_fee": 6600,
+  "nearest_station": "叡山電鉄鞍馬線/京都精華大前駅 歩4分",
+  "tier": "A",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "B-",
+  "insulation_note": "ما بعد معيار 1999 لكن هيكل فولاذي خفيف؛ اسأل عن العزل والضجيج",
+  "notes": "南向き; 建物種別: アパート; 条件: 二人入居可/子供可; 設備: 都市ガス, 最上階, 保証人不要, 二人入居, システムキッチン; 入居: '26年10月上旬; 総戸数 6戸; 取扱: (株)京都ライフ西院店; 更新 2026/09/30; 備考: 巡回管理/更新料：新家賃1ヶ月; 構造(原文): 軽量鉄骨",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T01:58:06+09:00",
+  "nearby_parking": [
+   {
+    "name": "岩倉幡枝町ｗａｖｅガレージ",
+    "url": "https://www.monthly-p.com/detail/25230/",
+    "monthly_fee": 7700,
+    "fee_text": "7,700円",
+    "address": "京都府京都市左京区岩倉幡枝町 2576",
+    "distance_km": 0.07,
+    "walk_min": 1
+   },
+   {
+    "name": "岩倉幡枝町2576駐車場",
+    "url": "https://www.at-parking.jp/search/kyoto/kyoto-shi_sakyo-ku/iwakura-hataedacho/330416.html",
+    "monthly_fee": 8470,
+    "fee_text": "8,470円（税込）",
+    "address": "京都府京都市左京区岩倉幡枝町２５７６",
+    "distance_km": 0.07,
+    "walk_min": 1
+   },
+   {
+    "name": "京都市左京区岩倉幡枝町 月極駐車場（AKP）",
+    "url": "https://p-king.jp/detail/580508",
+    "monthly_fee": null,
+    "fee_text": "お問合せください",
+    "address": "京都府京都市左京区岩倉幡枝町",
+    "distance_km": 0.15,
+    "walk_min": 2
+   }
+  ],
+  "monthly_total": 94000,
+  "monthly_total_with_parking": 101700,
+  "score": 25.5,
+  "rank": 69
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000103940875/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_400486690/"
+   }
+  ],
+  "building_name": "京阪鴨東線 神宮丸太町駅 平屋 築26年",
+  "address": "京都府京都市左京区岡崎西福ノ川町",
+  "lat": 35.01981,
+  "lon": 135.783615,
+  "distance_km": 1.06,
+  "bike_min": 6,
+  "rent": 90000,
+  "kanrihi": 0,
+  "shikikin": "90,000円 (1ヶ月)",
+  "shikikin_months": 1.0,
+  "reikin": "90,000円 (1ヶ月)",
+  "reikin_months": 1.0,
+  "other_initial": "ほか諸費用: 更新料:新賃料の2ヶ月分/更新時 更新事務手数料:22000円/更新時, 損保 要, 取引態様：仲介",
+  "layout": "3DK",
+  "area_m2": 69.35,
+  "floor": 1,
+  "building_floors": 1,
+  "elevator": false,
+  "built_year": 2001,
+  "built_month": 8,
+  "age_years": 25,
+  "structure": "木造",
+  "parking": "近隣233m16000円",
+  "parking_status": "nearby",
+  "parking_fee": 16000,
+  "nearest_station": "京阪鴨東線/神宮丸太町駅 歩18分",
+  "tier": "house",
+  "is_ur": false,
+  "is_house": true,
+  "insulation_grade": "B",
+  "insulation_note": "خشبي ما بعد معيار 1999؛ العزل حسب الشركة المنفّذة",
+  "notes": "西向き; 建物種別: 一戸建て; 条件: 二人入居可/子供可/ルームシェア相談; 設備: 追焚, 都市ガス, 最上階, 二人入居, システムキッチン; 入居: 相談; 総戸数 1戸; 取扱: (株)エリッツ京都大学前店; 更新 2026/09/30; 構造(原文): 木造",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T01:58:06+09:00",
+  "nearby_parking": [
+   {
+    "name": "京都市左京区岡崎西福ノ川町 月極駐車場",
+    "url": "https://p-king.jp/detail/557302",
+    "monthly_fee": null,
+    "fee_text": "お問合せください",
+    "address": "京都府京都市左京区岡崎西福ノ川町",
+    "distance_km": 0.08,
+    "walk_min": 1
+   },
+   {
+    "name": "京都市左京区岡崎西福ノ川町 月極駐車場",
+    "url": "https://p-king.jp/detail/557296",
+    "monthly_fee": 18000,
+    "fee_text": "18,000円",
+    "address": "京都府京都市左京区岡崎西福ノ川町",
+    "distance_km": 0.1,
+    "walk_min": 1
+   },
+   {
+    "name": "京都市左京区岡崎東福ノ川町 月極駐車場",
+    "url": "https://p-king.jp/detail/559148",
+    "monthly_fee": 15000,
+    "fee_text": "15,000円",
+    "address": "京都府京都市左京区岡崎東福ノ川町",
+    "distance_km": 0.12,
+    "walk_min": 2
+   }
+  ],
+  "monthly_total": 90000,
+  "monthly_total_with_parking": null,
+  "score": 56.7,
+  "rank": "H1"
+ },
+ {
+  "sources": [
+   {
+    "source": "chintai",
+    "url": "https://www.chintai.net/detail/bk-0000007070000000006746260005/"
+   },
+   {
+    "source": "able",
+    "url": "https://www.able.co.jp/detail/Detail.do?bk=000000707674626005&prefkey=kyoto"
+   }
+  ],
+  "building_name": "ShaMaison THE SHIP NISHIGAMO",
+  "address": "京都府京都市北区西賀茂川上町",
+  "lat": 35.064674,
+  "lon": 135.744032,
+  "distance_km": 5.25,
+  "bike_min": 30,
+  "rent": 98000,
+  "kanrihi": 4000,
+  "shikikin": "98,000円 (1.0ヶ月)",
+  "shikikin_months": 1.0,
+  "reikin": "98,000円 (1.0ヶ月)",
+  "reikin_months": 1.0,
+  "other_initial": "その他初期費用: 契約時必須(清掃代:66,000円) / 契約時必須(鍵交換代:22,000円) / 契約時必須(入居者サポート費用:13,200円); 更新料: 1ヶ月; 保証会社: 保証会社必加入（実費）; 保険: 損害保険加入要。",
+  "layout": "2LDK",
+  "area_m2": 55.31,
+  "floor": 2,
+  "building_floors": 2,
+  "elevator": false,
+  "built_year": 2016,
+  "built_month": 10,
+  "age_years": 10,
+  "structure": "軽量鉄骨",
+  "parking": "有料駐車場 1台 （11,000円/月） / 自転車置き場 ※駐車場の金額表示は1台分の表示となります。",
+  "parking_status": "onsite",
+  "parking_fee": 11000,
+  "nearest_station": "京都市営地下鉄烏丸線/北大路駅 バス17分　西賀茂車庫前下車：停歩1分",
+  "tier": "house",
+  "is_ur": false,
+  "is_house": true,
+  "insulation_grade": "A",
+  "insulation_note": "بناء حديث (معيار الطاقة 2013)؛ عزل جيد عادةً",
+  "notes": "direction: 東 | conditions: ルームシェア可 ルームシェア可 他人同士が、1つの物件（住戸）を分けあって、同居する入居形態。マンションであれば一住戸、戸建であれば建物全体を複数人連名で賃貸借するものを指します。 ルームシェアは、家賃や光熱費などを分担することで 出費を抑えられる、コミュニケーションを楽しめる などのメリットがあります。 入居にあたっては、居住可能な人数など条件がある可能性があるので、詳細は物件のお取り扱い店舗にお問合せ下さい。 閉じる / 家賃保証会社利用必須 / 独身可 | contract: 一般契約：2年間 | deal_type: 媒介 | move_in: 即入居 | koshinryo: 1ヶ月 | 設備: バス・トイレ別, TVモニターホン, 室内洗濯機置き場, 駐車場付き, エアコン, 角部屋, オートロック, ウォークインクローゼット, 独立洗面台, ベランダ・バルコニー | 備考: 仲介手数料家賃の55%。 保証会社要(初回、月額総賃料の50%、更新料1万円/年)。 | PR: 積水ハウスのシャーメゾン。最上階角部屋です。オートロック。共用部防犯カメラ有り。カウンター式システムキッチン。浴室乾燥機付。追焚給湯。ウォークインクローゼット付き。TVインターホン付き。 | kind: ハイツ; updated 2026/09/22; geo: chintai map coords",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T01:59:18+09:00",
+  "nearby_parking": [],
+  "monthly_total": 102000,
+  "monthly_total_with_parking": 113000,
+  "score": 37.7,
+  "rank": "H2"
+ },
+ {
+  "sources": [
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_412430370/"
+   }
+  ],
+  "building_name": "ＪＲ山陰本線丹波口駅まで徒歩7分",
+  "address": "京都府京都市下京区西七条西八反田町",
+  "lat": 34.992889,
+  "lon": 135.737061,
+  "distance_km": 4.77,
+  "bike_min": 28,
+  "rent": 95000,
+  "kanrihi": 3000,
+  "shikikin": "9.5万円(-)",
+  "shikikin_months": 1.0,
+  "reikin": "0円",
+  "reikin_months": 0.0,
+  "other_initial": "仲介手数料: 詳細は不動産会社にご確認ください; 保証会社: 詳細は不動産会社にご確認ください; 住宅保険: 20,000円/2年",
+  "layout": "2LDK",
+  "area_m2": 48.0,
+  "floor": 1,
+  "building_floors": 2,
+  "elevator": false,
+  "built_year": 2003,
+  "built_month": 3,
+  "age_years": 23,
+  "structure": "木造",
+  "parking": "近隣400m18000円",
+  "parking_status": "nearby",
+  "parking_fee": 18000,
+  "nearest_station": "ＪＲ山陰本線 丹波口駅 徒歩7分 阪急京都線 西院駅 徒歩15分 ＪＲ東海道本線 西大路駅 徒歩20分",
+  "tier": "house",
+  "is_ur": false,
+  "is_house": true,
+  "insulation_grade": "B",
+  "insulation_note": "خشبي ما بعد معيار 1999؛ العزل حسب الشركة المنفّذة",
+  "notes": "キッチン: ガスコンロ対応、コンロ2口以上、システムキッチン / バス・トイレ: バス・トイレ別、シャンプードレッサー、独立洗面台 / 冷暖房: エアコン / 収納: シューズボックス / 室内設備: 都市ガス、室内洗濯機置場、フローリング、バルコニー、24時間換気システム  / 共用部: -  / 駐車場・駐輪場: 駐車場あり、バイク置き場、駐輪場あり  / その他: １階、日当たり良好、閑静な住宅街、IT重説対応物件、初期費用カード決済可",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T02:43:44+09:00",
+  "nearby_parking": [
+   {
+    "name": "マンスリー西七条西八反田町（自動車）：平面（縦列2台）",
+    "url": "https://www.at-parking.jp/search/kyoto/kyoto-shi_shimogyo-ku/nishishichijo-nishihattandacho/349706.html",
+    "monthly_fee": null,
+    "fee_text": "お問い合わせください",
+    "address": "京都府京都市下京区西七条西八反田町93",
+    "distance_km": 0.02,
+    "walk_min": 1
+   },
+   {
+    "name": "京都市下京区西七条西八反田町 月極駐車場",
+    "url": "https://p-king.jp/detail/48170",
+    "monthly_fee": 19800,
+    "fee_text": "19,800円",
+    "address": "京都府京都市下京区西七条西八反田町",
+    "distance_km": 0.05,
+    "walk_min": 1
+   },
+   {
+    "name": "京都市下京区西七条西八反田町　月極駐車場",
+    "url": "https://p-king.jp/detail/247337",
+    "monthly_fee": 15400,
+    "fee_text": "15,400円",
+    "address": "京都府京都市下京区西七条西八反田町",
+    "distance_km": 0.06,
+    "walk_min": 1
+   }
+  ],
+  "monthly_total": 98000,
+  "monthly_total_with_parking": null,
+  "score": 26.4,
+  "rank": "H3"
+ }
+]
