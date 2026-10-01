@@ -231,7 +231,7 @@ def main():
             why.append(f"area {area}")
         if layout is None or not OK_LAYOUT.match(layout):
             why.append(f"layout {layout}")
-        if reikin_m is not None and reikin_m > 1.0:
+        if reikin_m is not None and reikin_m > float(os.environ.get("REIKIN_MAX", "1.0")):
             why.append(f"reikin {reikin_m} months")
         if not is_house and not is_ur:
             if floor is None:
@@ -382,6 +382,14 @@ def main():
             else:
                 out.append(rec)
         units = out
+
+    # ---- optional: keep only units that are NOT already in another merged file (e.g. the main report)
+    excl = os.environ.get("EXCLUDE_MERGED")
+    if excl and os.path.exists(excl):
+        seen = {s["url"] for x in json.load(open(excl, encoding="utf-8")) for s in x["sources"]}
+        before = len(units)
+        units = [u for u in units if not any(s["url"] in seen for s in u["sources"]) and (u["reikin_months"] or 0) > 1.0]
+        print(f"excluded {before - len(units)} units already in {excl} (or 礼金 ≤ 1 month)")
 
     # ---- parking match + score
     for u in units:

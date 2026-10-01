@@ -42,3 +42,7 @@ python3 report.py out/report.html
 ```
 
 السحب بوتيرة ~طلب واحد في الثانية مع User-Agent حقيقي؛ المواقع التي حجبت الزحف (at home، minimini، apamanshop، nifty، Yahoo filters) لم يُلتف على حجبها.
+
+## ملحق: 礼金 حتى شهرين
+
+مجلد `reikin-2-months/` فيه تقرير منفصل (`report.html` و`report.pdf` و`data/merged.json`) يضم 63 وحدة (56 شقة و7 بيوت) 礼金 فيها أكثر من شهر وحتى شهرين، وما في ولا وحدة منها مكررة من التقرير الأساسي. نُشر هنا: https://claude.ai/artifact/JL4fGgm8mfPUj51dVWfcRS — أعدت مسح SUUMO وCHINTAI بحدّ الشهرين، وأعدت بناء スマイティ وエイブル وeheya من الصفحات المحفوظة. ما أعدت مسح HOME'S (عليه حماية ضد البوتات وبطيء).
