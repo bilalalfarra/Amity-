@@ -1,0 +1,3187 @@
+[
+ {
+  "sources": [
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_412668298/"
+   }
+  ],
+  "building_name": "ウェスト・ブライトン",
+  "address": "京都府京都市南区久世大薮町",
+  "lat": 34.97665,
+  "lon": 135.746429,
+  "distance_km": 2.68,
+  "bike_min": 13,
+  "rent": 99000,
+  "kanrihi": 4600,
+  "shikikin": "0円(-)",
+  "shikikin_months": 0.0,
+  "reikin": "13万円",
+  "reikin_months": 1.31,
+  "other_initial": "仲介手数料: 詳細は不動産会社にご確認ください; 保証会社: 保証会社利用必 契約時保証委託料：２５，０００円／月額保証委託料：賃料総額の２．５％; 住宅保険: あり/-年",
+  "layout": "3LDK",
+  "area_m2": 67.5,
+  "floor": 2,
+  "building_floors": 2,
+  "elevator": false,
+  "built_year": 2015,
+  "built_month": 3,
+  "age_years": 11,
+  "structure": "木造",
+  "parking": "敷地内7700円",
+  "parking_status": "onsite",
+  "parking_fee": 7700,
+  "nearest_station": "ＪＲ東海道本線 向日町駅 徒歩22分",
+  "tier": "A",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "A",
+  "insulation_note": "بناء حديث (معيار الطاقة 2013)؛ عزل جيد عادةً",
+  "notes": "キッチン: 対面キッチン / バス・トイレ: バス・トイレ別、追い焚き、温水洗浄便座、浴室乾燥機、独立洗面台 / 冷暖房: エアコン / 収納: クローゼット、シューズボックス / インターネット・TV: BSアンテナ / 室内設備: 都市ガス、室内洗濯機置場、ロフト付き、フローリング、バルコニー  / 共用部: -  / セキュリティ: オートロック、TVモニタ付インターホン / 駐車場・駐輪場: 駐車場あり、敷地内駐車場、駐輪場あり  / その他: ２階以上、最上階、IT重説対応物件、家賃カード決済可、初期費用カード決済可",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T01:09:35+09:00",
+  "nearby_parking": [
+   {
+    "name": "京都市南区西九条豊田町 月極駐車場",
+    "url": "https://p-king.jp/detail/661215",
+    "monthly_fee": 7700,
+    "fee_text": "7,700円",
+    "address": "京都府京都市南区西九条豊田町",
+    "distance_km": 0.23,
+    "walk_min": 3,
+    "availability": "空き状況はお問合せ"
+   },
+   {
+    "name": "豊田町ガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000010208",
+    "monthly_fee": 8404,
+    "fee_text": "月額使用料 8,404円～13,068円（税込・保証/管理料込）／うち賃料 7,700円～12,100円",
+    "address": "京都府京都市南区西九条豊田町29-3",
+    "distance_km": 0.23,
+    "walk_min": 3,
+    "availability": "契約可（空きあり）"
+   },
+   {
+    "name": "３１０９９３　アスヴェル京都東寺前",
+    "url": "https://www.athome.co.jp/rent_parking/1013349495/",
+    "monthly_fee": 8800,
+    "fee_text": "0.88万円",
+    "address": "京都府京都市南区西九条大国町",
+    "distance_km": 0.2,
+    "walk_min": 2,
+    "availability": "掲載中（空き状況は要問合せ）"
+   }
+  ],
+  "monthly_total": 103600,
+  "monthly_total_with_parking": 111300,
+  "score": 58.0,
+  "rank": 1,
+  "route_km": 2.68,
+  "straight_km": 1.66,
+  "parking_cost": 7700,
+  "parking_cost_src": "onsite",
+  "reikin_group": "le2",
+  "near": false,
+  "dropped_because": [
+   "total 111,300 > 100k"
+  ]
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000110036709/"
+   }
+  ],
+  "building_name": "カーサアルドーレI",
+  "address": "京都府京都市伏見区深草大亀谷東久宝寺町",
+  "lat": 34.952656,
+  "lon": 135.779129,
+  "distance_km": 3.84,
+  "bike_min": 17,
+  "rent": 89000,
+  "kanrihi": 4100,
+  "shikikin": "0円",
+  "shikikin_months": 0.0,
+  "reikin": "89,000円 (1ヶ月)",
+  "reikin_months": 1.0,
+  "other_initial": "ほか諸費用: 室内清掃費用 90000円, 損保 要, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 61.59,
+  "floor": 3,
+  "building_floors": 3,
+  "elevator": false,
+  "built_year": 2016,
+  "built_month": 3,
+  "age_years": 10,
+  "structure": "木造",
+  "parking": "敷地内9900円",
+  "parking_status": "onsite",
+  "parking_fee": 9900,
+  "nearest_station": "ＪＲ奈良線/ＪＲ藤森駅 歩9分",
+  "tier": "A",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "A",
+  "insulation_note": "بناء حديث (معيار الطاقة 2013)؛ عزل جيد عادةً",
+  "notes": "南向き; 建物種別: アパート; 条件: 二人入居可/ペット相談; 設備: 追焚, 都市ガス, ペット, 浴室乾燥, 最上階, 二人入居, 駐輪場, ロフト; 入居: '26年10月中旬; 総戸数 -; 取扱: ハウスコム(株)桂店; 更新 2026/10/01; 備考: 火災保険要加入／更新事務手数料22 000円／ruumサポート（月額1980円、税込）が必要です。／鍵セット費3 300円; 構造(原文): 木造",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T08:36:00+09:00",
+  "nearby_parking": [
+   {
+    "name": "深草伊東第3ガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000066472",
+    "monthly_fee": 10849,
+    "fee_text": "月額使用料 10,849円（税込・保証/管理料込）／うち賃料 9,900円",
+    "address": "京都府京都市伏見区深草瓦町６１番地",
+    "distance_km": 0.46,
+    "walk_min": 6,
+    "availability": "空き待ち可（現在満車）"
+   },
+   {
+    "name": "深草瓦町ガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000066471",
+    "monthly_fee": 10849,
+    "fee_text": "月額使用料 10,849円（税込・保証/管理料込）／うち賃料 9,900円",
+    "address": "京都府京都市伏見区深草瓦町６１番地",
+    "distance_km": 0.47,
+    "walk_min": 6,
+    "availability": "空き待ち可（現在満車）"
+   },
+   {
+    "name": "深草伊東ガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000066462",
+    "monthly_fee": 10849,
+    "fee_text": "月額使用料 10,849円（税込・保証/管理料込）／うち賃料 9,900円",
+    "address": "京都府京都市伏見区深草瓦町４４番地",
+    "distance_km": 0.52,
+    "walk_min": 6,
+    "availability": "契約可（空きあり）"
+   }
+  ],
+  "monthly_total": 93100,
+  "monthly_total_with_parking": 103000,
+  "score": 54.1,
+  "rank": 3,
+  "route_km": 3.84,
+  "straight_km": 2.89,
+  "parking_cost": 9900,
+  "parking_cost_src": "onsite",
+  "reikin_group": "le1",
+  "near": false,
+  "dropped_because": [
+   "bike 17 min"
+  ]
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000109738709/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/ee8d797b245d1ed3bfeb4bccc87026d255204b1c/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_412893680/"
+   }
+  ],
+  "building_name": "コンフォール",
+  "address": "京都府京都市南区上鳥羽高畠町104",
+  "lat": 34.971832,
+  "lon": 135.745514,
+  "distance_km": 2.41,
+  "bike_min": 11,
+  "rent": 89000,
+  "kanrihi": 9500,
+  "shikikin": "0円",
+  "shikikin_months": 0.0,
+  "reikin": "89,000円 (1ヶ月)",
+  "reikin_months": 1.0,
+  "other_initial": "ほか諸費用: 更新料 新賃料1.00ヶ月分 室内清掃費用 38500円, 損保 要, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 65.16,
+  "floor": 3,
+  "building_floors": 7,
+  "elevator": true,
+  "built_year": 1995,
+  "built_month": 10,
+  "age_years": 31,
+  "structure": "RC",
+  "parking": "敷地内12100円",
+  "parking_status": "onsite",
+  "parking_fee": 12100,
+  "nearest_station": "近鉄京都線/十条駅 歩12分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "-向き; 建物種別: マンション; 条件: 二人入居可/事務所利用不可/ルームシェア相談; 設備: オートロック, 都市ガス, 二人入居, 駐輪場; 入居: 相談; 総戸数 21戸; 取扱: ハウスコム(株)桂店; 更新 2026/10/01; 備考: 【グリーン保証】初回：月総額の50％（最低22 000円）/更新：2年毎22 000円～ 駐輪場：有料; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T08:36:00+09:00",
+  "nearby_parking": [
+   {
+    "name": "京都市南区西九条豊田町 月極駐車場",
+    "url": "https://p-king.jp/detail/661215",
+    "monthly_fee": 7700,
+    "fee_text": "7,700円",
+    "address": "京都府京都市南区西九条豊田町",
+    "distance_km": 0.44,
+    "walk_min": 6,
+    "availability": "空き状況はお問合せ"
+   },
+   {
+    "name": "豊田町ガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000010208",
+    "monthly_fee": 8404,
+    "fee_text": "月額使用料 8,404円～13,068円（税込・保証/管理料込）／うち賃料 7,700円～12,100円",
+    "address": "京都府京都市南区西九条豊田町29-3",
+    "distance_km": 0.44,
+    "walk_min": 6,
+    "availability": "契約可（空きあり）"
+   },
+   {
+    "name": "上鳥羽堀子町42駐車場",
+    "url": "https://www.at-parking.jp/search/kyoto/kyoto-shi_minami-ku/kamitoba-horikocho/319756.html",
+    "monthly_fee": 9900,
+    "fee_text": "9,900円（税込）",
+    "address": "京都府京都市南区上鳥羽堀子町４２",
+    "distance_km": 0.38,
+    "walk_min": 5,
+    "availability": "空き状況お問合せ"
+   }
+  ],
+  "monthly_total": 98500,
+  "monthly_total_with_parking": 110600,
+  "score": 51.0,
+  "rank": 4,
+  "route_km": 2.41,
+  "straight_km": 1.8,
+  "parking_cost": 12100,
+  "parking_cost_src": "onsite",
+  "reikin_group": "le1",
+  "near": false,
+  "dropped_because": [
+   "total 110,600 > 100k"
+  ]
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000109678838/"
+   },
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000109678837/"
+   },
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000109697014/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/ad228789d1e9807f4f57695c85a7c8eb0812b16b/"
+   },
+   {
+    "source": "chintai",
+    "url": "https://www.chintai.net/detail/bk-0000007090000000006354430007/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_412920456/"
+   },
+   {
+    "source": "able",
+    "url": "https://www.able.co.jp/detail/Detail.do?bk=000000709635443007&prefkey=kyoto"
+   }
+  ],
+  "building_name": "コンフォール 5-C号室",
+  "address": "京都府京都市南区上鳥羽高畠町",
+  "lat": 34.972324,
+  "lon": 135.744568,
+  "distance_km": 2.39,
+  "bike_min": 12,
+  "rent": 89000,
+  "kanrihi": 9500,
+  "shikikin": "0円",
+  "shikikin_months": 0.0,
+  "reikin": "89,000円 (1ヶ月)",
+  "reikin_months": 1.0,
+  "other_initial": "ほか諸費用: ハウスクリーニング代4.95万円/退去時, 損保 3.85万円2年, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 65.16,
+  "floor": 5,
+  "building_floors": 7,
+  "elevator": true,
+  "built_year": 1995,
+  "built_month": 11,
+  "age_years": 31,
+  "structure": "RC",
+  "parking": "敷地内12100円",
+  "parking_status": "onsite",
+  "parking_fee": 12100,
+  "nearest_station": "近鉄京都線/十条駅 歩10分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "北向き; 建物種別: マンション; 条件: 二人入居可/子供可; 設備: オートロック, 都市ガス, 敷金不要, 二人入居, 駐輪場; 入居: 即; 総戸数 21戸; 取扱: (株)京都ライフ長岡店; 更新 2026/10/01; 備考: ＪＲ東海道本線西大路駅徒歩25分/更新料：新家賃1ヶ月 更新手数料：無; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T08:36:00+09:00",
+  "nearby_parking": [
+   {
+    "name": "京都市南区西九条豊田町 月極駐車場",
+    "url": "https://p-king.jp/detail/661215",
+    "monthly_fee": 7700,
+    "fee_text": "7,700円",
+    "address": "京都府京都市南区西九条豊田町",
+    "distance_km": 0.37,
+    "walk_min": 5,
+    "availability": "空き状況はお問合せ"
+   },
+   {
+    "name": "豊田町ガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000010208",
+    "monthly_fee": 8404,
+    "fee_text": "月額使用料 8,404円～13,068円（税込・保証/管理料込）／うち賃料 7,700円～12,100円",
+    "address": "京都府京都市南区西九条豊田町29-3",
+    "distance_km": 0.37,
+    "walk_min": 5,
+    "availability": "契約可（空きあり）"
+   },
+   {
+    "name": "３１０９９３　アスヴェル京都東寺前",
+    "url": "https://www.athome.co.jp/rent_parking/1013349495/",
+    "monthly_fee": 8800,
+    "fee_text": "0.88万円",
+    "address": "京都府京都市南区西九条大国町",
+    "distance_km": 0.59,
+    "walk_min": 7,
+    "availability": "掲載中（空き状況は要問合せ）"
+   }
+  ],
+  "monthly_total": 98500,
+  "monthly_total_with_parking": 110600,
+  "score": 50.0,
+  "rank": 5,
+  "route_km": 2.39,
+  "straight_km": 1.87,
+  "parking_cost": 12100,
+  "parking_cost_src": "onsite",
+  "reikin_group": "le1",
+  "near": false,
+  "dropped_because": [
+   "total 110,600 > 100k"
+  ]
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000109678839/"
+   },
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000109671527/"
+   },
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000109697013/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/7c797a428a4aef61589a18385e8befd86b723d05/"
+   },
+   {
+    "source": "chintai",
+    "url": "https://www.chintai.net/detail/bk-0000007090000000006354430001/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_412893644/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_413754372/"
+   },
+   {
+    "source": "eheya",
+    "url": "https://www.eheya.net/detail/300000472004013000009/"
+   },
+   {
+    "source": "able",
+    "url": "https://www.able.co.jp/detail/Detail.do?bk=000000709635443001&prefkey=kyoto"
+   }
+  ],
+  "building_name": "コンフォール 5A号室",
+  "address": "京都府京都市南区上鳥羽高畠町",
+  "lat": 34.972324,
+  "lon": 135.744568,
+  "distance_km": 2.39,
+  "bike_min": 12,
+  "rent": 89000,
+  "kanrihi": 9500,
+  "shikikin": "0円",
+  "shikikin_months": 0.0,
+  "reikin": "89,000円 (1ヶ月)",
+  "reikin_months": 1.0,
+  "other_initial": "ほか諸費用: スマイルパック2.75万円/2年 口座振替手数料330円/月 ハウスクリーニング代3.85万円/退去時, 損保 3.85万円2年, 取引態様：仲介",
+  "layout": "3LDK",
+  "area_m2": 65.0,
+  "floor": 5,
+  "building_floors": 7,
+  "elevator": true,
+  "built_year": 1995,
+  "built_month": 10,
+  "age_years": 31,
+  "structure": "RC",
+  "parking": "敷地内12100円",
+  "parking_status": "onsite",
+  "parking_fee": 12100,
+  "nearest_station": "近鉄京都線/十条駅 歩9分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "南向き; 建物種別: マンション; 条件: 二人入居可/子供可/ルームシェア相談; 設備: オートロック, 都市ガス, 敷金不要, 二人入居, 駐輪場, 敷地内ごみ置き場; 入居: 即; 総戸数 21戸; 取扱: アパマンショップ四条烏丸店ウインズリンク(株); 更新 2026/10/01; 備考: ＪＲ東海道本線西大路駅徒歩25分/更新料：新家賃1ヶ月 更新手数料：無; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T08:36:00+09:00",
+  "nearby_parking": [
+   {
+    "name": "京都市南区西九条豊田町 月極駐車場",
+    "url": "https://p-king.jp/detail/661215",
+    "monthly_fee": 7700,
+    "fee_text": "7,700円",
+    "address": "京都府京都市南区西九条豊田町",
+    "distance_km": 0.37,
+    "walk_min": 5,
+    "availability": "空き状況はお問合せ"
+   },
+   {
+    "name": "豊田町ガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000010208",
+    "monthly_fee": 8404,
+    "fee_text": "月額使用料 8,404円～13,068円（税込・保証/管理料込）／うち賃料 7,700円～12,100円",
+    "address": "京都府京都市南区西九条豊田町29-3",
+    "distance_km": 0.37,
+    "walk_min": 5,
+    "availability": "契約可（空きあり）"
+   },
+   {
+    "name": "３１０９９３　アスヴェル京都東寺前",
+    "url": "https://www.athome.co.jp/rent_parking/1013349495/",
+    "monthly_fee": 8800,
+    "fee_text": "0.88万円",
+    "address": "京都府京都市南区西九条大国町",
+    "distance_km": 0.59,
+    "walk_min": 7,
+    "availability": "掲載中（空き状況は要問合せ）"
+   }
+  ],
+  "monthly_total": 98500,
+  "monthly_total_with_parking": 110600,
+  "score": 50.0,
+  "rank": 6,
+  "route_km": 2.39,
+  "straight_km": 1.87,
+  "parking_cost": 12100,
+  "parking_cost_src": "onsite",
+  "reikin_group": "le1",
+  "near": false,
+  "dropped_because": [
+   "total 110,600 > 100k"
+  ]
+ },
+ {
+  "sources": [
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/b63130a289b10ee59f1a0311fe4123b688c65640/"
+   }
+  ],
+  "building_name": "コンフォール",
+  "address": "京都府京都市南区上鳥羽高畠町",
+  "lat": 34.972324,
+  "lon": 135.744568,
+  "distance_km": 2.39,
+  "bike_min": 12,
+  "rent": 89000,
+  "kanrihi": 9500,
+  "shikikin": "無",
+  "shikikin_months": 0.0,
+  "reikin": "8.9万円",
+  "reikin_months": 1.0,
+  "other_initial": "保証会社:加入要 保証会社：グリーン保証 保証会社利用料：初回：月額賃料等の50%、更新時：2.2万円/2年（初回保証料および更新保証料ともに最低保証料22000円）, 住宅保険:要, 更新料:新賃料の1ヶ月分, その他費用:室内清掃費用：38,500円、カードキー：16,500円、口座振替登録料：1,100円、口座振替手数料：330円, 取引態様:仲介, 契約期間:2年間",
+  "layout": "2LDK",
+  "area_m2": 64.33,
+  "floor": 5,
+  "building_floors": 7,
+  "elevator": true,
+  "built_year": 1995,
+  "built_month": 10,
+  "age_years": 31,
+  "structure": "RC",
+  "parking": "空有 12,100円(税込)",
+  "parking_status": "onsite",
+  "parking_fee": 12100,
+  "nearest_station": "近鉄京都線 十条駅 徒歩9分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "向き:北, オートロック, 非追焚機能, 非ペット相談, 非南向き, TVモニタ付インターホン, インターネット使用料無料, ゴミ出し24時間OK, 二人入居可, 即入居可, 都市ガス, 防犯カメラ, 駐輪場あり, 入居可能:即時, 現況:空家, 総戸数:21戸, 構造:RC(鉄筋コンクリート), 不動産会社:ウインズリンク株式会社 アパマンショップ京都駅前店, 種別:賃貸マンション, 間取り詳細:2LDK ( 洋室 6帖(5階) 洋室 5帖(5階) リビングダイニングキッチン 16帖(5階) ), 同一住戸の他掲載: https://www.homes.co.jp/chintai/room/027ba33039f7565e4255dd0dc25da662961ac988/, b-URL: https://www.homes.co.jp/chintai/b-1136250332918/",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T00:32:45+09:00",
+  "nearby_parking": [
+   {
+    "name": "京都市南区西九条豊田町 月極駐車場",
+    "url": "https://p-king.jp/detail/661215",
+    "monthly_fee": 7700,
+    "fee_text": "7,700円",
+    "address": "京都府京都市南区西九条豊田町",
+    "distance_km": 0.37,
+    "walk_min": 5,
+    "availability": "空き状況はお問合せ"
+   },
+   {
+    "name": "豊田町ガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000010208",
+    "monthly_fee": 8404,
+    "fee_text": "月額使用料 8,404円～13,068円（税込・保証/管理料込）／うち賃料 7,700円～12,100円",
+    "address": "京都府京都市南区西九条豊田町29-3",
+    "distance_km": 0.37,
+    "walk_min": 5,
+    "availability": "契約可（空きあり）"
+   },
+   {
+    "name": "３１０９９３　アスヴェル京都東寺前",
+    "url": "https://www.athome.co.jp/rent_parking/1013349495/",
+    "monthly_fee": 8800,
+    "fee_text": "0.88万円",
+    "address": "京都府京都市南区西九条大国町",
+    "distance_km": 0.59,
+    "walk_min": 7,
+    "availability": "掲載中（空き状況は要問合せ）"
+   }
+  ],
+  "monthly_total": 98500,
+  "monthly_total_with_parking": 110600,
+  "score": 49.5,
+  "rank": 7,
+  "route_km": 2.39,
+  "straight_km": 1.87,
+  "parking_cost": 12100,
+  "parking_cost_src": "onsite",
+  "reikin_group": "le1",
+  "near": false,
+  "dropped_because": [
+   "total 110,600 > 100k"
+  ]
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000110060230/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/91cb6e03823c14112298b76295e775c66c530016/"
+   }
+  ],
+  "building_name": "プラシド七瀬川",
+  "address": "京都府京都市伏見区竹田七瀬川町",
+  "lat": 34.953247,
+  "lon": 135.759689,
+  "distance_km": 3.28,
+  "bike_min": 16,
+  "rent": 97000,
+  "kanrihi": 5000,
+  "shikikin": "0円",
+  "shikikin_months": 0.0,
+  "reikin": "0円",
+  "reikin_months": 0.0,
+  "other_initial": "ほか諸費用: 入居サポート:1100円/月 更新料:旧賃料の1ヶ月分/更新時, 損保 要, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 45.32,
+  "floor": 2,
+  "building_floors": 4,
+  "elevator": true,
+  "built_year": 2013,
+  "built_month": 3,
+  "age_years": 13,
+  "structure": "RC",
+  "parking": "敷地内9900円",
+  "parking_status": "onsite",
+  "parking_fee": 9900,
+  "nearest_station": "近鉄京都線/竹田駅 歩9分",
+  "tier": "A",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "B+",
+  "insulation_note": "ما بعد معيار 1999 (次世代省エネ基準)؛ RC/SRC كتلة حرارية جيدة",
+  "notes": "東向き; 建物種別: マンション; 条件: 二人入居可/子供可/ペット相談; 設備: オートロック, 追焚, ペット, 礼金不要, 保証人不要, 二人入居, システムキッチン, 駐輪場, バイク置場, 敷地内ごみ置き場; 入居: '26年12月中旬; 総戸数 16戸; 取扱: (株)エリッツ四条河原町店; 更新 2026/10/01; 備考: ペット相談条件:全長６０ＣＭ体重２０ＫＧ以下; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T08:36:00+09:00",
+  "nearby_parking": [
+   {
+    "name": "OKYガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000030924",
+    "monthly_fee": 8784,
+    "fee_text": "月額使用料 8,784円～14,131円（税込・保証/管理料込）／うち賃料 8,000円～13,000円",
+    "address": "京都府京都市伏見区竹田七瀬川町57他2筆",
+    "distance_km": 0.05,
+    "walk_min": 1,
+    "availability": "空き待ち可（現在満車）"
+   },
+   {
+    "name": "ガレージたなか",
+    "url": "https://www.park-direct.jp/parkinglot/PK000030943",
+    "monthly_fee": 8784,
+    "fee_text": "月額使用料 8,784円（税込・保証/管理料込）／うち賃料 8,000円",
+    "address": "京都府京都市伏見区竹田内畑町210",
+    "distance_km": 0.2,
+    "walk_min": 2,
+    "availability": "空き待ち可（現在満車）"
+   },
+   {
+    "name": "松本武ガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000030936",
+    "monthly_fee": 8784,
+    "fee_text": "月額使用料 8,784円～9,871円（税込・保証/管理料込）／うち賃料 8,000円～9,000円",
+    "address": "京都府京都市伏見区竹田七瀬川町180",
+    "distance_km": 0.24,
+    "walk_min": 3,
+    "availability": "空き待ち可（現在満車）"
+   }
+  ],
+  "monthly_total": 102000,
+  "monthly_total_with_parking": 111900,
+  "score": 47.2,
+  "rank": 8,
+  "route_km": 3.28,
+  "straight_km": 2.55,
+  "parking_cost": 9900,
+  "parking_cost_src": "onsite",
+  "reikin_group": "le1",
+  "near": false,
+  "dropped_because": [
+   "bike 16 min",
+   "total 111,900 > 100k"
+  ]
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000109331314/"
+   },
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000109385003/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_412101778/"
+   }
+  ],
+  "building_name": "インペリアル明日香",
+  "address": "京都府京都市伏見区竹田桶ノ井町",
+  "lat": 34.955925,
+  "lon": 135.757187,
+  "distance_km": 2.94,
+  "bike_min": 13,
+  "rent": 88000,
+  "kanrihi": 9500,
+  "shikikin": "0円",
+  "shikikin_months": 0.0,
+  "reikin": "150,000円 (1.7ヶ月)",
+  "reikin_months": 1.7,
+  "other_initial": "ほか諸費用: 更新料:新賃料の1ヶ月分/更新時, 損保 要, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 62.55,
+  "floor": 3,
+  "building_floors": 7,
+  "elevator": true,
+  "built_year": 1992,
+  "built_month": 9,
+  "age_years": 34,
+  "structure": "RC",
+  "parking": "敷地内16500円",
+  "parking_status": "onsite",
+  "parking_fee": 16500,
+  "nearest_station": "地下鉄烏丸線/竹田駅 歩2分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "東向き; 建物種別: マンション; 条件: 二人入居可/子供可/ルームシェア相談; 設備: オートロック, 都市ガス, 宅配ボックス, 敷金不要, 二人入居, 駐輪場, バイク置場, 敷地内ごみ置き場; 入居: '26年10月下旬; 総戸数 78戸; 取扱: (株)エリッツ山科店; 更新 2026/10/01; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T08:36:00+09:00",
+  "nearby_parking": [
+   {
+    "name": "ガレージたなか",
+    "url": "https://www.park-direct.jp/parkinglot/PK000030943",
+    "monthly_fee": 8784,
+    "fee_text": "月額使用料 8,784円（税込・保証/管理料込）／うち賃料 8,000円",
+    "address": "京都府京都市伏見区竹田内畑町210",
+    "distance_km": 0.23,
+    "walk_min": 3,
+    "availability": "空き待ち可（現在満車）"
+   },
+   {
+    "name": "OKYガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000030924",
+    "monthly_fee": 8784,
+    "fee_text": "月額使用料 8,784円～14,131円（税込・保証/管理料込）／うち賃料 8,000円～13,000円",
+    "address": "京都府京都市伏見区竹田七瀬川町57他2筆",
+    "distance_km": 0.35,
+    "walk_min": 4,
+    "availability": "空き待ち可（現在満車）"
+   },
+   {
+    "name": "松本武ガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000030936",
+    "monthly_fee": 8784,
+    "fee_text": "月額使用料 8,784円～9,871円（税込・保証/管理料込）／うち賃料 8,000円～9,000円",
+    "address": "京都府京都市伏見区竹田七瀬川町180",
+    "distance_km": 0.52,
+    "walk_min": 6,
+    "availability": "空き待ち可（現在満車）"
+   }
+  ],
+  "monthly_total": 97500,
+  "monthly_total_with_parking": 114000,
+  "score": 47.2,
+  "rank": 10,
+  "route_km": 2.94,
+  "straight_km": 2.31,
+  "parking_cost": 16500,
+  "parking_cost_src": "onsite",
+  "reikin_group": "le2",
+  "near": false,
+  "dropped_because": [
+   "total 114,000 > 100k"
+  ]
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000107713174/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_408475264/"
+   }
+  ],
+  "building_name": "インペリアル明日香",
+  "address": "京都府京都市伏見区竹田桶ノ井町",
+  "lat": 34.955925,
+  "lon": 135.757187,
+  "distance_km": 2.94,
+  "bike_min": 13,
+  "rent": 88000,
+  "kanrihi": 9500,
+  "shikikin": "0円",
+  "shikikin_months": 0.0,
+  "reikin": "150,000円 (1.7ヶ月)",
+  "reikin_months": 1.7,
+  "other_initial": "仲介手数料不要, ほか諸費用: 更新料 賃料1.00ヶ月分 室内清掃費用 38500円, 損保 3.85万円2年, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 62.55,
+  "floor": 6,
+  "building_floors": 7,
+  "elevator": true,
+  "built_year": 1992,
+  "built_month": 9,
+  "age_years": 34,
+  "structure": "RC",
+  "parking": "敷地内11000円",
+  "parking_status": "onsite",
+  "parking_fee": 11000,
+  "nearest_station": "近鉄京都線/竹田駅 歩2分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "東向き; 建物種別: マンション; 条件: 二人入居可/事務所利用不可/ルームシェア不可; 設備: オートロック, 都市ガス, 敷金不要, 二人入居, 駐輪場, バイク置場; 入居: 相談; 総戸数 78戸; 取扱: おうちパラダイス UCHIPARA 京都本店合同会社ベアクル; 更新 2026/10/01; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T08:36:00+09:00",
+  "nearby_parking": [
+   {
+    "name": "ガレージたなか",
+    "url": "https://www.park-direct.jp/parkinglot/PK000030943",
+    "monthly_fee": 8784,
+    "fee_text": "月額使用料 8,784円（税込・保証/管理料込）／うち賃料 8,000円",
+    "address": "京都府京都市伏見区竹田内畑町210",
+    "distance_km": 0.23,
+    "walk_min": 3,
+    "availability": "空き待ち可（現在満車）"
+   },
+   {
+    "name": "OKYガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000030924",
+    "monthly_fee": 8784,
+    "fee_text": "月額使用料 8,784円～14,131円（税込・保証/管理料込）／うち賃料 8,000円～13,000円",
+    "address": "京都府京都市伏見区竹田七瀬川町57他2筆",
+    "distance_km": 0.35,
+    "walk_min": 4,
+    "availability": "空き待ち可（現在満車）"
+   },
+   {
+    "name": "松本武ガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000030936",
+    "monthly_fee": 8784,
+    "fee_text": "月額使用料 8,784円～9,871円（税込・保証/管理料込）／うち賃料 8,000円～9,000円",
+    "address": "京都府京都市伏見区竹田七瀬川町180",
+    "distance_km": 0.52,
+    "walk_min": 6,
+    "availability": "空き待ち可（現在満車）"
+   }
+  ],
+  "monthly_total": 97500,
+  "monthly_total_with_parking": 108500,
+  "score": 47.2,
+  "rank": 11,
+  "route_km": 2.94,
+  "straight_km": 2.31,
+  "parking_cost": 11000,
+  "parking_cost_src": "onsite",
+  "reikin_group": "le2",
+  "near": false,
+  "dropped_because": [
+   "total 108,500 > 100k"
+  ]
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000109498289/"
+   },
+   {
+    "source": "chintai",
+    "url": "https://www.chintai.net/detail/bk-0000007050000000000434460023/"
+   },
+   {
+    "source": "able",
+    "url": "https://www.able.co.jp/detail/Detail.do?bk=000000705043446023&prefkey=kyoto"
+   }
+  ],
+  "building_name": "インペリアル明日香",
+  "address": "京都府京都市伏見区竹田桶ノ井町",
+  "lat": 34.955925,
+  "lon": 135.757187,
+  "distance_km": 2.94,
+  "bike_min": 13,
+  "rent": 90000,
+  "kanrihi": 9500,
+  "shikikin": "0円",
+  "shikikin_months": 0.0,
+  "reikin": "150,000円 (1.7ヶ月)",
+  "reikin_months": 1.7,
+  "other_initial": "損保 2.64万円2年, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 62.55,
+  "floor": 6,
+  "building_floors": 7,
+  "elevator": true,
+  "built_year": 1992,
+  "built_month": 9,
+  "age_years": 34,
+  "structure": "RC",
+  "parking": "敷地内11000円",
+  "parking_status": "onsite",
+  "parking_fee": 11000,
+  "nearest_station": "近鉄京都線/竹田駅 歩1分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "東向き; 建物種別: マンション; 条件: 単身者可/二人入居可/子供可/事務所利用不可/ルームシェア相談; 設備: オートロック, 都市ガス, 敷金不要, 二人入居, 駐輪場, バイク置場, 敷地内ごみ置き場; 入居: 相談; 総戸数 78戸; 取扱: (株)アルティム伏見桃山店; 更新 2026/10/01; 備考: 自転車・原付・中型・大型バイク無料; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T08:36:00+09:00",
+  "nearby_parking": [
+   {
+    "name": "ガレージたなか",
+    "url": "https://www.park-direct.jp/parkinglot/PK000030943",
+    "monthly_fee": 8784,
+    "fee_text": "月額使用料 8,784円（税込・保証/管理料込）／うち賃料 8,000円",
+    "address": "京都府京都市伏見区竹田内畑町210",
+    "distance_km": 0.23,
+    "walk_min": 3,
+    "availability": "空き待ち可（現在満車）"
+   },
+   {
+    "name": "OKYガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000030924",
+    "monthly_fee": 8784,
+    "fee_text": "月額使用料 8,784円～14,131円（税込・保証/管理料込）／うち賃料 8,000円～13,000円",
+    "address": "京都府京都市伏見区竹田七瀬川町57他2筆",
+    "distance_km": 0.35,
+    "walk_min": 4,
+    "availability": "空き待ち可（現在満車）"
+   },
+   {
+    "name": "松本武ガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000030936",
+    "monthly_fee": 8784,
+    "fee_text": "月額使用料 8,784円～9,871円（税込・保証/管理料込）／うち賃料 8,000円～9,000円",
+    "address": "京都府京都市伏見区竹田七瀬川町180",
+    "distance_km": 0.52,
+    "walk_min": 6,
+    "availability": "空き待ち可（現在満車）"
+   }
+  ],
+  "monthly_total": 99500,
+  "monthly_total_with_parking": 110500,
+  "score": 47.2,
+  "rank": 12,
+  "route_km": 2.94,
+  "straight_km": 2.31,
+  "parking_cost": 11000,
+  "parking_cost_src": "onsite",
+  "reikin_group": "le2",
+  "near": false,
+  "dropped_because": [
+   "total 110,500 > 100k"
+  ]
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000107994845/"
+   },
+   {
+    "source": "chintai",
+    "url": "https://www.chintai.net/detail/bk-0000007090000000000278560004/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_409142770/"
+   },
+   {
+    "source": "able",
+    "url": "https://www.able.co.jp/detail/Detail.do?bk=000000709027856004&prefkey=kyoto"
+   }
+  ],
+  "building_name": "プレジオ東寺",
+  "address": "京都府京都市南区西九条南田町",
+  "lat": 34.9776,
+  "lon": 135.747421,
+  "distance_km": 1.91,
+  "bike_min": 9,
+  "rent": 99000,
+  "kanrihi": 8000,
+  "shikikin": "0円",
+  "shikikin_months": 0.0,
+  "reikin": "0円",
+  "reikin_months": 0.0,
+  "other_initial": "保証会社加入要(初回月額総額50％, 損保 要, 取引態様：仲介",
+  "layout": "2SLDK",
+  "area_m2": 57.8,
+  "floor": 6,
+  "building_floors": 6,
+  "elevator": true,
+  "built_year": 1997,
+  "built_month": 2,
+  "age_years": 29,
+  "structure": "RC",
+  "parking": "-",
+  "parking_status": "unknown",
+  "parking_fee": null,
+  "nearest_station": "近鉄京都線/東寺駅 歩7分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "南向き; 建物種別: マンション; 条件: 子供可; 設備: オートロック, 都市ガス, 最上階, 礼金不要, 駐輪場; 入居: 即; 総戸数 -; 取扱: (株)エイブル京都駅前店; 更新 2026/10/01; 備考: 保証会社加入要(初回月額総額50％、月次月額総額2％)。 清掃代(初期)70000円。 鍵交換代(初期)32100円。 消毒(抗菌費)(初期)25300円。 入居者サポート費用(初期)22000円。 防災グッズ代(初期)16500円。 月額損害保険料等1250円。; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T08:36:00+09:00",
+  "nearby_parking": [
+   {
+    "name": "京都市南区西九条豊田町 月極駐車場",
+    "url": "https://p-king.jp/detail/661215",
+    "monthly_fee": 7700,
+    "fee_text": "7,700円",
+    "address": "京都府京都市南区西九条豊田町",
+    "distance_km": 0.36,
+    "walk_min": 4,
+    "availability": "空き状況はお問合せ"
+   },
+   {
+    "name": "豊田町ガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000010208",
+    "monthly_fee": 8404,
+    "fee_text": "月額使用料 8,404円～13,068円（税込・保証/管理料込）／うち賃料 7,700円～12,100円",
+    "address": "京都府京都市南区西九条豊田町29-3",
+    "distance_km": 0.36,
+    "walk_min": 4,
+    "availability": "契約可（空きあり）"
+   },
+   {
+    "name": "３１０９９３　アスヴェル京都東寺前",
+    "url": "https://www.athome.co.jp/rent_parking/1013349495/",
+    "monthly_fee": 8800,
+    "fee_text": "0.88万円",
+    "address": "京都府京都市南区西九条大国町",
+    "distance_km": 0.26,
+    "walk_min": 3,
+    "availability": "掲載中（空き状況は要問合せ）"
+   }
+  ],
+  "monthly_total": 107000,
+  "monthly_total_with_parking": 114700,
+  "score": 45.6,
+  "rank": 13,
+  "route_km": 1.91,
+  "straight_km": 1.58,
+  "parking_cost": 7700,
+  "parking_cost_src": "lot",
+  "reikin_group": "le1",
+  "near": false,
+  "dropped_because": [
+   "total 114,700 > 100k"
+  ]
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000109954387/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/d3090bb1a6a97a3538cd79240f04b9c6d397c531/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/19af16f403b9be3b4b134aa1124d6e4d1b4f3286/"
+   },
+   {
+    "source": "chintai",
+    "url": "https://www.chintai.net/detail/bk-0000007050000000000264700011/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_413510818/"
+   },
+   {
+    "source": "able",
+    "url": "https://www.able.co.jp/detail/Detail.do?bk=000000705026470011&prefkey=kyoto"
+   }
+  ],
+  "building_name": "グレース・ダイン",
+  "address": "京都府京都市伏見区竹田浄菩提院町",
+  "lat": 34.951748,
+  "lon": 135.754166,
+  "distance_km": 3.51,
+  "bike_min": 16,
+  "rent": 95000,
+  "kanrihi": 9000,
+  "shikikin": "0円",
+  "shikikin_months": 0.0,
+  "reikin": "95,000円 (1ヶ月)",
+  "reikin_months": 1.0,
+  "other_initial": "ほか諸費用: 更新料50000円, 損保 2.2万円2年, 取引態様：仲介",
+  "layout": "3LDK",
+  "area_m2": 65.99,
+  "floor": 7,
+  "building_floors": 7,
+  "elevator": true,
+  "built_year": 1995,
+  "built_month": 9,
+  "age_years": 31,
+  "structure": "RC",
+  "parking": "敷地内13200円",
+  "parking_status": "onsite",
+  "parking_fee": 13200,
+  "nearest_station": "地下鉄烏丸線/竹田駅 歩6分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "南向き; 建物種別: マンション; 条件: 二人入居可; 設備: オートロック, 都市ガス, 最上階, 敷金不要, 二人入居, 駐輪場, バイク置場, 敷地内ごみ置き場; 入居: '26年11月上旬; 総戸数 42戸; 取扱: 賃貸住宅サービス 伏見店(株)BRAVE; 更新 2026/10/01; 備考: 京阪電気鉄道京阪線 墨染駅徒歩18分/巡回管理/ルームクリーニング費/44000円、くらしーど24/16500円、駐車場プレート代/3000円; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T08:36:00+09:00",
+  "nearby_parking": [
+   {
+    "name": "松本武ガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000030936",
+    "monthly_fee": 8784,
+    "fee_text": "月額使用料 8,784円～9,871円（税込・保証/管理料込）／うち賃料 8,000円～9,000円",
+    "address": "京都府京都市伏見区竹田七瀬川町180",
+    "distance_km": 0.39,
+    "walk_min": 5,
+    "availability": "空き待ち可（現在満車）"
+   },
+   {
+    "name": "ガレージたなか",
+    "url": "https://www.park-direct.jp/parkinglot/PK000030943",
+    "monthly_fee": 8784,
+    "fee_text": "月額使用料 8,784円（税込・保証/管理料込）／うち賃料 8,000円",
+    "address": "京都府京都市伏見区竹田内畑町210",
+    "distance_km": 0.4,
+    "walk_min": 5,
+    "availability": "空き待ち可（現在満車）"
+   },
+   {
+    "name": "竹中祐ガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000030990",
+    "monthly_fee": 8784,
+    "fee_text": "月額使用料 8,784円（税込・保証/管理料込）／うち賃料 8,000円",
+    "address": "京都府京都市伏見区中島宮ノ前町74",
+    "distance_km": 0.5,
+    "walk_min": 6,
+    "availability": "空き待ち可（現在満車）"
+   }
+  ],
+  "monthly_total": 104000,
+  "monthly_total_with_parking": 117200,
+  "score": 46.0,
+  "rank": 14,
+  "route_km": 3.51,
+  "straight_km": 2.84,
+  "parking_cost": 13200,
+  "parking_cost_src": "onsite",
+  "reikin_group": "le1",
+  "near": false,
+  "dropped_because": [
+   "bike 16 min",
+   "total 117,200 > 100k"
+  ]
+ },
+ {
+  "sources": [
+   {
+    "source": "chintai",
+    "url": "https://www.chintai.net/detail/bk-0000007050000000000434460100/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_402565956/"
+   },
+   {
+    "source": "able",
+    "url": "https://www.able.co.jp/detail/Detail.do?bk=000000705043446100&prefkey=kyoto"
+   }
+  ],
+  "building_name": "インペリアル 明日香",
+  "address": "京都府京都市伏見区竹田桶ノ井町",
+  "lat": 34.957177,
+  "lon": 135.757816,
+  "distance_km": 3.02,
+  "bike_min": 14,
+  "rent": 85000,
+  "kanrihi": 9500,
+  "shikikin": "0円",
+  "shikikin_months": 0.0,
+  "reikin": "150,000円 (1.8ヶ月)",
+  "reikin_months": 1.8,
+  "other_initial": "その他初期費用: 契約時必須(入居者サポート費用:38,500円) / 契約時必須(エアコン洗浄:25,000円) / 契約時必須(鍵交換代:15,000円); 更新料: 1ヶ月; 保証会社: 保証会社必加入（実費）; 保険: 損害保険加入要。",
+  "layout": "2LDK",
+  "area_m2": 55.0,
+  "floor": 4,
+  "building_floors": 7,
+  "elevator": true,
+  "built_year": 1992,
+  "built_month": 8,
+  "age_years": 34,
+  "structure": "RC",
+  "parking": "有料駐車場 1台 （16,500円/月） / 自転車置き場 ※駐車場の金額表示は1台分の表示となります。",
+  "parking_status": "onsite",
+  "parking_fee": 16500,
+  "nearest_station": "京都市営地下鉄烏丸線/竹田駅 徒歩2分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "direction: 南 | conditions: 家賃保証会社利用必須 / 子供可 / 独身可 | contract: 一般契約：2年間 | deal_type: 媒介 | move_in: 即入居 | koshinryo: 1ヶ月 | 設備: バス・トイレ別, TVモニターホン, 室内洗濯機置き場, 駐車場付き, エアコン, 敷地内ゴミ置き場, オートロック, 独立洗面台, ベランダ・バルコニー | 備考: 仲介手数料家賃の55%。 オートロック。保証会社加入要(初回、月額総支払額の50%)。 | PR: 洗面化粧台付き。室内に洗濯機置場あり。TVインターホン付き。宅配ボックスあり。防犯カメラ付きマンション。 | kind: マンション; updated 2026/09/23; geo: chintai map coords",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T08:39:35+09:00",
+  "nearby_parking": [
+   {
+    "name": "ガレージたなか",
+    "url": "https://www.park-direct.jp/parkinglot/PK000030943",
+    "monthly_fee": 8784,
+    "fee_text": "月額使用料 8,784円（税込・保証/管理料込）／うち賃料 8,000円",
+    "address": "京都府京都市伏見区竹田内畑町210",
+    "distance_km": 0.36,
+    "walk_min": 4,
+    "availability": "空き待ち可（現在満車）"
+   },
+   {
+    "name": "OKYガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000030924",
+    "monthly_fee": 8784,
+    "fee_text": "月額使用料 8,784円～14,131円（税込・保証/管理料込）／うち賃料 8,000円～13,000円",
+    "address": "京都府京都市伏見区竹田七瀬川町57他2筆",
+    "distance_km": 0.43,
+    "walk_min": 5,
+    "availability": "空き待ち可（現在満車）"
+   },
+   {
+    "name": "月極駐車場",
+    "url": "https://www.monthly-p.com/detail/25600/",
+    "monthly_fee": 9000,
+    "fee_text": "9,000円",
+    "address": "京都府京都市伏見区深草西浦町8丁目",
+    "distance_km": 0.46,
+    "walk_min": 6,
+    "availability": "満車"
+   }
+  ],
+  "monthly_total": 94500,
+  "monthly_total_with_parking": 111000,
+  "score": 40.5,
+  "rank": 15,
+  "route_km": 3.02,
+  "straight_km": 2.16,
+  "parking_cost": 16500,
+  "parking_cost_src": "onsite",
+  "reikin_group": "le2",
+  "near": false,
+  "dropped_because": [
+   "total 111,000 > 100k"
+  ]
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000107570704/"
+   },
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000107628132/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/d3bd0d2772c2b35e0f597ebe66d154e4e2d30696/"
+   }
+  ],
+  "building_name": "リーブルショーザン 403号室",
+  "address": "京都府京都市伏見区竹田浄菩提院町",
+  "lat": 34.951748,
+  "lon": 135.754166,
+  "distance_km": 3.51,
+  "bike_min": 16,
+  "rent": 80000,
+  "kanrihi": 9000,
+  "shikikin": "0円",
+  "shikikin_months": 0.0,
+  "reikin": "80,000円 (1ヶ月)",
+  "reikin_months": 1.0,
+  "other_initial": "損保 3.85万円2年, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 54.54,
+  "floor": 4,
+  "building_floors": 6,
+  "elevator": true,
+  "built_year": 1994,
+  "built_month": 8,
+  "age_years": 32,
+  "structure": "RC",
+  "parking": "敷地内13200円",
+  "parking_status": "onsite",
+  "parking_fee": 13200,
+  "nearest_station": "地下鉄烏丸線/竹田駅 歩7分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "西向き; 建物種別: マンション; 条件: 二人入居可/子供可; 設備: オートロック, 都市ガス, 敷金不要, 二人入居, システムキッチン, 駐輪場, バイク置場; 入居: 即; 総戸数 18戸; 取扱: (株)京都ライフ北大路店; 更新 2026/10/01; 備考: 京阪本線墨染駅徒歩22分/巡回管理/駐車料金：13200円～15400円 更新料：80000円 更新手数料：無; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T08:36:00+09:00",
+  "nearby_parking": [
+   {
+    "name": "松本武ガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000030936",
+    "monthly_fee": 8784,
+    "fee_text": "月額使用料 8,784円～9,871円（税込・保証/管理料込）／うち賃料 8,000円～9,000円",
+    "address": "京都府京都市伏見区竹田七瀬川町180",
+    "distance_km": 0.39,
+    "walk_min": 5,
+    "availability": "空き待ち可（現在満車）"
+   },
+   {
+    "name": "ガレージたなか",
+    "url": "https://www.park-direct.jp/parkinglot/PK000030943",
+    "monthly_fee": 8784,
+    "fee_text": "月額使用料 8,784円（税込・保証/管理料込）／うち賃料 8,000円",
+    "address": "京都府京都市伏見区竹田内畑町210",
+    "distance_km": 0.4,
+    "walk_min": 5,
+    "availability": "空き待ち可（現在満車）"
+   },
+   {
+    "name": "竹中祐ガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000030990",
+    "monthly_fee": 8784,
+    "fee_text": "月額使用料 8,784円（税込・保証/管理料込）／うち賃料 8,000円",
+    "address": "京都府京都市伏見区中島宮ノ前町74",
+    "distance_km": 0.5,
+    "walk_min": 6,
+    "availability": "空き待ち可（現在満車）"
+   }
+  ],
+  "monthly_total": 89000,
+  "monthly_total_with_parking": 102200,
+  "score": 41.4,
+  "rank": 16,
+  "route_km": 3.51,
+  "straight_km": 2.84,
+  "parking_cost": 13200,
+  "parking_cost_src": "onsite",
+  "reikin_group": "le1",
+  "near": false,
+  "dropped_because": [
+   "bike 16 min"
+  ]
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000107970992/"
+   },
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000107983483/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/5aca25a418fdcd14d28740004de0713dd0c3e201/"
+   }
+  ],
+  "building_name": "リーブルショーザン 203号室",
+  "address": "京都府京都市伏見区竹田浄菩提院町",
+  "lat": 34.951748,
+  "lon": 135.754166,
+  "distance_km": 3.51,
+  "bike_min": 16,
+  "rent": 80000,
+  "kanrihi": 9000,
+  "shikikin": "0円",
+  "shikikin_months": 0.0,
+  "reikin": "80,000円 (1ヶ月)",
+  "reikin_months": 1.0,
+  "other_initial": "損保 3.85万円2年, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 54.54,
+  "floor": 2,
+  "building_floors": 6,
+  "elevator": true,
+  "built_year": 1994,
+  "built_month": 8,
+  "age_years": 32,
+  "structure": "RC",
+  "parking": "敷地内13200円",
+  "parking_status": "onsite",
+  "parking_fee": 13200,
+  "nearest_station": "地下鉄烏丸線/竹田駅 歩7分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "西向き; 建物種別: マンション; 条件: 二人入居可/子供可; 設備: オートロック, 都市ガス, 敷金不要, 二人入居, システムキッチン, 駐輪場, バイク置場; 入居: 即; 総戸数 18戸; 取扱: (株)京都ライフ北大路店; 更新 2026/10/01; 備考: 京阪本線墨染駅徒歩22分/巡回管理/駐車料金：13200円～15400円 更新料：新家賃1ヶ月 更新手数料：無; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T08:36:00+09:00",
+  "nearby_parking": [
+   {
+    "name": "松本武ガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000030936",
+    "monthly_fee": 8784,
+    "fee_text": "月額使用料 8,784円～9,871円（税込・保証/管理料込）／うち賃料 8,000円～9,000円",
+    "address": "京都府京都市伏見区竹田七瀬川町180",
+    "distance_km": 0.39,
+    "walk_min": 5,
+    "availability": "空き待ち可（現在満車）"
+   },
+   {
+    "name": "ガレージたなか",
+    "url": "https://www.park-direct.jp/parkinglot/PK000030943",
+    "monthly_fee": 8784,
+    "fee_text": "月額使用料 8,784円（税込・保証/管理料込）／うち賃料 8,000円",
+    "address": "京都府京都市伏見区竹田内畑町210",
+    "distance_km": 0.4,
+    "walk_min": 5,
+    "availability": "空き待ち可（現在満車）"
+   },
+   {
+    "name": "竹中祐ガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000030990",
+    "monthly_fee": 8784,
+    "fee_text": "月額使用料 8,784円（税込・保証/管理料込）／うち賃料 8,000円",
+    "address": "京都府京都市伏見区中島宮ノ前町74",
+    "distance_km": 0.5,
+    "walk_min": 6,
+    "availability": "空き待ち可（現在満車）"
+   }
+  ],
+  "monthly_total": 89000,
+  "monthly_total_with_parking": 102200,
+  "score": 41.4,
+  "rank": 17,
+  "route_km": 3.51,
+  "straight_km": 2.84,
+  "parking_cost": 13200,
+  "parking_cost_src": "onsite",
+  "reikin_group": "le1",
+  "near": false,
+  "dropped_because": [
+   "bike 16 min"
+  ]
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000107262089/"
+   },
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000107272612/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/343fbda964e4ebc862bc877197d4ee3561bd1d78/"
+   }
+  ],
+  "building_name": "リーブルショーザン",
+  "address": "京都府京都市伏見区竹田浄菩提院町",
+  "lat": 34.951748,
+  "lon": 135.754166,
+  "distance_km": 3.51,
+  "bike_min": 16,
+  "rent": 80000,
+  "kanrihi": 9000,
+  "shikikin": "0円",
+  "shikikin_months": 0.0,
+  "reikin": "80,000円 (1ヶ月)",
+  "reikin_months": 1.0,
+  "other_initial": "ほか諸費用: 更新料:旧賃料の1ヶ月分/更新時 ハウスクリーニング:33000円/退去時, 損保 要, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 50.6,
+  "floor": 3,
+  "building_floors": 6,
+  "elevator": true,
+  "built_year": 1994,
+  "built_month": 8,
+  "age_years": 32,
+  "structure": "RC",
+  "parking": "敷地内13200円",
+  "parking_status": "onsite",
+  "parking_fee": 13200,
+  "nearest_station": "近鉄京都線/竹田駅 歩8分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "西向き; 建物種別: マンション; 条件: 二人入居可/子供可/ルームシェア相談; 設備: オートロック, 都市ガス, 敷金不要, 二人入居, システムキッチン, 駐輪場, バイク置場, 敷地内ごみ置き場; 入居: 相談; 総戸数 18戸; 取扱: (株)エリッツ山科店; 更新 2026/10/01; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T08:36:00+09:00",
+  "nearby_parking": [
+   {
+    "name": "松本武ガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000030936",
+    "monthly_fee": 8784,
+    "fee_text": "月額使用料 8,784円～9,871円（税込・保証/管理料込）／うち賃料 8,000円～9,000円",
+    "address": "京都府京都市伏見区竹田七瀬川町180",
+    "distance_km": 0.39,
+    "walk_min": 5,
+    "availability": "空き待ち可（現在満車）"
+   },
+   {
+    "name": "ガレージたなか",
+    "url": "https://www.park-direct.jp/parkinglot/PK000030943",
+    "monthly_fee": 8784,
+    "fee_text": "月額使用料 8,784円（税込・保証/管理料込）／うち賃料 8,000円",
+    "address": "京都府京都市伏見区竹田内畑町210",
+    "distance_km": 0.4,
+    "walk_min": 5,
+    "availability": "空き待ち可（現在満車）"
+   },
+   {
+    "name": "竹中祐ガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000030990",
+    "monthly_fee": 8784,
+    "fee_text": "月額使用料 8,784円（税込・保証/管理料込）／うち賃料 8,000円",
+    "address": "京都府京都市伏見区中島宮ノ前町74",
+    "distance_km": 0.5,
+    "walk_min": 6,
+    "availability": "空き待ち可（現在満車）"
+   }
+  ],
+  "monthly_total": 89000,
+  "monthly_total_with_parking": 102200,
+  "score": 38.4,
+  "rank": 19,
+  "route_km": 3.51,
+  "straight_km": 2.84,
+  "parking_cost": 13200,
+  "parking_cost_src": "onsite",
+  "reikin_group": "le1",
+  "near": false,
+  "dropped_because": [
+   "bike 16 min"
+  ]
+ },
+ {
+  "sources": [
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_411544806/"
+   }
+  ],
+  "building_name": "クレアール弐番館",
+  "address": "京都府京都市南区",
+  "lat": 34.97665,
+  "lon": 135.746429,
+  "distance_km": 2.68,
+  "bike_min": 13,
+  "rent": 77000,
+  "kanrihi": 5000,
+  "shikikin": "5万円(-)",
+  "shikikin_months": 0.65,
+  "reikin": "7.7万円",
+  "reikin_months": 1.0,
+  "other_initial": "仲介手数料: 詳細は不動産会社にご確認ください; 保証会社: 詳細は不動産会社にご確認ください; 契約期間: 2年",
+  "layout": "2LDK",
+  "area_m2": 48.6,
+  "floor": 4,
+  "building_floors": 6,
+  "elevator": true,
+  "built_year": 1998,
+  "built_month": 5,
+  "age_years": 28,
+  "structure": "RC",
+  "parking": "空有　11000円",
+  "parking_status": "onsite",
+  "parking_fee": 11000,
+  "nearest_station": "東海道線 西大路駅 徒歩9分 阪急京都線 西京極駅 徒歩26分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "バス・トイレ: バス・トイレ別、シャワー、給湯、シャンプードレッサー、独立洗面台 / インターネット・TV: 光回線、CATV（ケーブルテレビ）、BSアンテナ  / 室内設備: 都市ガス、室内洗濯機置場、フローリング、バルコニー  / 共用部: エレベーター  / セキュリティ: オートロック / 駐車場・駐輪場: 駐車場あり、駐輪場あり  / その他: ２階以上",
+  "coarse_address": true,
+  "fetched_at": "2026-10-02T01:09:35+09:00",
+  "nearby_parking": [
+   {
+    "name": "京都市南区西九条豊田町 月極駐車場",
+    "url": "https://p-king.jp/detail/661215",
+    "monthly_fee": 7700,
+    "fee_text": "7,700円",
+    "address": "京都府京都市南区西九条豊田町",
+    "distance_km": 0.23,
+    "walk_min": 3,
+    "availability": "空き状況はお問合せ"
+   },
+   {
+    "name": "豊田町ガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000010208",
+    "monthly_fee": 8404,
+    "fee_text": "月額使用料 8,404円～13,068円（税込・保証/管理料込）／うち賃料 7,700円～12,100円",
+    "address": "京都府京都市南区西九条豊田町29-3",
+    "distance_km": 0.23,
+    "walk_min": 3,
+    "availability": "契約可（空きあり）"
+   },
+   {
+    "name": "３１０９９３　アスヴェル京都東寺前",
+    "url": "https://www.athome.co.jp/rent_parking/1013349495/",
+    "monthly_fee": 8800,
+    "fee_text": "0.88万円",
+    "address": "京都府京都市南区西九条大国町",
+    "distance_km": 0.2,
+    "walk_min": 2,
+    "availability": "掲載中（空き状況は要問合せ）"
+   }
+  ],
+  "monthly_total": 82000,
+  "monthly_total_with_parking": 93000,
+  "score": 46.0,
+  "rank": 20,
+  "route_km": 2.68,
+  "straight_km": 1.66,
+  "parking_cost": 11000,
+  "parking_cost_src": "onsite",
+  "reikin_group": "le1",
+  "near": false,
+  "dropped_because": [
+   "address only gives the ward"
+  ]
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000106665123/"
+   },
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000106714635/"
+   }
+  ],
+  "building_name": "エイブル創久五条大宮 406号室",
+  "address": "京都府京都市下京区下五条町",
+  "lat": 34.996056,
+  "lon": 135.748962,
+  "distance_km": 3.88,
+  "bike_min": 17,
+  "rent": 95000,
+  "kanrihi": 10000,
+  "shikikin": "0円",
+  "shikikin_months": 0.0,
+  "reikin": "100,000円 (1.1ヶ月)",
+  "reikin_months": 1.1,
+  "other_initial": "ほか諸費用: 損害保険料1000円/月 ゴミ処理代400円/月 環境維持費1.1万円/退去時, 損保 要, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 55.6,
+  "floor": 4,
+  "building_floors": 11,
+  "elevator": true,
+  "built_year": 1991,
+  "built_month": 4,
+  "age_years": 35,
+  "structure": "SRC",
+  "parking": "敷地内27500円",
+  "parking_status": "onsite",
+  "parking_fee": 27500,
+  "nearest_station": "ＪＲ山陰本線/丹波口駅 歩7分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "南向き; 建物種別: マンション; 条件: 二人入居可/子供可; 設備: オートロック, 追焚, 都市ガス, 浴室乾燥, 敷金不要, 保証人不要, 二人入居, システムキッチン, 駐輪場, バイク置場, 敷地内ごみ置き場; 入居: 即; 総戸数 46戸; 取扱: (株)京都ライフ京都駅前店; 更新 2026/10/01; 備考: ＪＲ山陰本線梅小路京都西駅徒歩15分/巡回管理/更新料：旧家賃1ヶ月 更新手数料：22000円; 構造(原文): 鉄骨鉄筋",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T08:36:00+09:00",
+  "nearby_parking": [
+   {
+    "name": "京都市下京区二人司町 月極駐車場",
+    "url": "https://p-king.jp/detail/561345",
+    "monthly_fee": 4000,
+    "fee_text": "4,000円 ～",
+    "address": "京都府京都市下京区二人司町",
+    "distance_km": 0.51,
+    "walk_min": 6,
+    "availability": "空き状況はお問合せ"
+   },
+   {
+    "name": "京都市下京区西田町 月極駐車場",
+    "url": "https://p-king.jp/detail/570175",
+    "monthly_fee": 7700,
+    "fee_text": "7,700円",
+    "address": "京都府京都市下京区西田町",
+    "distance_km": 0.59,
+    "walk_min": 7,
+    "availability": "空き状況はお問合せ"
+   },
+   {
+    "name": "京都市下京区諏訪開町 月極駐車場",
+    "url": "https://p-king.jp/detail/662845",
+    "monthly_fee": 13000,
+    "fee_text": "13,000円 ～",
+    "address": "京都府京都市下京区諏訪開町",
+    "distance_km": 0.59,
+    "walk_min": 7,
+    "availability": "空き待ち予約可能"
+   }
+  ],
+  "monthly_total": 105000,
+  "monthly_total_with_parking": 132500,
+  "score": 38.0,
+  "rank": 22,
+  "route_km": 3.88,
+  "straight_km": 2.66,
+  "parking_cost": 27500,
+  "parking_cost_src": "onsite",
+  "reikin_group": "le2",
+  "near": false,
+  "dropped_because": [
+   "bike 17 min",
+   "total 132,500 > 100k"
+  ]
+ },
+ {
+  "sources": [
+   {
+    "source": "chintai",
+    "url": "https://www.chintai.net/detail/bk-0000007050000000000429970023/"
+   },
+   {
+    "source": "able",
+    "url": "https://www.able.co.jp/detail/Detail.do?bk=000000705042997023&prefkey=kyoto"
+   }
+  ],
+  "building_name": "グレース ナカミヤ",
+  "address": "京都府京都市伏見区竹田田中宮町",
+  "lat": 34.95029,
+  "lon": 135.754497,
+  "distance_km": 3.73,
+  "bike_min": 17,
+  "rent": 88000,
+  "kanrihi": 9000,
+  "shikikin": "0円",
+  "shikikin_months": 0.0,
+  "reikin": "88,000円 (1.0ヶ月)",
+  "reikin_months": 1.0,
+  "other_initial": "その他初期費用: 契約時必須(清掃代:44,000円) / 契約時必須(入居者サポート費用:16,500円); 更新料: 50,000円; 保証会社: 保証会社必加入（実費）; 保険: 損害保険加入要。",
+  "layout": "2LDK",
+  "area_m2": 55.57,
+  "floor": 5,
+  "building_floors": 6,
+  "elevator": true,
+  "built_year": 1997,
+  "built_month": 9,
+  "age_years": 29,
+  "structure": "RC",
+  "parking": "有料駐車場 1台 （13,200円/月） / 自転車置き場 ※駐車場の金額表示は1台分の表示となります。",
+  "parking_status": "onsite",
+  "parking_fee": 13200,
+  "nearest_station": "京都市営地下鉄烏丸線/竹田駅 徒歩9分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "direction: 西 | conditions: 家賃保証会社利用必須 / シニア相談可 / 子供可 | contract: 一般契約：2年間 | deal_type: 媒介 | move_in: 空予定 (2026年10月下旬) | koshinryo: 50,000円 | 設備: バス・トイレ別, 室内洗濯機置き場, 駐車場付き, 敷地内ゴミ置き場, オートロック, 独立洗面台, ベランダ・バルコニー | 備考: 仲介手数料家賃の55%。 保証会社加入要(初回、月額総支払額の50%)。 | PR: オートロック。洗面化粧台付き。室内に洗濯機置場あり。 | kind: マンション; updated 2026/09/19; geo: chintai map coords",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T08:39:35+09:00",
+  "nearby_parking": [
+   {
+    "name": "松本武ガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000030936",
+    "monthly_fee": 8784,
+    "fee_text": "月額使用料 8,784円～9,871円（税込・保証/管理料込）／うち賃料 8,000円～9,000円",
+    "address": "京都府京都市伏見区竹田七瀬川町180",
+    "distance_km": 0.37,
+    "walk_min": 5,
+    "availability": "空き待ち可（現在満車）"
+   },
+   {
+    "name": "竹中祐ガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000030990",
+    "monthly_fee": 8784,
+    "fee_text": "月額使用料 8,784円（税込・保証/管理料込）／うち賃料 8,000円",
+    "address": "京都府京都市伏見区中島宮ノ前町74",
+    "distance_km": 0.47,
+    "walk_min": 6,
+    "availability": "空き待ち可（現在満車）"
+   },
+   {
+    "name": "ガレージたなか",
+    "url": "https://www.park-direct.jp/parkinglot/PK000030943",
+    "monthly_fee": 8784,
+    "fee_text": "月額使用料 8,784円（税込・保証/管理料込）／うち賃料 8,000円",
+    "address": "京都府京都市伏見区竹田内畑町210",
+    "distance_km": 0.49,
+    "walk_min": 6,
+    "availability": "空き待ち可（現在満車）"
+   }
+  ],
+  "monthly_total": 97000,
+  "monthly_total_with_parking": 110200,
+  "score": 37.9,
+  "rank": 23,
+  "route_km": 3.73,
+  "straight_km": 2.98,
+  "parking_cost": 13200,
+  "parking_cost_src": "onsite",
+  "reikin_group": "le1",
+  "near": false,
+  "dropped_because": [
+   "bike 17 min",
+   "total 110,200 > 100k"
+  ]
+ },
+ {
+  "sources": [
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/7c435a2eac13738c0c0aa8b85f1292aa6e767fa8/"
+   }
+  ],
+  "building_name": "レジデンス東山",
+  "address": "京都府京都市東山区鐘鋳町",
+  "lat": 34.993122,
+  "lon": 135.774445,
+  "distance_km": 2.96,
+  "bike_min": 13,
+  "rent": 90000,
+  "kanrihi": 0,
+  "shikikin": "無",
+  "shikikin_months": 0.0,
+  "reikin": "9万円",
+  "reikin_months": 1.0,
+  "other_initial": "保証会社:利用可 保証会社利用料：初回：2.7万円, 住宅保険:要, 更新料:新賃料の1ヶ月分, 取引態様:仲介, 契約期間:2年間",
+  "layout": "2LDK",
+  "area_m2": 45.0,
+  "floor": 2,
+  "building_floors": 3,
+  "elevator": true,
+  "built_year": 1993,
+  "built_month": 3,
+  "age_years": 33,
+  "structure": "RC",
+  "parking": "空有 22,000円(税込)",
+  "parking_status": "onsite",
+  "parking_fee": 22000,
+  "nearest_station": "京阪本線 清水五条駅 徒歩9分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "向き:北, 非オートロック, 非追焚機能, 非ペット相談, 非南向き, ゴミ出し24時間OK, 二人入居可, 即入居可, 温水洗浄便座, 都市ガス, 駐輪場あり, 入居可能:即時, 現況:空家, 総戸数:8戸, 構造:RC(鉄筋コンクリート), 不動産会社:ウインズリンク株式会社 アパマンショップ四条烏丸店, 種別:賃貸マンション, 間取り詳細:2LDK ( 和室 6畳(2階) 洋室 6帖(2階) リビングダイニングキッチン 9帖(2階) ), 同一住戸の他掲載: https://www.homes.co.jp/chintai/room/8cb764c4f2b85fff3e0e88cc1c9554252dcaee47/ https://www.homes.co.jp/chintai/b-1136250323795/, b-URL: https://www.homes.co.jp/chintai/b-1136250323795/",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T00:32:45+09:00",
+  "nearby_parking": [
+   {
+    "name": "大仏駐車場",
+    "url": "https://www.park-direct.jp/parkinglot/PK000010213",
+    "monthly_fee": 6567,
+    "fee_text": "月額使用料 6,567円～21,384円（税込・保証/管理料込）／うち賃料 6,000円～19,800円",
+    "address": "京都府京都市東山区正面通大和大路東入茶屋町527-4",
+    "distance_km": 0.22,
+    "walk_min": 3,
+    "availability": "空き待ち可（現在満車）"
+   },
+   {
+    "name": "京都市東山区清水　月極駐車場",
+    "url": "https://p-king.jp/detail/32903",
+    "monthly_fee": 15000,
+    "fee_text": "15,000円",
+    "address": "京都府京都市東山区清水",
+    "distance_km": 0.57,
+    "walk_min": 7,
+    "availability": "空き状況はお問合せ"
+   },
+   {
+    "name": "京都市東山区鍵屋町 月極駐車場",
+    "url": "https://p-king.jp/detail/626344",
+    "monthly_fee": 16500,
+    "fee_text": "16,500円 ～",
+    "address": "京都府京都市東山区鍵屋町",
+    "distance_km": 0.58,
+    "walk_min": 7,
+    "availability": "空き状況はお問合せ"
+   }
+  ],
+  "monthly_total": 90000,
+  "monthly_total_with_parking": 112000,
+  "score": 34.0,
+  "rank": 24,
+  "route_km": 2.96,
+  "straight_km": 2.12,
+  "parking_cost": 22000,
+  "parking_cost_src": "onsite",
+  "reikin_group": "le1",
+  "near": false,
+  "dropped_because": [
+   "total 112,000 > 100k"
+  ]
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000109802956/"
+   },
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000109815934/"
+   }
+  ],
+  "building_name": "インペリアル明日香",
+  "address": "京都府京都市伏見区竹田桶ノ井町",
+  "lat": 34.955925,
+  "lon": 135.757187,
+  "distance_km": 2.94,
+  "bike_min": 13,
+  "rent": 88000,
+  "kanrihi": 9500,
+  "shikikin": "0円",
+  "shikikin_months": 0.0,
+  "reikin": "150,000円 (1.7ヶ月)",
+  "reikin_months": 1.7,
+  "other_initial": "ほか諸費用: 口座振替手数料330円/月, 損保 3.85万円2年, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 50.27,
+  "floor": 6,
+  "building_floors": 7,
+  "elevator": true,
+  "built_year": 1992,
+  "built_month": 8,
+  "age_years": 34,
+  "structure": "RC",
+  "parking": "敷地内11000円",
+  "parking_status": "onsite",
+  "parking_fee": 11000,
+  "nearest_station": "近鉄京都線/竹田駅 歩3分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "南向き; 建物種別: マンション; 条件: 二人入居可/子供可; 設備: オートロック, 都市ガス, 宅配ボックス, 敷金不要, 二人入居, 駐輪場, バイク置場, 敷地内ごみ置き場; 入居: '26年11月下旬; 総戸数 78戸; 取扱: (株)京都ライフ三条烏丸店; 更新 2026/10/01; 備考: 京阪本線藤森駅徒歩14分/巡回管理/駐車料金：11000円～13200円 更新料：新家賃1ヶ月 更新手数料：無; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T08:36:00+09:00",
+  "nearby_parking": [
+   {
+    "name": "ガレージたなか",
+    "url": "https://www.park-direct.jp/parkinglot/PK000030943",
+    "monthly_fee": 8784,
+    "fee_text": "月額使用料 8,784円（税込・保証/管理料込）／うち賃料 8,000円",
+    "address": "京都府京都市伏見区竹田内畑町210",
+    "distance_km": 0.23,
+    "walk_min": 3,
+    "availability": "空き待ち可（現在満車）"
+   },
+   {
+    "name": "OKYガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000030924",
+    "monthly_fee": 8784,
+    "fee_text": "月額使用料 8,784円～14,131円（税込・保証/管理料込）／うち賃料 8,000円～13,000円",
+    "address": "京都府京都市伏見区竹田七瀬川町57他2筆",
+    "distance_km": 0.35,
+    "walk_min": 4,
+    "availability": "空き待ち可（現在満車）"
+   },
+   {
+    "name": "松本武ガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000030936",
+    "monthly_fee": 8784,
+    "fee_text": "月額使用料 8,784円～9,871円（税込・保証/管理料込）／うち賃料 8,000円～9,000円",
+    "address": "京都府京都市伏見区竹田七瀬川町180",
+    "distance_km": 0.52,
+    "walk_min": 6,
+    "availability": "空き待ち可（現在満車）"
+   }
+  ],
+  "monthly_total": 97500,
+  "monthly_total_with_parking": 108500,
+  "score": 38.0,
+  "rank": 25,
+  "route_km": 2.94,
+  "straight_km": 2.31,
+  "parking_cost": 11000,
+  "parking_cost_src": "onsite",
+  "reikin_group": "le2",
+  "near": false,
+  "dropped_because": [
+   "total 108,500 > 100k"
+  ]
+ },
+ {
+  "sources": [
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/3f99f66ce0e08418cce48b149370e4ffcf6d1a71/"
+   }
+  ],
+  "building_name": "グレース菱屋II",
+  "address": "京都府京都市伏見区深草仙石屋敷町27-17",
+  "lat": 34.952587,
+  "lon": 135.764175,
+  "distance_km": 3.28,
+  "bike_min": 15,
+  "rent": 90000,
+  "kanrihi": 3000,
+  "shikikin": "1ヶ月",
+  "shikikin_months": 1.0,
+  "reikin": "1ヶ月",
+  "reikin_months": 1.0,
+  "other_initial": "保証会社:加入要 保証会社利用料： 初回総賃料50％1年毎1万円, 住宅保険:要, 取引態様:仲介, 契約期間:2年間",
+  "layout": "2LDK",
+  "area_m2": 55.84,
+  "floor": 3,
+  "building_floors": 3,
+  "elevator": false,
+  "built_year": 2000,
+  "built_month": 2,
+  "age_years": 26,
+  "structure": "RC",
+  "parking": "空有 16,500円(税込)",
+  "parking_status": "onsite",
+  "parking_fee": 16500,
+  "nearest_station": "京阪本線 藤森駅 徒歩12分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "向き:-, オートロック, 非追焚機能, 非ペット相談, 非南向き, TVモニタ付インターホン, 二人入居可, 駐輪場あり, 入居可能:相談, 現況:-, 総戸数:11戸, 構造:RC(鉄筋コンクリート), 不動産会社:ハウスコム株式会社 太秦天神川店, 種別:賃貸マンション, 間取り詳細:2LDK ( リビングダイニングキッチン 10.5帖 洋室 8帖 洋室 6帖 ), b-URL: https://www.homes.co.jp/chintai/b-37011690157837/",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T00:32:45+09:00",
+  "nearby_parking": [
+   {
+    "name": "OKYガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000030924",
+    "monthly_fee": 8784,
+    "fee_text": "月額使用料 8,784円～14,131円（税込・保証/管理料込）／うち賃料 8,000円～13,000円",
+    "address": "京都府京都市伏見区竹田七瀬川町57他2筆",
+    "distance_km": 0.41,
+    "walk_min": 5,
+    "availability": "空き待ち可（現在満車）"
+   },
+   {
+    "name": "松本武ガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000030936",
+    "monthly_fee": 8784,
+    "fee_text": "月額使用料 8,784円～9,871円（税込・保証/管理料込）／うち賃料 8,000円～9,000円",
+    "address": "京都府京都市伏見区竹田七瀬川町180",
+    "distance_km": 0.54,
+    "walk_min": 7,
+    "availability": "空き待ち可（現在満車）"
+   },
+   {
+    "name": "七瀬川ガレージ",
+    "url": "https://www.monthly-p.com/detail/25395/",
+    "monthly_fee": 8800,
+    "fee_text": "8,800円",
+    "address": "京都府京都市伏見区深草七瀬川町",
+    "distance_km": 0.28,
+    "walk_min": 4,
+    "availability": "要確認"
+   }
+  ],
+  "monthly_total": 93000,
+  "monthly_total_with_parking": 109500,
+  "score": 36.1,
+  "rank": 26,
+  "route_km": 3.28,
+  "straight_km": 2.58,
+  "parking_cost": 16500,
+  "parking_cost_src": "onsite",
+  "reikin_group": "le1",
+  "near": false,
+  "dropped_because": [
+   "total 109,500 > 100k"
+  ]
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000110098690/"
+   },
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000107966296/"
+   },
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000110113415/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/de66f2b7c35c8d9eab6722e516e732f2e7a2a9c9/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_413877320/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_409033214/"
+   }
+  ],
+  "building_name": "エミネンス善",
+  "address": "京都府京都市伏見区竹田段川原町",
+  "lat": 34.959133,
+  "lon": 135.757156,
+  "distance_km": 2.52,
+  "bike_min": 11,
+  "rent": 90000,
+  "kanrihi": 9500,
+  "shikikin": "0円",
+  "shikikin_months": 0.0,
+  "reikin": "90,000円 (1ヶ月)",
+  "reikin_months": 1.0,
+  "other_initial": "ほか諸費用: 口座振替手数料330円/月, 損保 3.85万円2年, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 56.02,
+  "floor": 3,
+  "building_floors": 6,
+  "elevator": true,
+  "built_year": 1995,
+  "built_month": 3,
+  "age_years": 31,
+  "structure": "RC",
+  "parking": "-",
+  "parking_status": "unknown",
+  "parking_fee": null,
+  "nearest_station": "地下鉄烏丸線/竹田駅 歩2分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "南向き; 建物種別: マンション; 条件: 二人入居可/子供可; 設備: オートロック, 都市ガス, 浴室乾燥, 宅配ボックス, 敷金不要, 二人入居, システムキッチン, 駐輪場, バイク置場, 敷地内ごみ置き場; 入居: '27年1月上旬; 総戸数 37戸; 取扱: (株)京都ライフ長岡店; 更新 2026/10/01; 備考: 京阪本線藤森駅徒歩15分/更新料：新家賃1ヶ月 更新手数料：無; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T08:36:00+09:00",
+  "nearby_parking": [
+   {
+    "name": "ガレージたなか",
+    "url": "https://www.park-direct.jp/parkinglot/PK000030943",
+    "monthly_fee": 8784,
+    "fee_text": "月額使用料 8,784円（税込・保証/管理料込）／うち賃料 8,000円",
+    "address": "京都府京都市伏見区竹田内畑町210",
+    "distance_km": 0.58,
+    "walk_min": 7,
+    "availability": "空き待ち可（現在満車）"
+   },
+   {
+    "name": "月極駐車場",
+    "url": "https://www.monthly-p.com/detail/25600/",
+    "monthly_fee": 9000,
+    "fee_text": "9,000円",
+    "address": "京都府京都市伏見区深草西浦町8丁目",
+    "distance_km": 0.43,
+    "walk_min": 5,
+    "availability": "満車"
+   },
+   {
+    "name": "シャーメゾングレイス付属ガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000031007",
+    "monthly_fee": 9592,
+    "fee_text": "月額使用料 9,592円～11,880円（税込・保証/管理料込）／うち賃料 8,800円～11,000円",
+    "address": "京都府京都市伏見区竹田青池町113",
+    "distance_km": 0.57,
+    "walk_min": 7,
+    "availability": "空き待ち可（現在満車）"
+   }
+  ],
+  "monthly_total": 99500,
+  "monthly_total_with_parking": 108284,
+  "score": 38.3,
+  "rank": 27,
+  "route_km": 2.52,
+  "straight_km": 1.98,
+  "parking_cost": 8784,
+  "parking_cost_src": "lot",
+  "reikin_group": "le1",
+  "near": false,
+  "dropped_because": [
+   "total 108,284 > 100k"
+  ]
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000110164142/"
+   }
+  ],
+  "building_name": "パインフィールド洛南",
+  "address": "京都府京都市南区吉祥院御池町",
+  "lat": 34.975327,
+  "lon": 135.734787,
+  "distance_km": 3.28,
+  "bike_min": 15,
+  "rent": 97000,
+  "kanrihi": 10000,
+  "shikikin": "97,000円 (1ヶ月)",
+  "shikikin_months": 1.0,
+  "reikin": "194,000円 (2ヶ月)",
+  "reikin_months": 2.0,
+  "other_initial": "損保 1.6万円2年, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 52.33,
+  "floor": 9,
+  "building_floors": 10,
+  "elevator": true,
+  "built_year": 2000,
+  "built_month": 11,
+  "age_years": 26,
+  "structure": "RC",
+  "parking": "敷地内14300円",
+  "parking_status": "onsite",
+  "parking_fee": 14300,
+  "nearest_station": "ＪＲ東海道本線/西大路駅 歩10分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "南西向き; 建物種別: マンション; 条件: 二人入居可/子供可; 設備: オートロック, 追焚, 都市ガス, 浴室乾燥, 二人入居, システムキッチン, 駐輪場, バイク置場, 敷地内ごみ置き場; 入居: 相談; 総戸数 59戸; 取扱: アパマンショップ出町柳店ウインズリンク(株); 更新 2026/10/01; 備考: ＪＲ山陰本線梅小路京都西駅徒歩27分/常駐管理/駐車料金：14300円～22000円 更新料：無 更新手数料：14520円; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T08:36:00+09:00",
+  "nearby_parking": [
+   {
+    "name": "平塚ガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000154241",
+    "monthly_fee": 9807,
+    "fee_text": "月額使用料 9,807円（税込・保証/管理料込）／うち賃料 9,000円",
+    "address": "京都府京都市南区吉祥院這登東町7",
+    "distance_km": 0.48,
+    "walk_min": 6,
+    "availability": "空き待ち可（現在満車）"
+   },
+   {
+    "name": "吉祥院里ノ内町パーキング",
+    "url": "https://www.monthly-p.com/detail/25178/",
+    "monthly_fee": 9900,
+    "fee_text": "9,900円",
+    "address": "京都府京都市南区吉祥院里ノ内町9",
+    "distance_km": 0.21,
+    "walk_min": 3,
+    "availability": "要確認"
+   },
+   {
+    "name": "吉祥院這登東町5－1駐車場",
+    "url": "https://www.at-parking.jp/search/kyoto/kyoto-shi_minami-ku/kisshoin-hainoborihigashimachi/353489.html",
+    "monthly_fee": 9900,
+    "fee_text": "9,900円",
+    "address": "京都府京都市南区吉祥院這登東町５－１",
+    "distance_km": 0.46,
+    "walk_min": 6,
+    "availability": "空き状況お問合せ"
+   }
+  ],
+  "monthly_total": 107000,
+  "monthly_total_with_parking": 121300,
+  "score": 37.5,
+  "rank": 30,
+  "route_km": 3.28,
+  "straight_km": 2.72,
+  "parking_cost": 14300,
+  "parking_cost_src": "onsite",
+  "reikin_group": "le2",
+  "near": false,
+  "dropped_because": [
+   "total 121,300 > 100k"
+  ]
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000109357425/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/da9cb8b71595b539fa23975a9c3b3a67b2835dcf/"
+   }
+  ],
+  "building_name": "ＡＢＣＢＬＤＧ．",
+  "address": "京都府京都市伏見区竹田浄菩提院町",
+  "lat": 34.951748,
+  "lon": 135.754166,
+  "distance_km": 3.51,
+  "bike_min": 16,
+  "rent": 78000,
+  "kanrihi": 8000,
+  "shikikin": "0円",
+  "shikikin_months": 0.0,
+  "reikin": "78,000円 (1ヶ月)",
+  "reikin_months": 1.0,
+  "other_initial": "ほか諸費用: 更新料:旧賃料の1ヶ月分/更新時, 損保 要, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 50.43,
+  "floor": 3,
+  "building_floors": 5,
+  "elevator": true,
+  "built_year": 1995,
+  "built_month": 1,
+  "age_years": 31,
+  "structure": "SRC",
+  "parking": "近隣387m8800円",
+  "parking_status": "nearby",
+  "parking_fee": 8800,
+  "nearest_station": "近鉄京都線/竹田駅 歩13分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "北向き; 建物種別: マンション; 条件: 二人入居可/子供可; 設備: 都市ガス, 敷金不要, 二人入居, システムキッチン, 駐輪場, バイク置場; 入居: 即; 総戸数 22戸; 取扱: (株)エリッツ京都駅前店; 更新 2026/10/01; 構造(原文): 鉄骨鉄筋",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T08:36:00+09:00",
+  "nearby_parking": [
+   {
+    "name": "松本武ガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000030936",
+    "monthly_fee": 8784,
+    "fee_text": "月額使用料 8,784円～9,871円（税込・保証/管理料込）／うち賃料 8,000円～9,000円",
+    "address": "京都府京都市伏見区竹田七瀬川町180",
+    "distance_km": 0.39,
+    "walk_min": 5,
+    "availability": "空き待ち可（現在満車）"
+   },
+   {
+    "name": "ガレージたなか",
+    "url": "https://www.park-direct.jp/parkinglot/PK000030943",
+    "monthly_fee": 8784,
+    "fee_text": "月額使用料 8,784円（税込・保証/管理料込）／うち賃料 8,000円",
+    "address": "京都府京都市伏見区竹田内畑町210",
+    "distance_km": 0.4,
+    "walk_min": 5,
+    "availability": "空き待ち可（現在満車）"
+   },
+   {
+    "name": "竹中祐ガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000030990",
+    "monthly_fee": 8784,
+    "fee_text": "月額使用料 8,784円（税込・保証/管理料込）／うち賃料 8,000円",
+    "address": "京都府京都市伏見区中島宮ノ前町74",
+    "distance_km": 0.5,
+    "walk_min": 6,
+    "availability": "空き待ち可（現在満車）"
+   }
+  ],
+  "monthly_total": 86000,
+  "monthly_total_with_parking": 94800,
+  "score": 37.2,
+  "rank": 31,
+  "route_km": 3.51,
+  "straight_km": 2.84,
+  "parking_cost": 8800,
+  "parking_cost_src": "listing_nearby",
+  "reikin_group": "le1",
+  "near": false,
+  "dropped_because": [
+   "bike 16 min"
+  ]
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000108442521/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/5e8e082894cf5ee658bc2945b43b707766a03a18/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_410073068/"
+   }
+  ],
+  "building_name": "グランベール西七条 703号室",
+  "address": "京都府京都市下京区西七条南東野町6",
+  "lat": 34.988838,
+  "lon": 135.736954,
+  "distance_km": 4.23,
+  "bike_min": 19,
+  "rent": 98000,
+  "kanrihi": 8000,
+  "shikikin": "0円",
+  "shikikin_months": 0.0,
+  "reikin": "0円",
+  "reikin_months": 0.0,
+  "other_initial": "保証会社利用必須, ほか諸費用: Ｎサポート（毎月）１２１０円, 損保 要, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 52.16,
+  "floor": 7,
+  "building_floors": 8,
+  "elevator": true,
+  "built_year": 1996,
+  "built_month": 3,
+  "age_years": 30,
+  "structure": "RC",
+  "parking": "-",
+  "parking_status": "unknown",
+  "parking_fee": null,
+  "nearest_station": "ＪＲ山陰本線/梅小路京都西駅 歩10分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "南向き; 建物種別: マンション; 条件: 二人入居可/事務所利用不可; 設備: オートロック, 追焚, 都市ガス, 宅配ボックス, 礼金不要, 保証人不要, 二人入居, システムキッチン, ウォークインクロゼット, 駐輪場; 入居: 即; 総戸数 35戸; 取扱: (株)ハウスメイトショップ京都西院店; 更新 2026/10/01; 備考: 阪急電鉄京都線西京極駅徒歩29分/保証会社利用必須、退去時月割精算 解約予告：２ヶ月 法人契約更新料１ヶ月分要、短期違約金２年未満１ヶ月※駐車場は機械式サイズ制限有り※自転車の駐輪は１台無料・２台目以降３３０円; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T08:36:00+09:00",
+  "nearby_parking": [
+   {
+    "name": "京都市下京区七条御所ノ内北町 月極駐車場",
+    "url": "https://p-king.jp/detail/659901",
+    "monthly_fee": 9900,
+    "fee_text": "9,900円",
+    "address": "京都府京都市下京区七条御所ノ内北町",
+    "distance_km": 0.47,
+    "walk_min": 6,
+    "availability": "空き状況はお問合せ"
+   },
+   {
+    "name": "七条御所ノ内北町パーキング",
+    "url": "https://www.park-direct.jp/parkinglot/PK000114933",
+    "monthly_fee": 10780,
+    "fee_text": "月額使用料 10,780円（税込・保証/管理料込）／うち賃料 9,900円",
+    "address": "京都府京都市下京区七条御所ノ内北町６９",
+    "distance_km": 0.47,
+    "walk_min": 6,
+    "availability": "空き待ち可（現在満車）"
+   },
+   {
+    "name": "京都市下京区梅小路西中町　全日定期駐車場",
+    "url": "https://p-king.jp/detail/247326",
+    "monthly_fee": 11000,
+    "fee_text": "11,000円",
+    "address": "京都府京都市下京区梅小路西中町",
+    "distance_km": 0.54,
+    "walk_min": 7,
+    "availability": "空き状況はお問合せ"
+   }
+  ],
+  "monthly_total": 106000,
+  "monthly_total_with_parking": 115900,
+  "score": 31.4,
+  "rank": 32,
+  "route_km": 4.23,
+  "straight_km": 2.91,
+  "parking_cost": 9900,
+  "parking_cost_src": "lot",
+  "reikin_group": "le1",
+  "near": false,
+  "dropped_because": [
+   "bike 19 min",
+   "total 115,900 > 100k"
+  ]
+ },
+ {
+  "sources": [
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/de2f10b3c7ea2debd7a5261c8932a6bdc9d17d8d/"
+   }
+  ],
+  "building_name": "リーブルショーザン",
+  "address": "京都府京都市伏見区竹田浄菩提院町",
+  "lat": 34.951748,
+  "lon": 135.754166,
+  "distance_km": 3.51,
+  "bike_min": 16,
+  "rent": 80000,
+  "kanrihi": 9000,
+  "shikikin": "無",
+  "shikikin_months": 0.0,
+  "reikin": "1ヶ月",
+  "reikin_months": 1.0,
+  "other_initial": "保証会社:加入要 保証会社利用料：グリーン保証 賃貸保証料 33200円 2年 賃貸保証更新料 33200円 保証人有40％（最低保証料2.2万円）、保証人無80％, 住宅保険:要, 更新料:新賃料の1ヶ月分, その他費用:書類代：13,000円、スマイルパック：25,000円, 取引態様:仲介, 契約期間:2年間",
+  "layout": "2LDK",
+  "area_m2": 50.58,
+  "floor": 2,
+  "building_floors": 6,
+  "elevator": true,
+  "built_year": 1994,
+  "built_month": 6,
+  "age_years": 32,
+  "structure": "RC",
+  "parking": "近隣 (1台) 13,200円 物件からの距離300m",
+  "parking_status": "nearby",
+  "parking_fee": 13200,
+  "nearest_station": "京都市営烏丸線 竹田駅 徒歩7分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "向き:西, オートロック, 非追焚機能, 非ペット相談, 非南向き, 非駐車場, システムキッチン, 二人入居可, 都市ガス, 駐輪場あり, 入居可能:相談, 現況:空家, 総戸数:18戸, 構造:RC(鉄筋コンクリート), 不動産会社:株式会社BRAVE 賃貸住宅サービス伏見店, 種別:賃貸マンション, 間取り詳細:2LDK ( ダイニングキッチン 8.5帖 洋室 6.5帖 和室 6畳 ), b-URL: https://www.homes.co.jp/chintai/b-1455910053349/",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T00:32:45+09:00",
+  "nearby_parking": [
+   {
+    "name": "松本武ガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000030936",
+    "monthly_fee": 8784,
+    "fee_text": "月額使用料 8,784円～9,871円（税込・保証/管理料込）／うち賃料 8,000円～9,000円",
+    "address": "京都府京都市伏見区竹田七瀬川町180",
+    "distance_km": 0.39,
+    "walk_min": 5,
+    "availability": "空き待ち可（現在満車）"
+   },
+   {
+    "name": "ガレージたなか",
+    "url": "https://www.park-direct.jp/parkinglot/PK000030943",
+    "monthly_fee": 8784,
+    "fee_text": "月額使用料 8,784円（税込・保証/管理料込）／うち賃料 8,000円",
+    "address": "京都府京都市伏見区竹田内畑町210",
+    "distance_km": 0.4,
+    "walk_min": 5,
+    "availability": "空き待ち可（現在満車）"
+   },
+   {
+    "name": "竹中祐ガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000030990",
+    "monthly_fee": 8784,
+    "fee_text": "月額使用料 8,784円（税込・保証/管理料込）／うち賃料 8,000円",
+    "address": "京都府京都市伏見区中島宮ノ前町74",
+    "distance_km": 0.5,
+    "walk_min": 6,
+    "availability": "空き待ち可（現在満車）"
+   }
+  ],
+  "monthly_total": 89000,
+  "monthly_total_with_parking": 102200,
+  "score": 32.4,
+  "rank": 33,
+  "route_km": 3.51,
+  "straight_km": 2.84,
+  "parking_cost": 13200,
+  "parking_cost_src": "listing_nearby",
+  "reikin_group": "le1",
+  "near": false,
+  "dropped_because": [
+   "bike 16 min"
+  ]
+ },
+ {
+  "sources": [
+   {
+    "source": "chintai",
+    "url": "https://www.chintai.net/detail/bk-0000007040000000000439820009/"
+   },
+   {
+    "source": "able",
+    "url": "https://www.able.co.jp/detail/Detail.do?bk=000000704043982009&prefkey=kyoto"
+   }
+  ],
+  "building_name": "Ｒｏｓｙ　Ｇａｒｄｅｎ",
+  "address": "京都府京都市東山区大和大路通五条下る二丁目上梅屋町",
+  "lat": 34.99294,
+  "lon": 135.772777,
+  "distance_km": 2.75,
+  "bike_min": 12,
+  "rent": 87000,
+  "kanrihi": 8000,
+  "shikikin": "87,000円 (1.0ヶ月)",
+  "shikikin_months": 1.0,
+  "reikin": "87,000円 (1.0ヶ月)",
+  "reikin_months": 1.0,
+  "other_initial": "その他初期費用: 契約時必須(入居者サポート費用:38,500円) / 契約時必須(清掃代:30,800円) / 契約時必須(エアコン洗浄:27,500円) / 契約時必須(鍵交換代:16,500円); 更新料: 1ヶ月; 保証会社: 保証会社必加入（実費）; 保険: 損害保険加入要。",
+  "layout": "2LDK",
+  "area_m2": 48.87,
+  "floor": 3,
+  "building_floors": 3,
+  "elevator": false,
+  "built_year": 1994,
+  "built_month": 4,
+  "age_years": 32,
+  "structure": "RC",
+  "parking": "有料駐車場 1台 （22,000円/月） / 自転車置き場 ※駐車場の金額表示は1台分の表示となります。",
+  "parking_status": "onsite",
+  "parking_fee": 22000,
+  "nearest_station": "京阪本線・鴨東線/清水五条駅 徒歩9分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "direction: 南 | conditions: 家賃保証会社利用必須 / 子供可 | contract: 一般契約：2年間 | deal_type: 媒介 | move_in: 空予定 (2026年10月下旬) | koshinryo: 1ヶ月 | 設備: バス・トイレ別, TVモニターホン, 室内洗濯機置き場, 駐車場付き, 独立洗面台, ベランダ・バルコニー | 備考: 仲介手数料家賃の55%。 保証会社加入要(初回、月額総支払額の40%)。 | PR: 南向きベランダ。ファミリー様必見。きっと気に入っていただけるはず。 | kind: マンション; updated 2026/09/30; geo: chintai map coords",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T08:39:35+09:00",
+  "nearby_parking": [
+   {
+    "name": "大仏駐車場",
+    "url": "https://www.park-direct.jp/parkinglot/PK000010213",
+    "monthly_fee": 6567,
+    "fee_text": "月額使用料 6,567円～21,384円（税込・保証/管理料込）／うち賃料 6,000円～19,800円",
+    "address": "京都府京都市東山区正面通大和大路東入茶屋町527-4",
+    "distance_km": 0.1,
+    "walk_min": 1,
+    "availability": "空き待ち可（現在満車）"
+   },
+   {
+    "name": "京都市東山区鍵屋町 月極駐車場",
+    "url": "https://p-king.jp/detail/626344",
+    "monthly_fee": 16500,
+    "fee_text": "16,500円 ～",
+    "address": "京都府京都市東山区鍵屋町",
+    "distance_km": 0.43,
+    "walk_min": 5,
+    "availability": "空き状況はお問合せ"
+   },
+   {
+    "name": "イーストアベニュー月極ガレージ",
+    "url": "https://www.at-parking.jp/search/kyoto/kyoto-shi_higashiyama-ku/hommachi/357007.html",
+    "monthly_fee": 16500,
+    "fee_text": "16,500円",
+    "address": "京都府京都市東山区本町六丁目１１－２",
+    "distance_km": 0.53,
+    "walk_min": 7,
+    "availability": "現在満車 空き待ち受付中"
+   }
+  ],
+  "monthly_total": 95000,
+  "monthly_total_with_parking": 117000,
+  "score": 33.9,
+  "rank": 34,
+  "route_km": 2.75,
+  "straight_km": 2.04,
+  "parking_cost": 22000,
+  "parking_cost_src": "onsite",
+  "reikin_group": "le1",
+  "near": false,
+  "dropped_because": [
+   "total 117,000 > 100k"
+  ]
+ },
+ {
+  "sources": [
+   {
+    "source": "chintai",
+    "url": "https://www.chintai.net/detail/bk-0000007050000000000369050001/"
+   },
+   {
+    "source": "able",
+    "url": "https://www.able.co.jp/detail/Detail.do?bk=000000705036905001&prefkey=kyoto"
+   }
+  ],
+  "building_name": "ABC BLDG.",
+  "address": "京都府京都市伏見区竹田浄菩提院町",
+  "lat": 34.951334,
+  "lon": 135.75315,
+  "distance_km": 3.48,
+  "bike_min": 16,
+  "rent": 78000,
+  "kanrihi": 8000,
+  "shikikin": "0円",
+  "shikikin_months": 0.0,
+  "reikin": "78,000円 (1.0ヶ月)",
+  "reikin_months": 1.0,
+  "other_initial": "その他初期費用: 契約時必須(入居者サポート費用:38,500円) / 契約時必須(エアコン洗浄:27,500円); 保証会社: 保証会社必加入（実費）; 保険: 損害保険加入要。",
+  "layout": "2LDK",
+  "area_m2": 48.0,
+  "floor": 3,
+  "building_floors": 5,
+  "elevator": true,
+  "built_year": 1995,
+  "built_month": 1,
+  "age_years": 31,
+  "structure": "RC",
+  "parking": "自転車置き場",
+  "parking_status": "unknown",
+  "parking_fee": null,
+  "nearest_station": "京都市営地下鉄烏丸線/竹田駅 徒歩8分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "direction: 北 | conditions: 家賃保証会社利用必須 / シニア相談可 | contract: 一般契約：2年間 | deal_type: 媒介 | move_in: 即入居 | 設備: バス・トイレ別, TVモニターホン, 室内洗濯機置き場, エアコン, 独立洗面台, ベランダ・バルコニー | 備考: 仲介手数料家賃の55%。 保証会社加入要(初回、月額総支払額の50%)。 | PR: エレベーターあり。洗面化粧台付き。温水洗浄便座付き。システムキッチン。エアコン1基付き。TVモニターホン有。 | kind: マンション; updated 2026/09/29; geo: chintai map coords",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T08:39:35+09:00",
+  "nearby_parking": [
+   {
+    "name": "竹中祐ガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000030990",
+    "monthly_fee": 8784,
+    "fee_text": "月額使用料 8,784円（税込・保証/管理料込）／うち賃料 8,000円",
+    "address": "京都府京都市伏見区中島宮ノ前町74",
+    "distance_km": 0.4,
+    "walk_min": 5,
+    "availability": "空き待ち可（現在満車）"
+   },
+   {
+    "name": "松本武ガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000030936",
+    "monthly_fee": 8784,
+    "fee_text": "月額使用料 8,784円～9,871円（税込・保証/管理料込）／うち賃料 8,000円～9,000円",
+    "address": "京都府京都市伏見区竹田七瀬川町180",
+    "distance_km": 0.48,
+    "walk_min": 6,
+    "availability": "空き待ち可（現在満車）"
+   },
+   {
+    "name": "ガレージたなか",
+    "url": "https://www.park-direct.jp/parkinglot/PK000030943",
+    "monthly_fee": 8784,
+    "fee_text": "月額使用料 8,784円（税込・保証/管理料込）／うち賃料 8,000円",
+    "address": "京都府京都市伏見区竹田内畑町210",
+    "distance_km": 0.5,
+    "walk_min": 6,
+    "availability": "空き待ち可（現在満車）"
+   }
+  ],
+  "monthly_total": 86000,
+  "monthly_total_with_parking": 94784,
+  "score": 35.4,
+  "rank": 35,
+  "route_km": 3.48,
+  "straight_km": 2.92,
+  "parking_cost": 8784,
+  "parking_cost_src": "lot",
+  "reikin_group": "le1",
+  "near": false,
+  "dropped_because": [
+   "bike 16 min"
+  ]
+ },
+ {
+  "sources": [
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_411957096/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_411957036/"
+   }
+  ],
+  "building_name": "カサ・デ・高ノ手",
+  "address": "京都府京都市南区",
+  "lat": 34.97665,
+  "lon": 135.746429,
+  "distance_km": 2.68,
+  "bike_min": 13,
+  "rent": 86000,
+  "kanrihi": 10000,
+  "shikikin": "5万円(-)",
+  "shikikin_months": 0.58,
+  "reikin": "10万円",
+  "reikin_months": 1.16,
+  "other_initial": "仲介手数料: 詳細は不動産会社にご確認ください; 保証会社: 詳細は不動産会社にご確認ください; 契約期間: 2年",
+  "layout": "2LDK",
+  "area_m2": 56.7,
+  "floor": 3,
+  "building_floors": 7,
+  "elevator": true,
+  "built_year": 1995,
+  "built_month": 3,
+  "age_years": 31,
+  "structure": "RC",
+  "parking": "なし",
+  "parking_status": "none",
+  "parking_fee": null,
+  "nearest_station": "東海道線 桂川駅 徒歩5分 阪急京都線 洛西口駅 徒歩15分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "バス・トイレ: バス・トイレ別、シャワー、給湯、シャンプードレッサー、独立洗面台 / 冷暖房: エアコン / インターネット・TV: BSアンテナ / 室内設備: 都市ガス、室内洗濯機置場、フローリング、バルコニー  / 共用部: エレベーター  / セキュリティ: オートロック、防犯カメラ / 駐車場・駐輪場: 駐輪場あり 駐輪場について聞く / その他: 南向き、２階以上",
+  "coarse_address": true,
+  "fetched_at": "2026-10-02T01:09:35+09:00",
+  "nearby_parking": [
+   {
+    "name": "京都市南区西九条豊田町 月極駐車場",
+    "url": "https://p-king.jp/detail/661215",
+    "monthly_fee": 7700,
+    "fee_text": "7,700円",
+    "address": "京都府京都市南区西九条豊田町",
+    "distance_km": 0.23,
+    "walk_min": 3,
+    "availability": "空き状況はお問合せ"
+   },
+   {
+    "name": "豊田町ガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000010208",
+    "monthly_fee": 8404,
+    "fee_text": "月額使用料 8,404円～13,068円（税込・保証/管理料込）／うち賃料 7,700円～12,100円",
+    "address": "京都府京都市南区西九条豊田町29-3",
+    "distance_km": 0.23,
+    "walk_min": 3,
+    "availability": "契約可（空きあり）"
+   },
+   {
+    "name": "３１０９９３　アスヴェル京都東寺前",
+    "url": "https://www.athome.co.jp/rent_parking/1013349495/",
+    "monthly_fee": 8800,
+    "fee_text": "0.88万円",
+    "address": "京都府京都市南区西九条大国町",
+    "distance_km": 0.2,
+    "walk_min": 2,
+    "availability": "掲載中（空き状況は要問合せ）"
+   }
+  ],
+  "monthly_total": 96000,
+  "monthly_total_with_parking": 103700,
+  "score": 39.0,
+  "rank": 36,
+  "route_km": 2.68,
+  "straight_km": 1.66,
+  "parking_cost": 7700,
+  "parking_cost_src": "lot",
+  "reikin_group": "le2",
+  "near": false,
+  "dropped_because": [
+   "address only gives the ward"
+  ]
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000107352164/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/e5da0812742b08bef42ae59e0d62648ef2de5cb6/"
+   },
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_407346024/"
+   }
+  ],
+  "building_name": "グレース菱屋II",
+  "address": "京都府京都市伏見区深草仙石屋敷町",
+  "lat": 34.952648,
+  "lon": 135.765244,
+  "distance_km": 3.39,
+  "bike_min": 15,
+  "rent": 90000,
+  "kanrihi": 3000,
+  "shikikin": "90,000円 (1ヶ月)",
+  "shikikin_months": 1.0,
+  "reikin": "90,000円 (1ヶ月)",
+  "reikin_months": 1.0,
+  "other_initial": "損保 2万円2年, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 48.61,
+  "floor": 3,
+  "building_floors": 3,
+  "elevator": false,
+  "built_year": 2000,
+  "built_month": 2,
+  "age_years": 26,
+  "structure": "RC",
+  "parking": "敷地内16500円",
+  "parking_status": "onsite",
+  "parking_fee": 16500,
+  "nearest_station": "京阪本線/墨染駅 歩13分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "西向き; 建物種別: マンション; 条件: 二人入居可/子供可; 設備: オートロック, 都市ガス, 最上階, 二人入居, 駐輪場, 敷地内ごみ置き場; 入居: 即; 総戸数 11戸; 取扱: (株)京都ライフ二条駅前店; 更新 2026/10/01; 備考: 地下鉄烏丸線竹田駅徒歩15分/更新料：無; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T08:36:00+09:00",
+  "nearby_parking": [
+   {
+    "name": "OKYガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000030924",
+    "monthly_fee": 8784,
+    "fee_text": "月額使用料 8,784円～14,131円（税込・保証/管理料込）／うち賃料 8,000円～13,000円",
+    "address": "京都府京都市伏見区竹田七瀬川町57他2筆",
+    "distance_km": 0.5,
+    "walk_min": 6,
+    "availability": "空き待ち可（現在満車）"
+   },
+   {
+    "name": "七瀬川ガレージ",
+    "url": "https://www.monthly-p.com/detail/25395/",
+    "monthly_fee": 8800,
+    "fee_text": "8,800円",
+    "address": "京都府京都市伏見区深草七瀬川町",
+    "distance_km": 0.18,
+    "walk_min": 2,
+    "availability": "要確認"
+   },
+   {
+    "name": "小久保ガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000030928",
+    "monthly_fee": 10414,
+    "fee_text": "月額使用料 10,414円（税込・保証/管理料込）／うち賃料 9,500円",
+    "address": "京都府京都市伏見区深草小久保町316",
+    "distance_km": 0.41,
+    "walk_min": 5,
+    "availability": "契約可（空きあり）"
+   }
+  ],
+  "monthly_total": 93000,
+  "monthly_total_with_parking": 109500,
+  "score": 30.7,
+  "rank": 40,
+  "route_km": 3.39,
+  "straight_km": 2.58,
+  "parking_cost": 16500,
+  "parking_cost_src": "onsite",
+  "reikin_group": "le1",
+  "near": false,
+  "dropped_because": [
+   "total 109,500 > 100k"
+  ]
+ },
+ {
+  "sources": [
+   {
+    "source": "suumo",
+    "url": "https://suumo.jp/chintai/jnc_000109374251/"
+   },
+   {
+    "source": "homes",
+    "url": "https://www.homes.co.jp/chintai/room/8b37b38341ef19ba7596643ab887bded167457e2/"
+   }
+  ],
+  "building_name": "ＡＢＣ　ＢＬＤＧ．",
+  "address": "京都府京都市伏見区竹田浄菩提院町",
+  "lat": 34.951748,
+  "lon": 135.754166,
+  "distance_km": 3.51,
+  "bike_min": 16,
+  "rent": 78000,
+  "kanrihi": 8000,
+  "shikikin": "0円",
+  "shikikin_months": 0.0,
+  "reikin": "78,000円 (1ヶ月)",
+  "reikin_months": 1.0,
+  "other_initial": "ほか諸費用: ハウスクリーニング代3.3万円/退去時, 損保 3.85万円2年, 取引態様：仲介",
+  "layout": "2LDK",
+  "area_m2": 45.13,
+  "floor": 3,
+  "building_floors": 5,
+  "elevator": true,
+  "built_year": 1995,
+  "built_month": 1,
+  "age_years": 31,
+  "structure": "RC",
+  "parking": "-",
+  "parking_status": "unknown",
+  "parking_fee": null,
+  "nearest_station": "近鉄京都線/竹田駅 歩9分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "北向き; 建物種別: マンション; 条件: 二人入居可/子供可; 設備: 都市ガス, 敷金不要, 二人入居, システムキッチン, 駐輪場, バイク置場; 入居: 即; 総戸数 17戸; 取扱: (株)京都ライフ二条駅前店; 更新 2026/10/01; 備考: 京阪本線墨染駅徒歩23分/更新料：新家賃1ヶ月 更新手数料：無; 構造(原文): 鉄筋コン",
+  "coarse_address": false,
+  "fetched_at": "2026-10-02T08:36:00+09:00",
+  "nearby_parking": [
+   {
+    "name": "松本武ガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000030936",
+    "monthly_fee": 8784,
+    "fee_text": "月額使用料 8,784円～9,871円（税込・保証/管理料込）／うち賃料 8,000円～9,000円",
+    "address": "京都府京都市伏見区竹田七瀬川町180",
+    "distance_km": 0.39,
+    "walk_min": 5,
+    "availability": "空き待ち可（現在満車）"
+   },
+   {
+    "name": "ガレージたなか",
+    "url": "https://www.park-direct.jp/parkinglot/PK000030943",
+    "monthly_fee": 8784,
+    "fee_text": "月額使用料 8,784円（税込・保証/管理料込）／うち賃料 8,000円",
+    "address": "京都府京都市伏見区竹田内畑町210",
+    "distance_km": 0.4,
+    "walk_min": 5,
+    "availability": "空き待ち可（現在満車）"
+   },
+   {
+    "name": "竹中祐ガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000030990",
+    "monthly_fee": 8784,
+    "fee_text": "月額使用料 8,784円（税込・保証/管理料込）／うち賃料 8,000円",
+    "address": "京都府京都市伏見区中島宮ノ前町74",
+    "distance_km": 0.5,
+    "walk_min": 6,
+    "availability": "空き待ち可（現在満車）"
+   }
+  ],
+  "monthly_total": 86000,
+  "monthly_total_with_parking": 94784,
+  "score": 33.2,
+  "rank": 41,
+  "route_km": 3.51,
+  "straight_km": 2.84,
+  "parking_cost": 8784,
+  "parking_cost_src": "lot",
+  "reikin_group": "le1",
+  "near": false,
+  "dropped_because": [
+   "bike 16 min"
+  ]
+ },
+ {
+  "sources": [
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_411957052/"
+   }
+  ],
+  "building_name": "カサ・デ・高ノ手",
+  "address": "京都府京都市南区",
+  "lat": 34.97665,
+  "lon": 135.746429,
+  "distance_km": 2.68,
+  "bike_min": 13,
+  "rent": 100000,
+  "kanrihi": 0,
+  "shikikin": "5万円(-)",
+  "shikikin_months": 0.5,
+  "reikin": "10万円",
+  "reikin_months": 1.0,
+  "other_initial": "仲介手数料: 詳細は不動産会社にご確認ください; 保証会社: 詳細は不動産会社にご確認ください; 契約期間: 2年",
+  "layout": "2LDK",
+  "area_m2": 56.7,
+  "floor": 5,
+  "building_floors": 7,
+  "elevator": true,
+  "built_year": 1995,
+  "built_month": 3,
+  "age_years": 31,
+  "structure": "RC",
+  "parking": "なし",
+  "parking_status": "none",
+  "parking_fee": null,
+  "nearest_station": "東海道線 桂川駅 徒歩5分 阪急京都線 洛西口駅 徒歩15分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "バス・トイレ: バス・トイレ別、シャワー、給湯、シャンプードレッサー、独立洗面台 / 冷暖房: エアコン / インターネット・TV: BSアンテナ / 室内設備: 都市ガス、室内洗濯機置場、フローリング、バルコニー  / 共用部: エレベーター  / セキュリティ: オートロック、防犯カメラ / 駐車場・駐輪場: 駐輪場あり 駐輪場について聞く / その他: 南向き、２階以上",
+  "coarse_address": true,
+  "fetched_at": "2026-10-02T01:09:35+09:00",
+  "nearby_parking": [
+   {
+    "name": "京都市南区西九条豊田町 月極駐車場",
+    "url": "https://p-king.jp/detail/661215",
+    "monthly_fee": 7700,
+    "fee_text": "7,700円",
+    "address": "京都府京都市南区西九条豊田町",
+    "distance_km": 0.23,
+    "walk_min": 3,
+    "availability": "空き状況はお問合せ"
+   },
+   {
+    "name": "豊田町ガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000010208",
+    "monthly_fee": 8404,
+    "fee_text": "月額使用料 8,404円～13,068円（税込・保証/管理料込）／うち賃料 7,700円～12,100円",
+    "address": "京都府京都市南区西九条豊田町29-3",
+    "distance_km": 0.23,
+    "walk_min": 3,
+    "availability": "契約可（空きあり）"
+   },
+   {
+    "name": "３１０９９３　アスヴェル京都東寺前",
+    "url": "https://www.athome.co.jp/rent_parking/1013349495/",
+    "monthly_fee": 8800,
+    "fee_text": "0.88万円",
+    "address": "京都府京都市南区西九条大国町",
+    "distance_km": 0.2,
+    "walk_min": 2,
+    "availability": "掲載中（空き状況は要問合せ）"
+   }
+  ],
+  "monthly_total": 100000,
+  "monthly_total_with_parking": 107700,
+  "score": 36.8,
+  "rank": 42,
+  "route_km": 2.68,
+  "straight_km": 1.66,
+  "parking_cost": 7700,
+  "parking_cost_src": "lot",
+  "reikin_group": "le1",
+  "near": false,
+  "dropped_because": [
+   "address only gives the ward",
+   "total 107,700 > 100k"
+  ]
+ },
+ {
+  "sources": [
+   {
+    "source": "sumaity",
+    "url": "https://sumaity.com/chintai/kyoto_prop/prop_411957196/"
+   }
+  ],
+  "building_name": "カサ・デ・高ノ手",
+  "address": "京都府京都市南区",
+  "lat": 34.97665,
+  "lon": 135.746429,
+  "distance_km": 2.68,
+  "bike_min": 13,
+  "rent": 100000,
+  "kanrihi": 0,
+  "shikikin": "5万円(-)",
+  "shikikin_months": 0.5,
+  "reikin": "10万円",
+  "reikin_months": 1.0,
+  "other_initial": "仲介手数料: 詳細は不動産会社にご確認ください; 保証会社: 詳細は不動産会社にご確認ください; 契約期間: 2年",
+  "layout": "2LDK",
+  "area_m2": 56.7,
+  "floor": 4,
+  "building_floors": 7,
+  "elevator": true,
+  "built_year": 1995,
+  "built_month": 3,
+  "age_years": 31,
+  "structure": "RC",
+  "parking": "なし",
+  "parking_status": "none",
+  "parking_fee": null,
+  "nearest_station": "東海道線 桂川駅 徒歩5分 阪急京都線 洛西口駅 徒歩15分",
+  "tier": "B",
+  "is_ur": false,
+  "is_house": false,
+  "insulation_grade": "C",
+  "insulation_note": "معيار 1992؛ RC يحفظ الحرارة لكن النوافذ غالباً زجاج مفرد — تحقق من ساشي/زجاج مزدوج",
+  "notes": "バス・トイレ: バス・トイレ別、シャワー、給湯、シャンプードレッサー、独立洗面台 / 冷暖房: エアコン / インターネット・TV: BSアンテナ / 室内設備: 都市ガス、室内洗濯機置場、フローリング、バルコニー  / 共用部: エレベーター  / セキュリティ: オートロック、防犯カメラ / 駐車場・駐輪場: 駐輪場あり 駐輪場について聞く / その他: 南向き、２階以上",
+  "coarse_address": true,
+  "fetched_at": "2026-10-02T01:09:35+09:00",
+  "nearby_parking": [
+   {
+    "name": "京都市南区西九条豊田町 月極駐車場",
+    "url": "https://p-king.jp/detail/661215",
+    "monthly_fee": 7700,
+    "fee_text": "7,700円",
+    "address": "京都府京都市南区西九条豊田町",
+    "distance_km": 0.23,
+    "walk_min": 3,
+    "availability": "空き状況はお問合せ"
+   },
+   {
+    "name": "豊田町ガレージ",
+    "url": "https://www.park-direct.jp/parkinglot/PK000010208",
+    "monthly_fee": 8404,
+    "fee_text": "月額使用料 8,404円～13,068円（税込・保証/管理料込）／うち賃料 7,700円～12,100円",
+    "address": "京都府京都市南区西九条豊田町29-3",
+    "distance_km": 0.23,
+    "walk_min": 3,
+    "availability": "契約可（空きあり）"
+   },
+   {
+    "name": "３１０９９３　アスヴェル京都東寺前",
+    "url": "https://www.athome.co.jp/rent_parking/1013349495/",
+    "monthly_fee": 8800,
+    "fee_text": "0.88万円",
+    "address": "京都府京都市南区西九条大国町",
+    "distance_km": 0.2,
+    "walk_min": 2,
+    "availability": "掲載中（空き状況は要問合せ）"
+   }
+  ],
+  "monthly_total": 100000,
+  "monthly_total_with_parking": 107700,
+  "score": 36.8,
+  "rank": 43,
+  "route_km": 2.68,
+  "straight_km": 1.66,
+  "parking_cost": 7700,
+  "parking_cost_src": "lot",
+  "reikin_group": "le1",
+  "near": false,
+  "dropped_because": [
+   "address only gives the ward",
+   "total 107,700 > 100k"
+  ]
+ }
+]
