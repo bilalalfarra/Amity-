@@ -1,0 +1,3 @@
+checked 501 bad 2
+('out', '62', 'Ｄｅ’ｌｅａｄ今出川通', '404', '賃貸物件(賃貸マンション・アパート・一戸建て)の住宅情報・お部屋探しならYaho', 'https://realestate.yahoo.co.jp/rent/detail/0000024357804d94637a0092c5f575e15bd6816dcc7c/')
+('out', '126', '京都グランドハイツ', '502', '502 Bad Gateway', 'https://www.kyoto-life.co.jp/app/search.php?__mode=room&room_code=260000633818')
